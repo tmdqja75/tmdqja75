@@ -7,7 +7,6 @@
 :kissing_smiling_eyes: I am interested in AI development and Data Science. I am currently 
 learning Python, Java, and HTML.<br/>
 
-:pencil: Sometimes I write articles on [Medium](https.medium.com/)<br/>
 
 ## :postbox: How to reach me
 
