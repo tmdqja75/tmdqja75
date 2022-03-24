@@ -38,4 +38,4 @@ Data Science<br/>
 
 <!-- status bar -->
   <img src="https://github-readme-stats.vercel.app/api?username=tmdqja75&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdqja75&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdqja75&layout=compact&theme=vue&hide_border=true&exclude_repo=ProjectTeamG04,panda_simulator,panda_robot" />
