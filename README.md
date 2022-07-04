@@ -1,13 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Seungbeom(하승범)&desc=AI%20Newbie&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seungbeom(하승범)&desc=AI%20Newbie&fontSize=70&fontAlignY=30&animation=fadeIn&descAlignY=60)
 
 ## About Me
 
 :kissing_smiling_eyes: I am interested in AI development and Data Science. I am currently 
 learning Python, Java, and HTML.<br/>
-
-
-## :postbox: How to reach me
 
 ## Interest
 
@@ -18,14 +15,18 @@ Data Science<br/>
 ## Latest Projects
 
 ## Languages and Tools
+
 ### AI Related
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
 </p>
 <br/>
+
 ### Web Dev Related
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50"/>
