@@ -1,6 +1,5 @@
-### Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Seungbeom!, I am a beginner in AI Research from South Korea
-### I am proficient in Python and Java
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Seungbeom(하승범)&desc=AI%20Newbie&fontSize=70&animation=fadeIn)
 
 ## About Me
 
@@ -19,13 +18,16 @@ Data Science<br/>
 ## Latest Projects
 
 ## Languages and Tools
+### AI Related
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+
 </p>
 
 ## Connect with me
