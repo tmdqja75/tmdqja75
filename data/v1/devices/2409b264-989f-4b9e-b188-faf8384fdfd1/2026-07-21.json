@@ -1,0 +1,51 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 2,
+      "source_status": "available_with_zero_activity"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "hermes_agent": {
+      "headline_total": 3084647,
+      "input_tokens": 2737630,
+      "output_tokens": 238078,
+      "reasoning_tokens": 108939,
+      "session_count": 19,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "3c49496c3a71029aaba9ba48faa62a99f65cf8000401a64327b09c065c7d988b",
+  "date": "2026-07-21",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {
+    "ouroboros": 2
+  },
+  "mcp_tools": {
+    "ouroboros/ouroboros_qa": 2
+  },
+  "schema_version": 1,
+  "skills": {
+    "autonomous-coding-agents": 1,
+    "backend-api-contracts": 2,
+    "brainstorming": 11,
+    "docker-compose-service-maintenance": 4,
+    "frontend-api-ui-integration": 2,
+    "github-workflows": 2,
+    "graphify": 10,
+    "quality-assurance-review-workflows": 7,
+    "software-development-lifecycle": 19,
+    "subagent-driven-development": 3,
+    "writing-plans": 2
+  }
+}

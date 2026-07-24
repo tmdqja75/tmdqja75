@@ -1,0 +1,40 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 37130,
+      "input_tokens": 176,
+      "output_tokens": 36954,
+      "reasoning_tokens": 0,
+      "session_count": 5,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "hermes_agent": {
+      "headline_total": 168650,
+      "input_tokens": 164468,
+      "output_tokens": 3291,
+      "reasoning_tokens": 891,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "2f478857c7fc3878b2f19c95f8e7b0181ad5c72516ac66546847391a58debbbc",
+  "date": "2026-07-22",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "schema_version": 1,
+  "skills": {
+    "autonomous-coding-agents": 1,
+    "brainstorming": 1,
+    "graphify": 1,
+    "software-development-lifecycle": 1
+  }
+}
