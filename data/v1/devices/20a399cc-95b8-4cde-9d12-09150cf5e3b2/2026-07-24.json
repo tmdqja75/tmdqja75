@@ -1,0 +1,42 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 250306,
+      "input_tokens": 614,
+      "output_tokens": 249692,
+      "reasoning_tokens": 0,
+      "session_count": 7,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "headline_total": 125082,
+      "input_tokens": 121759,
+      "output_tokens": 2593,
+      "reasoning_tokens": 730,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "700dfc1e08462f64ca422f3793df68c14cec328c65e0bc3c4791ce5426c63ab7",
+  "date": "2026-07-24",
+  "device_id": "20a399cc-95b8-4cde-9d12-09150cf5e3b2",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "schema_version": 1,
+  "skills": {
+    "hermes-agent": 1,
+    "superpowers:brainstorming": 2,
+    "superpowers:executing-plans": 1,
+    "superpowers:requesting-code-review": 1,
+    "superpowers:subagent-driven-development": 1,
+    "superpowers:writing-plans": 1
+  }
+}
