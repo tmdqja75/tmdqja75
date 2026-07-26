@@ -1,0 +1,48 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 70256,
+      "input_tokens": 181,
+      "output_tokens": 70075,
+      "reasoning_tokens": 0,
+      "session_count": 7,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "hermes_agent": {
+      "headline_total": 843368,
+      "input_tokens": 757104,
+      "output_tokens": 67863,
+      "reasoning_tokens": 18401,
+      "session_count": 7,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "b83e078aa552199fbaefd6570fb1b50b70af632ce7f5b980bca3a1592183a2ee",
+  "date": "2026-06-26",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "headroom": 2
+  },
+  "mcp_tools": {
+    "headroom/headroom_retrieve": 2
+  },
+  "schema_version": 1,
+  "skills": {
+    "(hidden)": 2,
+    "arxiv": 1,
+    "media-content-production": 2,
+    "notion-cli": 1,
+    "research-knowledge-workflows": 2,
+    "superpowers:brainstorming": 1,
+    "using-superpowers": 1,
+    "verification-before-completion": 1
+  }
+}

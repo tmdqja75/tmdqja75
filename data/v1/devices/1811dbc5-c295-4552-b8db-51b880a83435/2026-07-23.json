@@ -1,0 +1,47 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 620960,
+      "input_tokens": 21129,
+      "output_tokens": 599831,
+      "reasoning_tokens": 0,
+      "session_count": 17,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "hermes_agent": {
+      "headline_total": 1043428,
+      "input_tokens": 951997,
+      "output_tokens": 62812,
+      "reasoning_tokens": 28619,
+      "session_count": 11,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "ea1c931247ac2cd6dd9e96047d42da82ea116eab9aaad3e36bac36793205dc2b",
+  "date": "2026-07-23",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "schema_version": 1,
+  "skills": {
+    "agent-browser": 1,
+    "dev-browser:dev-browser": 1,
+    "github-workflows": 1,
+    "hermes-agent": 4,
+    "software-development-lifecycle": 2,
+    "superpowers:brainstorming": 2,
+    "superpowers:executing-plans": 3,
+    "superpowers:finishing-a-development-branch": 3,
+    "superpowers:systematic-debugging": 1,
+    "superpowers:writing-plans": 2,
+    "using-superpowers": 1
+  }
+}

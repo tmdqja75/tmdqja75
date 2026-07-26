@@ -1,0 +1,42 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "hermes_agent": {
+      "headline_total": 167263,
+      "input_tokens": 152247,
+      "output_tokens": 12445,
+      "reasoning_tokens": 2571,
+      "session_count": 7,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "1d906b22bc21a7c1d3d0249324d26ad408b1afa0c7113e49245f784730bf7731",
+  "date": "2026-05-29",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "schema_version": 1,
+  "skills": {
+    "github-pr-workflow": 1,
+    "kanban-orchestrator": 3,
+    "llm-wiki": 2,
+    "obsidian": 2,
+    "ocr-and-documents": 1,
+    "systematic-debugging": 1
+  }
+}

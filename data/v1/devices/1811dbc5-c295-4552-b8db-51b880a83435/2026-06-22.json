@@ -1,0 +1,44 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 327053,
+      "input_tokens": 1086,
+      "output_tokens": 325967,
+      "reasoning_tokens": 0,
+      "session_count": 5,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "headline_total": 3996675,
+      "input_tokens": 3946414,
+      "output_tokens": 31672,
+      "reasoning_tokens": 18589,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    }
+  },
+  "checksum": "3b95c8409919b3afe0c6ee4bae74ca96c2454764c74f5a45688dcb7977065409",
+  "date": "2026-06-22",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "headroom": 6
+  },
+  "mcp_tools": {
+    "headroom/headroom_retrieve": 6
+  },
+  "schema_version": 1,
+  "skills": {
+    "notion-cli": 1,
+    "superpowers:executing-plans": 1,
+    "superpowers:finishing-a-development-branch": 1,
+    "superpowers:writing-plans": 1
+  }
+}

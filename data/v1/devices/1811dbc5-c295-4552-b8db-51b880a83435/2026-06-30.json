@@ -1,0 +1,44 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 63255,
+      "input_tokens": 293,
+      "output_tokens": 62962,
+      "reasoning_tokens": 0,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "hermes_agent": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    }
+  },
+  "checksum": "8a382f34d7394e09b4ba17057466c1e0e2521913804668d5934535e6fb78e4bf",
+  "date": "2026-06-30",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "claude_ai_Google_Drive": 5,
+    "claude_ai_Notion": 1
+  },
+  "mcp_tools": {
+    "claude_ai_Google_Drive/search_files": 5,
+    "claude_ai_Notion/notion-search": 1
+  },
+  "schema_version": 1,
+  "skills": {
+    "superpowers:subagent-driven-development": 1,
+    "superpowers:writing-plans": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "hermes_agent": {
+      "headline_total": 644055,
+      "input_tokens": 579425,
+      "output_tokens": 44230,
+      "reasoning_tokens": 20400,
+      "session_count": 11,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "069e10bdcbaf69b1abf29c660781f1360e4ecb3bb1aa9c149d647be93cf52241",
+  "date": "2026-06-08",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "schema_version": 1,
+  "skills": {
+    "(hidden)": 2,
+    "interview": 1,
+    "langgraph-fundamentals": 1,
+    "software-development-lifecycle": 6,
+    "writing-plans": 1
+  }
+}

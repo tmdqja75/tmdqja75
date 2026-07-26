@@ -1,0 +1,56 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 646506,
+      "input_tokens": 2420,
+      "output_tokens": 644086,
+      "reasoning_tokens": 0,
+      "session_count": 18,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "headline_total": 690825,
+      "input_tokens": 617814,
+      "output_tokens": 61880,
+      "reasoning_tokens": 11131,
+      "session_count": 10,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "bdd7963c5c220f522efa8313ff8afed90c4f268d8b42d13c7d271146aa083b99",
+  "date": "2026-07-24",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "visualize": 5
+  },
+  "mcp_tools": {
+    "visualize/read_me": 2,
+    "visualize/show_widget": 3
+  },
+  "schema_version": 1,
+  "skills": {
+    "agent-browser": 1,
+    "apple-macos-automation": 2,
+    "hermes-agent": 3,
+    "hermes-external-skills": 1,
+    "kakaotalk-mac": 2,
+    "korean-law-search": 1,
+    "macos-app-storage-management": 1,
+    "research-knowledge-workflows": 1,
+    "superpowers:brainstorming": 3,
+    "superpowers:executing-plans": 3,
+    "superpowers:finishing-a-development-branch": 2,
+    "superpowers:requesting-code-review": 1,
+    "superpowers:subagent-driven-development": 1,
+    "superpowers:writing-plans": 2,
+    "verification-before-completion": 2
+  }
+}

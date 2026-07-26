@@ -1,0 +1,46 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 209119,
+      "input_tokens": 120468,
+      "output_tokens": 88651,
+      "reasoning_tokens": 0,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "hermes_agent": {
+      "headline_total": 508114,
+      "input_tokens": 488837,
+      "output_tokens": 14402,
+      "reasoning_tokens": 4875,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "d665b399a8e88e2d833d5a29f1c51fb8d38ba9f9ac2940f7fe13787a887a8b65",
+  "date": "2026-07-01",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "headroom": 2
+  },
+  "mcp_tools": {
+    "headroom/headroom_retrieve": 2
+  },
+  "schema_version": 1,
+  "skills": {
+    "(hidden)": 2,
+    "bems-action-report-design": 2,
+    "brainstorming": 1,
+    "superpowers:finishing-a-development-branch": 1,
+    "superpowers:subagent-driven-development": 1,
+    "superpowers:writing-plans": 1
+  }
+}

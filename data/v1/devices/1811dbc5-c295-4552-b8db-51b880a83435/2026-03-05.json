@@ -1,0 +1,42 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "codex": {
+      "headline_total": 1410606,
+      "input_tokens": 1379353,
+      "output_tokens": 24649,
+      "reasoning_tokens": 6604,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    }
+  },
+  "checksum": "50fc11707d7d4767c974fe2c0c4ba7536a8db9f8674f7935a87a7a9dfc403198",
+  "date": "2026-03-05",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "notion": 8
+  },
+  "mcp_tools": {
+    "notion/notion-create-pages": 2,
+    "notion/notion-fetch": 3,
+    "notion/notion-get-teams": 1,
+    "notion/notion-search": 2
+  },
+  "schema_version": 1,
+  "skills": {}
+}

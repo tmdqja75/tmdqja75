@@ -1,0 +1,44 @@
+{
+  "agents": {
+    "claude_code": {
+      "headline_total": 252601,
+      "input_tokens": 414,
+      "output_tokens": 252187,
+      "reasoning_tokens": 0,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "hermes_agent": {
+      "headline_total": 422854,
+      "input_tokens": 380682,
+      "output_tokens": 33613,
+      "reasoning_tokens": 8559,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "000740ed9a447e1c04e2b7697d0df0216748366f80d1b9fc8050ae9ff3add76f",
+  "date": "2026-06-18",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "schema_version": 1,
+  "skills": {
+    "(hidden)": 4,
+    "arxiv": 2,
+    "research-knowledge-workflows": 2,
+    "superpowers:finishing-a-development-branch": 1,
+    "superpowers:subagent-driven-development": 1,
+    "superpowers:writing-plans": 1,
+    "using-superpowers": 1,
+    "verification-before-completion": 1
+  }
+}
