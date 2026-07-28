@@ -17,31 +17,37 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "headline_total": 1054289,
-      "input_tokens": 897426,
-      "output_tokens": 124318,
-      "reasoning_tokens": 32545,
-      "session_count": 4,
+      "headline_total": 1321033,
+      "input_tokens": 1137836,
+      "output_tokens": 144216,
+      "reasoning_tokens": 38981,
+      "session_count": 6,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "b7e664ff383a32bf8364000fd9c59411a51f867ba8ceef5cab9470f372790643",
+  "checksum": "3d86b8d710d11813184f445be6aa1f1aaf59b37a51d9e71074cb0deec6b4cfd1",
   "date": "2026-07-28",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "schema_version": 1,
   "skills": {
-    "bems-dspy-experiment-harness": 7,
-    "brainstorming": 1,
+    "agent-browser": 1,
+    "bems-dspy-experiment-harness": 8,
+    "brainstorming": 2,
     "coding-agent-delegation": 6,
+    "daangn-used-goods-search": 2,
     "dspy": 3,
     "hermes-agent": 2,
+    "jupyter-live-kernel": 1,
     "personal-skill-authoring": 1,
-    "software-development-lifecycle": 1,
+    "research-knowledge-workflows": 1,
+    "software-development-lifecycle": 2,
     "superpowers:test-driven-development": 1,
-    "test-driven-development": 6,
-    "verification-before-completion": 4,
+    "test-driven-development": 7,
+    "verification-before-completion": 6,
+    "visual-artifact-design": 1,
+    "web-source-integration": 1,
     "writing-skills": 1
   }
 }
