@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -9,6 +11,8 @@
       "source_status": "source_unavailable"
     },
     "codex": {
+      "cache_read_tokens": 4464640,
+      "cache_write_tokens": 0,
       "headline_total": 5012136,
       "input_tokens": 4958836,
       "output_tokens": 34127,
@@ -17,6 +21,8 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -25,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "2b0ad0d63aef094ef13030f3d238fe09e0d6e1fe51c184abe48c04398c8d431b",
+  "checksum": "93099d86208b48f05b63b0361bd966d44d6f680462011e542b6a11932650c0e7",
   "date": "2026-04-10",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -35,6 +41,6 @@
     "codex_apps/github_fetch_file": 5,
     "codex_apps/github_search": 3
   },
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {}
 }

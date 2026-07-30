@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 19478902,
+      "cache_write_tokens": 2060192,
       "headline_total": 187814,
       "input_tokens": 81851,
       "output_tokens": 105963,
@@ -9,6 +11,8 @@
       "source_status": "available_with_activity"
     },
     "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -17,6 +21,8 @@
       "source_status": "source_unavailable"
     },
     "hermes_agent": {
+      "cache_read_tokens": 29507165,
+      "cache_write_tokens": 379485,
       "headline_total": 2115672,
       "input_tokens": 1899758,
       "output_tokens": 162820,
@@ -25,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "1c927f5c3be5288c1784f907c4658c05d9742012e2bc67ace2a61885bf4764f2",
+  "checksum": "f1390d290e05b2b35d0a73bd7a2a6062d1e425813215ce1d5e6bcfc67a798461",
   "date": "2026-07-10",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -34,7 +40,7 @@
   "mcp_tools": {
     "playwriter_latest/execute": 4
   },
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "autonomous-ai-agents:claude-code": 1,
     "caveman-commit": 1,

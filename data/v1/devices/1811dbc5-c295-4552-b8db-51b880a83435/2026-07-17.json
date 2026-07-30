@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -9,6 +11,8 @@
       "source_status": "source_unavailable"
     },
     "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -17,6 +21,8 @@
       "source_status": "source_unavailable"
     },
     "hermes_agent": {
+      "cache_read_tokens": 81920,
+      "cache_write_tokens": 0,
       "headline_total": 49943,
       "input_tokens": 47796,
       "output_tokens": 1572,
@@ -25,12 +31,12 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "cf207d1094aa6ab50dc6914c5f2e2059d104a1339ae001cfa3dab7d22497f2f5",
+  "checksum": "43067a59748c5e44ea61bf5a9ea3d725126ee784c4725d50aa00ae94cd4c7e6d",
   "date": "2026-07-17",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "github-workflows": 1
   }

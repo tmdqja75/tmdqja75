@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -9,6 +11,8 @@
       "source_status": "source_unavailable"
     },
     "codex": {
+      "cache_read_tokens": 416256,
+      "cache_write_tokens": 0,
       "headline_total": 573027,
       "input_tokens": 571537,
       "output_tokens": 1064,
@@ -17,6 +21,8 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -25,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "b77d75388a28bf73dff801b32bb0a0f604b3f4d66b203a970b53880dd72706d9",
+  "checksum": "6f07b1fc6b74d2a411764debd745690f8394d3a21959099055bb4ce5f2cc6899",
   "date": "2026-02-09",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -37,6 +43,6 @@
     "playwright/browser_navigate": 3,
     "playwright/browser_type": 3
   },
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {}
 }

@@ -1,31 +1,37 @@
 {
   "agents": {
     "claude_code": {
-      "headline_total": 646506,
-      "input_tokens": 2420,
-      "output_tokens": 644086,
+      "cache_read_tokens": 116352827,
+      "cache_write_tokens": 4286746,
+      "headline_total": 646750,
+      "input_tokens": 2424,
+      "output_tokens": 644326,
       "reasoning_tokens": 0,
       "session_count": 18,
       "source_status": "available_with_activity"
     },
     "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
       "reasoning_tokens": 0,
       "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "source_status": "source_unavailable"
     },
     "hermes_agent": {
-      "headline_total": 690825,
-      "input_tokens": 617814,
-      "output_tokens": 61880,
+      "cache_read_tokens": 5779570,
+      "cache_write_tokens": 156420,
+      "headline_total": 667088,
+      "input_tokens": 618413,
+      "output_tokens": 37544,
       "reasoning_tokens": 11131,
       "session_count": 10,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "bdd7963c5c220f522efa8313ff8afed90c4f268d8b42d13c7d271146aa083b99",
+  "checksum": "44b19083fdafbc939f9d17ea459afad06823b81a3d3438e17ec3134a740a3646",
   "date": "2026-07-24",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -35,7 +41,7 @@
     "visualize/read_me": 2,
     "visualize/show_widget": 3
   },
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "agent-browser": 1,
     "apple-macos-automation": 2,

@@ -1,31 +1,37 @@
 {
   "agents": {
     "claude_code": {
-      "headline_total": 368614,
-      "input_tokens": 1294,
-      "output_tokens": 367320,
+      "cache_read_tokens": 60156620,
+      "cache_write_tokens": 1883327,
+      "headline_total": 371323,
+      "input_tokens": 1296,
+      "output_tokens": 370027,
       "reasoning_tokens": 0,
       "session_count": 13,
       "source_status": "available_with_activity"
     },
     "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
       "reasoning_tokens": 0,
       "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "source_status": "source_unavailable"
     },
     "hermes_agent": {
-      "headline_total": 119232,
-      "input_tokens": 57736,
-      "output_tokens": 54512,
-      "reasoning_tokens": 6984,
+      "cache_read_tokens": 49443708,
+      "cache_write_tokens": 8022048,
+      "headline_total": 490656,
+      "input_tokens": 289806,
+      "output_tokens": 186209,
+      "reasoning_tokens": 14641,
       "session_count": 7,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "2e7c29a4e95a7dfd1cd4c57d93412d6b942e404cbdc0f4ec0e0c30dbf588d5c8",
+  "checksum": "eb899521d671c88acdefa9f784f9cdff103036243fec21ec5701d9f0a399a446",
   "date": "2026-07-27",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -40,7 +46,7 @@
     "playwright/browser_snapshot": 1,
     "playwright/browser_take_screenshot": 1
   },
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "bems-dspy-experiment-harness": 3,
     "github-workflows": 1

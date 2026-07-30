@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 49610956,
+      "cache_write_tokens": 4597754,
       "headline_total": 647486,
       "input_tokens": 283114,
       "output_tokens": 364372,
@@ -9,6 +11,8 @@
       "source_status": "available_with_activity"
     },
     "codex": {
+      "cache_read_tokens": 2432,
+      "cache_write_tokens": 0,
       "headline_total": 41824,
       "input_tokens": 40756,
       "output_tokens": 737,
@@ -17,6 +21,8 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
+      "cache_read_tokens": 33802752,
+      "cache_write_tokens": 0,
       "headline_total": 2664963,
       "input_tokens": 2466446,
       "output_tokens": 158090,
@@ -25,12 +31,12 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "35745bfbbeb8bc83d4e8ffed3fa2003cedb517f89459abe51e580aea2fae2c1e",
+  "checksum": "39eb1fe59e624ea3d614709ff120276d622ebf55fa4c32768b95217a9458ac2c",
   "date": "2026-07-09",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "caveman-commit": 3,
     "finishing-a-development-branch": 3,

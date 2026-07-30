@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 7721292,
+      "cache_write_tokens": 781013,
       "headline_total": 66306,
       "input_tokens": 49317,
       "output_tokens": 16989,
@@ -9,6 +11,8 @@
       "source_status": "available_with_activity"
     },
     "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -17,6 +21,8 @@
       "source_status": "source_unavailable"
     },
     "hermes_agent": {
+      "cache_read_tokens": 7670368,
+      "cache_write_tokens": 607691,
       "headline_total": 583082,
       "input_tokens": 515743,
       "output_tokens": 54913,
@@ -25,12 +31,12 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "5101e4a3dbad3cd0a4ffc66d05daf1ea03b60f5cbaa387789ff9bf83ff0ace05",
+  "checksum": "d1889355db3bc92b47564fb99704bea9a846ccff9d186abe65c6f0429f4f9854",
   "date": "2026-07-14",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "(hidden)": 4,
     "autonomous-ai-agents:claude-code": 1,

@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 23473910,
+      "cache_write_tokens": 3979500,
       "headline_total": 127079,
       "input_tokens": 372,
       "output_tokens": 126707,
@@ -9,6 +11,8 @@
       "source_status": "available_with_activity"
     },
     "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -17,6 +21,8 @@
       "source_status": "source_unavailable"
     },
     "hermes_agent": {
+      "cache_read_tokens": 4539392,
+      "cache_write_tokens": 0,
       "headline_total": 2513872,
       "input_tokens": 2469651,
       "output_tokens": 32318,
@@ -25,12 +31,12 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "d91986be37315748d2eafce6fa085635e7ac8bf0bad37b1cbaca1d498dc94d1d",
+  "checksum": "30cdef87a1a6e9ca3f9f004465f58532e345ee53049ffce2b7ed04a0d72c8a4b",
   "date": "2026-06-19",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "graphify": 3,
     "research-knowledge-workflows": 2,

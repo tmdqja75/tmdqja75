@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -9,6 +11,8 @@
       "source_status": "source_unavailable"
     },
     "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -17,6 +21,8 @@
       "source_status": "source_unavailable"
     },
     "hermes_agent": {
+      "cache_read_tokens": 32488181,
+      "cache_write_tokens": 1246997,
       "headline_total": 2878956,
       "input_tokens": 2643205,
       "output_tokens": 224672,
@@ -25,12 +31,12 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "5e77379bc072e97e24991b17a0b741311152bad73d4991029ec477f27b295cfa",
+  "checksum": "03ca19b6c5f81ca968f453fd2b82a9fca59a6086a03e4327fdc97da8dc0c27f5",
   "date": "2026-06-15",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "(hidden)": 2,
     "deep-agents-core": 1,

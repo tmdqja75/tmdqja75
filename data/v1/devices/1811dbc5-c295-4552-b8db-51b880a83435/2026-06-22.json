@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 67021385,
+      "cache_write_tokens": 14540156,
       "headline_total": 327053,
       "input_tokens": 1086,
       "output_tokens": 325967,
@@ -9,6 +11,8 @@
       "source_status": "available_with_activity"
     },
     "codex": {
+      "cache_read_tokens": 3527552,
+      "cache_write_tokens": 0,
       "headline_total": 3996675,
       "input_tokens": 3946414,
       "output_tokens": 31672,
@@ -17,6 +21,8 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -25,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "3b95c8409919b3afe0c6ee4bae74ca96c2454764c74f5a45688dcb7977065409",
+  "checksum": "6bb6734e086c48983e0f60fb23ff8c10a6330b2b01d2bbb04e6b13a9851f21f5",
   "date": "2026-06-22",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -34,7 +40,7 @@
   "mcp_tools": {
     "headroom/headroom_retrieve": 6
   },
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "notion-cli": 1,
     "superpowers:executing-plans": 1,

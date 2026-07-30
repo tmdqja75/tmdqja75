@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 15647105,
+      "cache_write_tokens": 2014742,
       "headline_total": 209119,
       "input_tokens": 120468,
       "output_tokens": 88651,
@@ -9,6 +11,8 @@
       "source_status": "available_with_activity"
     },
     "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -17,6 +21,8 @@
       "source_status": "source_unavailable"
     },
     "hermes_agent": {
+      "cache_read_tokens": 1691648,
+      "cache_write_tokens": 0,
       "headline_total": 508114,
       "input_tokens": 488837,
       "output_tokens": 14402,
@@ -25,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "d665b399a8e88e2d833d5a29f1c51fb8d38ba9f9ac2940f7fe13787a887a8b65",
+  "checksum": "305d191df44bbf6a3ecadec69584ad077cde404bfc2e5b7c134c378b02e0ee68",
   "date": "2026-07-01",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -34,7 +40,7 @@
   "mcp_tools": {
     "headroom/headroom_retrieve": 2
   },
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "(hidden)": 2,
     "bems-action-report-design": 2,
