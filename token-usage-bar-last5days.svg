@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="388" viewBox="0 0 940 388" font-family="ui-sans-serif, system-ui, sans-serif">
+<style>.bar-col{cursor:pointer}.bar-col .seg{transition:filter .1s ease-out}.bar-col:hover .seg{filter:brightness(1.15)}.bar-col .tip{opacity:0;transition:opacity .12s ease-out;pointer-events:none}.bar-col:hover .tip{opacity:1}</style>
+<rect width="940" height="388" fill="#090a0b"/>
+<rect width="940" height="388" rx="12" fill="#0e0f13"/>
+<text x="20" y="34" font-size="14" font-weight="600" fill="#9ca3af">Total Token Usage<tspan dx="8" font-size="12" font-weight="400">Jul 26, 2026 → Jul 30, 2026</tspan></text>
+<g transform="translate(20,48)">
+<g transform="translate(50,40)">
+<line x1="0" y1="220.0" x2="810" y2="220.0" stroke="#232733" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="-10" y="224.0" font-size="11" fill="#9ca3af" text-anchor="end">0</text>
+<line x1="0" y1="165.0" x2="810" y2="165.0" stroke="#232733" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="-10" y="169.0" font-size="11" fill="#9ca3af" text-anchor="end">750k</text>
+<line x1="0" y1="110.0" x2="810" y2="110.0" stroke="#232733" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="-10" y="114.0" font-size="11" fill="#9ca3af" text-anchor="end">1500k</text>
+<line x1="0" y1="55.0" x2="810" y2="55.0" stroke="#232733" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="-10" y="59.0" font-size="11" fill="#9ca3af" text-anchor="end">2250k</text>
+<line x1="0" y1="0.0" x2="810" y2="0.0" stroke="#232733" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="-10" y="4.0" font-size="11" fill="#9ca3af" text-anchor="end">3000k</text>
+<g class="bar-col">
+<rect class="hit" x="15.58" y="0" width="155.77" height="220" fill="transparent"/>
+<rect class="seg" x="31.15" y="216.16" width="124.62" height="0.84" fill="#60A5FA"/>
+<rect class="seg" x="31.15" y="212.53" width="124.62" height="0.00" fill="#34D399"/>
+<rect class="seg" x="31.15" y="209.16" width="124.62" height="0.37" fill="#A78BFA"/>
+<text x="93.5" y="244" font-size="12" fill="#9ca3af" text-anchor="middle">Jul 26</text>
+<g class="tip">
+<rect x="19.5" y="113.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="29.5" y="135.2" font-size="12" font-weight="600" fill="#e5e7eb">Jul 26</text>
+<circle cx="33.5" cy="147.2" r="4" fill="#60A5FA"/>
+<text x="43.5" y="151.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="157.5" y="151.2" font-size="11" fill="#e5e7eb" text-anchor="end">52,349</text>
+<circle cx="33.5" cy="163.2" r="4" fill="#34D399"/>
+<text x="43.5" y="167.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="157.5" y="167.2" font-size="11" fill="#e5e7eb" text-anchor="end">8,658</text>
+<circle cx="33.5" cy="179.2" r="4" fill="#A78BFA"/>
+<text x="43.5" y="183.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="157.5" y="183.2" font-size="11" fill="#e5e7eb" text-anchor="end">5,024</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="171.35" y="0" width="155.77" height="220" fill="transparent"/>
+<rect class="seg" x="186.92" y="198.65" width="124.62" height="18.35" fill="#60A5FA"/>
+<rect class="seg" x="186.92" y="154.86" width="124.62" height="37.79" fill="#34D399"/>
+<rect class="seg" x="186.92" y="150.79" width="124.62" height="1.07" fill="#A78BFA"/>
+<text x="249.2" y="244" font-size="12" fill="#9ca3af" text-anchor="middle">Jul 27</text>
+<g class="tip">
+<rect x="175.2" y="54.8" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="185.2" y="76.8" font-size="12" font-weight="600" fill="#e5e7eb">Jul 27</text>
+<circle cx="189.2" cy="88.8" r="4" fill="#60A5FA"/>
+<text x="199.2" y="92.8" font-size="11" fill="#9ca3af">Input</text>
+<text x="313.2" y="92.8" font-size="11" fill="#e5e7eb" text-anchor="end">291,102</text>
+<circle cx="189.2" cy="104.8" r="4" fill="#34D399"/>
+<text x="199.2" y="108.8" font-size="11" fill="#9ca3af">Output</text>
+<text x="313.2" y="108.8" font-size="11" fill="#e5e7eb" text-anchor="end">556,236</text>
+<circle cx="189.2" cy="120.8" r="4" fill="#A78BFA"/>
+<text x="199.2" y="124.8" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="313.2" y="124.8" font-size="11" fill="#e5e7eb" text-anchor="end">14,641</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="327.12" y="0" width="155.77" height="220" fill="transparent"/>
+<rect class="seg" x="342.69" y="89.08" width="124.62" height="127.92" fill="#60A5FA"/>
+<rect class="seg" x="342.69" y="38.96" width="124.62" height="44.12" fill="#34D399"/>
+<rect class="seg" x="342.69" y="32.49" width="124.62" height="3.47" fill="#A78BFA"/>
+<text x="405.0" y="244" font-size="12" fill="#9ca3af" text-anchor="middle">Jul 28</text>
+<g class="tip">
+<rect x="331.0" y="-36.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="341.0" y="-14.0" font-size="12" font-weight="600" fill="#e5e7eb">Jul 28</text>
+<circle cx="345.0" cy="-2.0" r="4" fill="#60A5FA"/>
+<text x="355.0" y="2.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="469.0" y="2.0" font-size="11" fill="#e5e7eb" text-anchor="end">1,785,270</text>
+<circle cx="345.0" cy="14.0" r="4" fill="#34D399"/>
+<text x="355.0" y="18.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="469.0" y="18.0" font-size="11" fill="#e5e7eb" text-anchor="end">642,559</text>
+<circle cx="345.0" cy="30.0" r="4" fill="#A78BFA"/>
+<text x="355.0" y="34.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="469.0" y="34.0" font-size="11" fill="#e5e7eb" text-anchor="end">47,255</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="482.88" y="0" width="155.77" height="220" fill="transparent"/>
+<rect class="seg" x="498.46" y="190.03" width="124.62" height="26.97" fill="#60A5FA"/>
+<rect class="seg" x="498.46" y="151.29" width="124.62" height="32.74" fill="#34D399"/>
+<rect class="seg" x="498.46" y="147.16" width="124.62" height="1.12" fill="#A78BFA"/>
+<text x="560.8" y="244" font-size="12" fill="#9ca3af" text-anchor="middle">Jul 29</text>
+<g class="tip">
+<rect x="486.8" y="51.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="496.8" y="73.2" font-size="12" font-weight="600" fill="#e5e7eb">Jul 29</text>
+<circle cx="500.8" cy="85.2" r="4" fill="#60A5FA"/>
+<text x="510.8" y="89.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="624.8" y="89.2" font-size="11" fill="#e5e7eb" text-anchor="end">408,690</text>
+<circle cx="500.8" cy="101.2" r="4" fill="#34D399"/>
+<text x="510.8" y="105.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="624.8" y="105.2" font-size="11" fill="#e5e7eb" text-anchor="end">487,422</text>
+<circle cx="500.8" cy="117.2" r="4" fill="#A78BFA"/>
+<text x="510.8" y="121.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="624.8" y="121.2" font-size="11" fill="#e5e7eb" text-anchor="end">15,333</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="638.65" y="0" width="155.77" height="220" fill="transparent"/>
+<rect class="seg" x="654.23" y="212.40" width="124.62" height="4.60" fill="#60A5FA"/>
+<rect class="seg" x="654.23" y="181.71" width="124.62" height="24.70" fill="#34D399"/>
+<rect class="seg" x="654.23" y="178.51" width="124.62" height="0.19" fill="#A78BFA"/>
+<text x="716.5" y="244" font-size="12" fill="#9ca3af" text-anchor="middle">Jul 30</text>
+<g class="tip">
+<rect x="642.5" y="82.5" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="652.5" y="104.5" font-size="12" font-weight="600" fill="#e5e7eb">Jul 30</text>
+<circle cx="656.5" cy="116.5" r="4" fill="#60A5FA"/>
+<text x="666.5" y="120.5" font-size="11" fill="#9ca3af">Input</text>
+<text x="780.5" y="120.5" font-size="11" fill="#e5e7eb" text-anchor="end">103,600</text>
+<circle cx="656.5" cy="132.5" r="4" fill="#34D399"/>
+<text x="666.5" y="136.5" font-size="11" fill="#9ca3af">Output</text>
+<text x="780.5" y="136.5" font-size="11" fill="#e5e7eb" text-anchor="end">377,691</text>
+<circle cx="656.5" cy="148.5" r="4" fill="#A78BFA"/>
+<text x="666.5" y="152.5" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="780.5" y="152.5" font-size="11" fill="#e5e7eb" text-anchor="end">2,630</text>
+</g>
+</g>
+</g>
+</g>
+<rect x="20" y="367" width="10" height="10" rx="2" fill="#60A5FA"/>
+<text x="36" y="376" font-size="12" fill="#9ca3af">Input</text>
+<rect x="95" y="367" width="10" height="10" rx="2" fill="#34D399"/>
+<text x="111" y="376" font-size="12" fill="#9ca3af">Output</text>
+<rect x="177" y="367" width="10" height="10" rx="2" fill="#A78BFA"/>
+<text x="193" y="376" font-size="12" fill="#9ca3af">Reasoning</text>
+</svg>
