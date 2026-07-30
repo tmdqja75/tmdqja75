@@ -26,3 +26,7 @@ Data Science<br/>
 ## Token Usage (last 5 days)
 
 ![Token usage bar chart, last 5 days](token-usage-bar-last5days.svg)
+
+## Token Usage (all-time)
+
+![Token usage bar chart, all-time](token-usage-bar-all-time.svg)

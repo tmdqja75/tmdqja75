@@ -1,0 +1,2130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1840" height="468" viewBox="0 0 1840 468" font-family="ui-sans-serif, system-ui, sans-serif">
+<style>.bar-col{cursor:pointer}.bar-col .seg{transition:filter .1s ease-out}.bar-col:hover .seg{filter:brightness(1.15)}.bar-col .tip{opacity:0;transition:opacity .12s ease-out;pointer-events:none}.bar-col:hover .tip{opacity:1}</style>
+<rect width="1840" height="468" fill="#090a0b"/>
+<rect width="1840" height="468" rx="12" fill="#0e0f13"/>
+<text x="20" y="34" font-size="14" font-weight="600" fill="#9ca3af">Total Token Usage — All-Time<tspan dx="8" font-size="12" font-weight="400">Sep 18, 2025 → Jul 30, 2026 · 110 active days</tspan></text>
+<g transform="translate(20,48)">
+<g transform="translate(60,40)">
+<line x1="0" y1="300.0" x2="1700" y2="300.0" stroke="#232733" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="-10" y="304.0" font-size="11" fill="#9ca3af" text-anchor="end">0</text>
+<line x1="0" y1="225.0" x2="1700" y2="225.0" stroke="#232733" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="-10" y="229.0" font-size="11" fill="#9ca3af" text-anchor="end">2000k</text>
+<line x1="0" y1="150.0" x2="1700" y2="150.0" stroke="#232733" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="-10" y="154.0" font-size="11" fill="#9ca3af" text-anchor="end">4000k</text>
+<line x1="0" y1="75.0" x2="1700" y2="75.0" stroke="#232733" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="-10" y="79.0" font-size="11" fill="#9ca3af" text-anchor="end">6000k</text>
+<line x1="0" y1="0.0" x2="1700" y2="0.0" stroke="#232733" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="-10" y="4.0" font-size="11" fill="#9ca3af" text-anchor="end">8000k</text>
+<g class="bar-col">
+<rect class="hit" x="1.54" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="3.09" y="299.90" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="3.09" y="297.90" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="3.09" y="295.90" width="12.34" height="0.00" fill="#A78BFA"/>
+<text x="9.3" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Sep 18</text>
+<g class="tip">
+<rect x="0.0" y="199.9" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="10.0" y="221.9" font-size="12" font-weight="600" fill="#e5e7eb">Sep 18</text>
+<circle cx="14.0" cy="233.9" r="4" fill="#60A5FA"/>
+<text x="24.0" y="237.9" font-size="11" fill="#9ca3af">Input</text>
+<text x="138.0" y="237.9" font-size="11" fill="#e5e7eb" text-anchor="end">2,683</text>
+<circle cx="14.0" cy="249.9" r="4" fill="#34D399"/>
+<text x="24.0" y="253.9" font-size="11" fill="#9ca3af">Output</text>
+<text x="138.0" y="253.9" font-size="11" fill="#e5e7eb" text-anchor="end">87</text>
+<circle cx="14.0" cy="265.9" r="4" fill="#A78BFA"/>
+<text x="24.0" y="269.9" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="138.0" y="269.9" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="16.97" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="18.51" y="297.84" width="12.34" height="0.16" fill="#60A5FA"/>
+<rect class="seg" x="18.51" y="295.75" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="18.51" y="293.70" width="12.34" height="0.05" fill="#A78BFA"/>
+<g class="tip">
+<rect x="0.0" y="197.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="10.0" y="219.7" font-size="12" font-weight="600" fill="#e5e7eb">Oct 16</text>
+<circle cx="14.0" cy="231.7" r="4" fill="#60A5FA"/>
+<text x="24.0" y="235.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="138.0" y="235.7" font-size="11" fill="#e5e7eb" text-anchor="end">57,472</text>
+<circle cx="14.0" cy="247.7" r="4" fill="#34D399"/>
+<text x="24.0" y="251.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="138.0" y="251.7" font-size="11" fill="#e5e7eb" text-anchor="end">2,515</text>
+<circle cx="14.0" cy="263.7" r="4" fill="#A78BFA"/>
+<text x="24.0" y="267.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="138.0" y="267.7" font-size="11" fill="#e5e7eb" text-anchor="end">1,344</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="32.40" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="33.94" y="284.41" width="12.34" height="13.59" fill="#60A5FA"/>
+<rect class="seg" x="33.94" y="282.05" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="33.94" y="279.81" width="12.34" height="0.24" fill="#A78BFA"/>
+<g class="tip">
+<rect x="0.0" y="183.8" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="10.0" y="205.8" font-size="12" font-weight="600" fill="#e5e7eb">Oct 21</text>
+<circle cx="14.0" cy="217.8" r="4" fill="#60A5FA"/>
+<text x="24.0" y="221.8" font-size="11" fill="#9ca3af">Input</text>
+<text x="138.0" y="221.8" font-size="11" fill="#e5e7eb" text-anchor="end">415,604</text>
+<circle cx="14.0" cy="233.8" r="4" fill="#34D399"/>
+<text x="24.0" y="237.8" font-size="11" fill="#9ca3af">Output</text>
+<text x="138.0" y="237.8" font-size="11" fill="#e5e7eb" text-anchor="end">9,723</text>
+<circle cx="14.0" cy="249.8" r="4" fill="#A78BFA"/>
+<text x="24.0" y="253.8" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="138.0" y="253.8" font-size="11" fill="#e5e7eb" text-anchor="end">6,528</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="47.82" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="49.36" y="291.55" width="12.34" height="6.45" fill="#60A5FA"/>
+<rect class="seg" x="49.36" y="289.48" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="49.36" y="287.46" width="12.34" height="0.03" fill="#A78BFA"/>
+<g class="tip">
+<rect x="0.0" y="191.5" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="10.0" y="213.5" font-size="12" font-weight="600" fill="#e5e7eb">Oct 22</text>
+<circle cx="14.0" cy="225.5" r="4" fill="#60A5FA"/>
+<text x="24.0" y="229.5" font-size="11" fill="#9ca3af">Input</text>
+<text x="138.0" y="229.5" font-size="11" fill="#e5e7eb" text-anchor="end">225,228</text>
+<circle cx="14.0" cy="241.5" r="4" fill="#34D399"/>
+<text x="24.0" y="245.5" font-size="11" fill="#9ca3af">Output</text>
+<text x="138.0" y="245.5" font-size="11" fill="#e5e7eb" text-anchor="end">1,916</text>
+<circle cx="14.0" cy="257.5" r="4" fill="#A78BFA"/>
+<text x="24.0" y="261.5" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="138.0" y="261.5" font-size="11" fill="#e5e7eb" text-anchor="end">704</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="63.25" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="64.79" y="299.70" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="64.79" y="297.67" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="64.79" y="295.66" width="12.34" height="0.01" fill="#A78BFA"/>
+<g class="tip">
+<rect x="0.0" y="199.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="10.0" y="221.7" font-size="12" font-weight="600" fill="#e5e7eb">Oct 23</text>
+<circle cx="14.0" cy="233.7" r="4" fill="#60A5FA"/>
+<text x="24.0" y="237.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="138.0" y="237.7" font-size="11" fill="#e5e7eb" text-anchor="end">7,902</text>
+<circle cx="14.0" cy="249.7" r="4" fill="#34D399"/>
+<text x="24.0" y="253.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="138.0" y="253.7" font-size="11" fill="#e5e7eb" text-anchor="end">813</text>
+<circle cx="14.0" cy="265.7" r="4" fill="#A78BFA"/>
+<text x="24.0" y="269.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="138.0" y="269.7" font-size="11" fill="#e5e7eb" text-anchor="end">320</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="78.68" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="80.22" y="299.84" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="80.22" y="297.80" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="80.22" y="295.77" width="12.34" height="0.03" fill="#A78BFA"/>
+<g class="tip">
+<rect x="12.4" y="199.8" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="22.4" y="221.8" font-size="12" font-weight="600" fill="#e5e7eb">Oct 30</text>
+<circle cx="26.4" cy="233.8" r="4" fill="#60A5FA"/>
+<text x="36.4" y="237.8" font-size="11" fill="#9ca3af">Input</text>
+<text x="150.4" y="237.8" font-size="11" fill="#e5e7eb" text-anchor="end">4,355</text>
+<circle cx="26.4" cy="249.8" r="4" fill="#34D399"/>
+<text x="36.4" y="253.8" font-size="11" fill="#9ca3af">Output</text>
+<text x="150.4" y="253.8" font-size="11" fill="#e5e7eb" text-anchor="end">1,020</text>
+<circle cx="26.4" cy="265.8" r="4" fill="#A78BFA"/>
+<text x="36.4" y="269.8" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="150.4" y="269.8" font-size="11" fill="#e5e7eb" text-anchor="end">704</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="94.10" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="95.64" y="279.02" width="12.34" height="18.98" fill="#60A5FA"/>
+<rect class="seg" x="95.64" y="276.46" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="95.64" y="274.11" width="12.34" height="0.35" fill="#A78BFA"/>
+<g class="tip">
+<rect x="27.8" y="178.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="37.8" y="200.1" font-size="12" font-weight="600" fill="#e5e7eb">Oct 31</text>
+<circle cx="41.8" cy="212.1" r="4" fill="#60A5FA"/>
+<text x="51.8" y="216.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="165.8" y="216.1" font-size="11" fill="#e5e7eb" text-anchor="end">559,407</text>
+<circle cx="41.8" cy="228.1" r="4" fill="#34D399"/>
+<text x="51.8" y="232.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="165.8" y="232.1" font-size="11" fill="#e5e7eb" text-anchor="end">15,031</text>
+<circle cx="41.8" cy="244.1" r="4" fill="#A78BFA"/>
+<text x="51.8" y="248.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="165.8" y="248.1" font-size="11" fill="#e5e7eb" text-anchor="end">9,216</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="109.53" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="111.07" y="286.30" width="12.34" height="11.70" fill="#60A5FA"/>
+<rect class="seg" x="111.07" y="283.70" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="111.07" y="281.27" width="12.34" height="0.43" fill="#A78BFA"/>
+<g class="tip">
+<rect x="43.2" y="185.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="53.2" y="207.3" font-size="12" font-weight="600" fill="#e5e7eb">Nov 3</text>
+<circle cx="57.2" cy="219.3" r="4" fill="#60A5FA"/>
+<text x="67.2" y="223.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="181.2" y="223.3" font-size="11" fill="#e5e7eb" text-anchor="end">365,344</text>
+<circle cx="57.2" cy="235.3" r="4" fill="#34D399"/>
+<text x="67.2" y="239.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="181.2" y="239.3" font-size="11" fill="#e5e7eb" text-anchor="end">15,908</text>
+<circle cx="57.2" cy="251.3" r="4" fill="#A78BFA"/>
+<text x="67.2" y="255.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="181.2" y="255.3" font-size="11" fill="#e5e7eb" text-anchor="end">11,584</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="124.95" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="126.50" y="295.76" width="12.34" height="2.24" fill="#60A5FA"/>
+<rect class="seg" x="126.50" y="293.56" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="126.50" y="291.41" width="12.34" height="0.15" fill="#A78BFA"/>
+<text x="132.7" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Jan 8</text>
+<g class="tip">
+<rect x="58.7" y="195.4" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="68.7" y="217.4" font-size="12" font-weight="600" fill="#e5e7eb">Jan 8</text>
+<circle cx="72.7" cy="229.4" r="4" fill="#60A5FA"/>
+<text x="82.7" y="233.4" font-size="11" fill="#9ca3af">Input</text>
+<text x="196.7" y="233.4" font-size="11" fill="#e5e7eb" text-anchor="end">113,134</text>
+<circle cx="72.7" cy="245.4" r="4" fill="#34D399"/>
+<text x="82.7" y="249.4" font-size="11" fill="#9ca3af">Output</text>
+<text x="196.7" y="249.4" font-size="11" fill="#e5e7eb" text-anchor="end">5,215</text>
+<circle cx="72.7" cy="261.4" r="4" fill="#A78BFA"/>
+<text x="82.7" y="265.4" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="196.7" y="265.4" font-size="11" fill="#e5e7eb" text-anchor="end">4,096</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="140.38" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="141.92" y="296.28" width="12.34" height="1.72" fill="#60A5FA"/>
+<rect class="seg" x="141.92" y="293.92" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="141.92" y="291.71" width="12.34" height="0.20" fill="#A78BFA"/>
+<g class="tip">
+<rect x="74.1" y="195.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="84.1" y="217.7" font-size="12" font-weight="600" fill="#e5e7eb">Jan 14</text>
+<circle cx="88.1" cy="229.7" r="4" fill="#60A5FA"/>
+<text x="98.1" y="233.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="212.1" y="233.7" font-size="11" fill="#e5e7eb" text-anchor="end">99,273</text>
+<circle cx="88.1" cy="245.7" r="4" fill="#34D399"/>
+<text x="98.1" y="249.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="212.1" y="249.7" font-size="11" fill="#e5e7eb" text-anchor="end">9,654</text>
+<circle cx="88.1" cy="261.7" r="4" fill="#A78BFA"/>
+<text x="98.1" y="265.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="212.1" y="265.7" font-size="11" fill="#e5e7eb" text-anchor="end">5,440</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="155.81" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="157.35" y="296.29" width="12.34" height="1.71" fill="#60A5FA"/>
+<rect class="seg" x="157.35" y="294.23" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="157.35" y="292.19" width="12.34" height="0.03" fill="#A78BFA"/>
+<g class="tip">
+<rect x="89.5" y="196.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="99.5" y="218.2" font-size="12" font-weight="600" fill="#e5e7eb">Jan 15</text>
+<circle cx="103.5" cy="230.2" r="4" fill="#60A5FA"/>
+<text x="113.5" y="234.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="227.5" y="234.2" font-size="11" fill="#e5e7eb" text-anchor="end">99,047</text>
+<circle cx="103.5" cy="246.2" r="4" fill="#34D399"/>
+<text x="113.5" y="250.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="227.5" y="250.2" font-size="11" fill="#e5e7eb" text-anchor="end">1,576</text>
+<circle cx="103.5" cy="262.2" r="4" fill="#A78BFA"/>
+<text x="113.5" y="266.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="227.5" y="266.2" font-size="11" fill="#e5e7eb" text-anchor="end">896</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="171.23" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="172.78" y="279.86" width="12.34" height="18.14" fill="#60A5FA"/>
+<rect class="seg" x="172.78" y="277.18" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="172.78" y="275.00" width="12.34" height="0.18" fill="#A78BFA"/>
+<g class="tip">
+<rect x="104.9" y="179.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="114.9" y="201.0" font-size="12" font-weight="600" fill="#e5e7eb">Jan 20</text>
+<circle cx="118.9" cy="213.0" r="4" fill="#60A5FA"/>
+<text x="128.9" y="217.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="242.9" y="217.0" font-size="11" fill="#e5e7eb" text-anchor="end">536,995</text>
+<circle cx="118.9" cy="229.0" r="4" fill="#34D399"/>
+<text x="128.9" y="233.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="242.9" y="233.0" font-size="11" fill="#e5e7eb" text-anchor="end">18,167</text>
+<circle cx="118.9" cy="245.0" r="4" fill="#A78BFA"/>
+<text x="128.9" y="249.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="242.9" y="249.0" font-size="11" fill="#e5e7eb" text-anchor="end">4,928</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="186.66" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="188.20" y="283.88" width="12.34" height="14.12" fill="#60A5FA"/>
+<rect class="seg" x="188.20" y="281.71" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="188.20" y="279.67" width="12.34" height="0.04" fill="#A78BFA"/>
+<g class="tip">
+<rect x="120.4" y="183.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="130.4" y="205.7" font-size="12" font-weight="600" fill="#e5e7eb">Jan 21</text>
+<circle cx="134.4" cy="217.7" r="4" fill="#60A5FA"/>
+<text x="144.4" y="221.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="258.4" y="221.7" font-size="11" fill="#e5e7eb" text-anchor="end">429,866</text>
+<circle cx="134.4" cy="233.7" r="4" fill="#34D399"/>
+<text x="144.4" y="237.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="258.4" y="237.7" font-size="11" fill="#e5e7eb" text-anchor="end">4,457</text>
+<circle cx="134.4" cy="249.7" r="4" fill="#A78BFA"/>
+<text x="144.4" y="253.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="258.4" y="253.7" font-size="11" fill="#e5e7eb" text-anchor="end">1,152</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="202.09" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="203.63" y="298.30" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="203.63" y="296.30" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="203.63" y="294.30" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="135.8" y="198.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="145.8" y="220.3" font-size="12" font-weight="600" fill="#e5e7eb">Jan 22</text>
+<circle cx="149.8" cy="232.3" r="4" fill="#60A5FA"/>
+<text x="159.8" y="236.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="273.8" y="236.3" font-size="11" fill="#e5e7eb" text-anchor="end">45,203</text>
+<circle cx="149.8" cy="248.3" r="4" fill="#34D399"/>
+<text x="159.8" y="252.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="273.8" y="252.3" font-size="11" fill="#e5e7eb" text-anchor="end">222</text>
+<circle cx="149.8" cy="264.3" r="4" fill="#A78BFA"/>
+<text x="159.8" y="268.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="273.8" y="268.3" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="217.51" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="219.06" y="278.18" width="12.34" height="19.82" fill="#60A5FA"/>
+<rect class="seg" x="219.06" y="275.84" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="219.06" y="273.80" width="12.34" height="0.03" fill="#A78BFA"/>
+<g class="tip">
+<rect x="151.2" y="177.8" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="161.2" y="199.8" font-size="12" font-weight="600" fill="#e5e7eb">Jan 26</text>
+<circle cx="165.2" cy="211.8" r="4" fill="#60A5FA"/>
+<text x="175.2" y="215.8" font-size="11" fill="#9ca3af">Input</text>
+<text x="289.2" y="215.8" font-size="11" fill="#e5e7eb" text-anchor="end">581,968</text>
+<circle cx="165.2" cy="227.8" r="4" fill="#34D399"/>
+<text x="175.2" y="231.8" font-size="11" fill="#9ca3af">Output</text>
+<text x="289.2" y="231.8" font-size="11" fill="#e5e7eb" text-anchor="end">9,079</text>
+<circle cx="165.2" cy="243.8" r="4" fill="#A78BFA"/>
+<text x="175.2" y="247.8" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="289.2" y="247.8" font-size="11" fill="#e5e7eb" text-anchor="end">832</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="232.94" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="234.48" y="241.41" width="12.34" height="56.59" fill="#60A5FA"/>
+<rect class="seg" x="234.48" y="238.42" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="234.48" y="236.13" width="12.34" height="0.30" fill="#A78BFA"/>
+<g class="tip">
+<rect x="166.7" y="140.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="176.7" y="162.1" font-size="12" font-weight="600" fill="#e5e7eb">Jan 27</text>
+<circle cx="180.7" cy="174.1" r="4" fill="#60A5FA"/>
+<text x="190.7" y="178.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="304.7" y="178.1" font-size="11" fill="#e5e7eb" text-anchor="end">1,562,368</text>
+<circle cx="180.7" cy="190.1" r="4" fill="#34D399"/>
+<text x="190.7" y="194.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="304.7" y="194.1" font-size="11" fill="#e5e7eb" text-anchor="end">26,376</text>
+<circle cx="180.7" cy="206.1" r="4" fill="#A78BFA"/>
+<text x="190.7" y="210.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="304.7" y="210.1" font-size="11" fill="#e5e7eb" text-anchor="end">7,872</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="248.37" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="249.91" y="247.01" width="12.34" height="50.99" fill="#60A5FA"/>
+<rect class="seg" x="249.91" y="244.39" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="249.91" y="242.11" width="12.34" height="0.28" fill="#A78BFA"/>
+<text x="256.1" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Jan 28</text>
+<g class="tip">
+<rect x="182.1" y="146.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="192.1" y="168.1" font-size="12" font-weight="600" fill="#e5e7eb">Jan 28</text>
+<circle cx="196.1" cy="180.1" r="4" fill="#60A5FA"/>
+<text x="206.1" y="184.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="320.1" y="184.1" font-size="11" fill="#e5e7eb" text-anchor="end">1,412,973</text>
+<circle cx="196.1" cy="196.1" r="4" fill="#34D399"/>
+<text x="206.1" y="200.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="320.1" y="200.1" font-size="11" fill="#e5e7eb" text-anchor="end">16,611</text>
+<circle cx="196.1" cy="212.1" r="4" fill="#A78BFA"/>
+<text x="206.1" y="216.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="320.1" y="216.1" font-size="11" fill="#e5e7eb" text-anchor="end">7,552</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="263.79" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="265.34" y="200.48" width="12.34" height="97.52" fill="#60A5FA"/>
+<rect class="seg" x="265.34" y="197.57" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="265.34" y="195.29" width="12.34" height="0.27" fill="#A78BFA"/>
+<g class="tip">
+<rect x="197.5" y="99.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="207.5" y="121.3" font-size="12" font-weight="600" fill="#e5e7eb">Jan 29</text>
+<circle cx="211.5" cy="133.3" r="4" fill="#60A5FA"/>
+<text x="221.5" y="137.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="335.5" y="137.3" font-size="11" fill="#e5e7eb" text-anchor="end">2,653,867</text>
+<circle cx="211.5" cy="149.3" r="4" fill="#34D399"/>
+<text x="221.5" y="153.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="335.5" y="153.3" font-size="11" fill="#e5e7eb" text-anchor="end">24,369</text>
+<circle cx="211.5" cy="165.3" r="4" fill="#A78BFA"/>
+<text x="221.5" y="169.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="335.5" y="169.3" font-size="11" fill="#e5e7eb" text-anchor="end">7,232</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="279.22" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="280.76" y="221.28" width="12.34" height="76.72" fill="#60A5FA"/>
+<rect class="seg" x="280.76" y="218.83" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="280.76" y="216.73" width="12.34" height="0.10" fill="#A78BFA"/>
+<g class="tip">
+<rect x="212.9" y="120.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="222.9" y="142.7" font-size="12" font-weight="600" fill="#e5e7eb">Jan 30</text>
+<circle cx="226.9" cy="154.7" r="4" fill="#60A5FA"/>
+<text x="236.9" y="158.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="350.9" y="158.7" font-size="11" fill="#e5e7eb" text-anchor="end">2,099,158</text>
+<circle cx="226.9" cy="170.7" r="4" fill="#34D399"/>
+<text x="236.9" y="174.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="350.9" y="174.7" font-size="11" fill="#e5e7eb" text-anchor="end">11,964</text>
+<circle cx="226.9" cy="186.7" r="4" fill="#A78BFA"/>
+<text x="236.9" y="190.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="350.9" y="190.7" font-size="11" fill="#e5e7eb" text-anchor="end">2,752</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="294.65" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="296.19" y="225.88" width="12.34" height="72.12" fill="#60A5FA"/>
+<rect class="seg" x="296.19" y="223.49" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="296.19" y="221.34" width="12.34" height="0.15" fill="#A78BFA"/>
+<g class="tip">
+<rect x="228.4" y="125.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="238.4" y="147.3" font-size="12" font-weight="600" fill="#e5e7eb">Feb 2</text>
+<circle cx="242.4" cy="159.3" r="4" fill="#60A5FA"/>
+<text x="252.4" y="163.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="366.4" y="163.3" font-size="11" fill="#e5e7eb" text-anchor="end">1,976,660</text>
+<circle cx="242.4" cy="175.3" r="4" fill="#34D399"/>
+<text x="252.4" y="179.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="366.4" y="179.3" font-size="11" fill="#e5e7eb" text-anchor="end">10,148</text>
+<circle cx="242.4" cy="191.3" r="4" fill="#A78BFA"/>
+<text x="252.4" y="195.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="366.4" y="195.3" font-size="11" fill="#e5e7eb" text-anchor="end">4,032</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="310.07" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="311.62" y="206.90" width="12.34" height="91.10" fill="#60A5FA"/>
+<rect class="seg" x="311.62" y="204.10" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="311.62" y="201.88" width="12.34" height="0.23" fill="#A78BFA"/>
+<g class="tip">
+<rect x="243.8" y="105.9" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="253.8" y="127.9" font-size="12" font-weight="600" fill="#e5e7eb">Feb 6</text>
+<circle cx="257.8" cy="139.9" r="4" fill="#60A5FA"/>
+<text x="267.8" y="143.9" font-size="11" fill="#9ca3af">Input</text>
+<text x="381.8" y="143.9" font-size="11" fill="#e5e7eb" text-anchor="end">2,482,655</text>
+<circle cx="257.8" cy="155.9" r="4" fill="#34D399"/>
+<text x="267.8" y="159.9" font-size="11" fill="#9ca3af">Output</text>
+<text x="381.8" y="159.9" font-size="11" fill="#e5e7eb" text-anchor="end">21,226</text>
+<circle cx="257.8" cy="171.9" r="4" fill="#A78BFA"/>
+<text x="267.8" y="175.9" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="381.8" y="175.9" font-size="11" fill="#e5e7eb" text-anchor="end">6,087</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="325.50" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="327.04" y="278.57" width="12.34" height="19.43" fill="#60A5FA"/>
+<rect class="seg" x="327.04" y="276.53" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="327.04" y="274.51" width="12.34" height="0.02" fill="#A78BFA"/>
+<g class="tip">
+<rect x="259.2" y="178.5" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="269.2" y="200.5" font-size="12" font-weight="600" fill="#e5e7eb">Feb 9</text>
+<circle cx="273.2" cy="212.5" r="4" fill="#60A5FA"/>
+<text x="283.2" y="216.5" font-size="11" fill="#9ca3af">Input</text>
+<text x="397.2" y="216.5" font-size="11" fill="#e5e7eb" text-anchor="end">571,537</text>
+<circle cx="273.2" cy="228.5" r="4" fill="#34D399"/>
+<text x="283.2" y="232.5" font-size="11" fill="#9ca3af">Output</text>
+<text x="397.2" y="232.5" font-size="11" fill="#e5e7eb" text-anchor="end">1,064</text>
+<circle cx="273.2" cy="244.5" r="4" fill="#A78BFA"/>
+<text x="283.2" y="248.5" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="397.2" y="248.5" font-size="11" fill="#e5e7eb" text-anchor="end">426</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="340.93" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="342.47" y="280.94" width="12.34" height="17.06" fill="#60A5FA"/>
+<rect class="seg" x="342.47" y="278.64" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="342.47" y="276.55" width="12.34" height="0.09" fill="#A78BFA"/>
+<g class="tip">
+<rect x="274.6" y="180.5" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="284.6" y="202.5" font-size="12" font-weight="600" fill="#e5e7eb">Feb 11</text>
+<circle cx="288.6" cy="214.5" r="4" fill="#60A5FA"/>
+<text x="298.6" y="218.5" font-size="11" fill="#9ca3af">Input</text>
+<text x="412.6" y="218.5" font-size="11" fill="#e5e7eb" text-anchor="end">508,279</text>
+<circle cx="288.6" cy="230.5" r="4" fill="#34D399"/>
+<text x="298.6" y="234.5" font-size="11" fill="#9ca3af">Output</text>
+<text x="412.6" y="234.5" font-size="11" fill="#e5e7eb" text-anchor="end">8,043</text>
+<circle cx="288.6" cy="246.5" r="4" fill="#A78BFA"/>
+<text x="298.6" y="250.5" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="412.6" y="250.5" font-size="11" fill="#e5e7eb" text-anchor="end">2,379</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="356.35" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="357.89" y="212.79" width="12.34" height="85.21" fill="#60A5FA"/>
+<rect class="seg" x="357.89" y="209.62" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="357.89" y="207.10" width="12.34" height="0.53" fill="#A78BFA"/>
+<g class="tip">
+<rect x="290.1" y="111.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="300.1" y="133.1" font-size="12" font-weight="600" fill="#e5e7eb">Feb 19</text>
+<circle cx="304.1" cy="145.1" r="4" fill="#60A5FA"/>
+<text x="314.1" y="149.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="428.1" y="149.1" font-size="11" fill="#e5e7eb" text-anchor="end">2,325,567</text>
+<circle cx="304.1" cy="161.1" r="4" fill="#34D399"/>
+<text x="314.1" y="165.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="428.1" y="165.1" font-size="11" fill="#e5e7eb" text-anchor="end">31,161</text>
+<circle cx="304.1" cy="177.1" r="4" fill="#A78BFA"/>
+<text x="314.1" y="181.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="428.1" y="181.1" font-size="11" fill="#e5e7eb" text-anchor="end">14,060</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="371.78" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="373.32" y="281.55" width="12.34" height="16.45" fill="#60A5FA"/>
+<rect class="seg" x="373.32" y="279.17" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="373.32" y="277.10" width="12.34" height="0.07" fill="#A78BFA"/>
+<text x="379.5" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Feb 24</text>
+<g class="tip">
+<rect x="305.5" y="181.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="315.5" y="203.1" font-size="12" font-weight="600" fill="#e5e7eb">Feb 24</text>
+<circle cx="319.5" cy="215.1" r="4" fill="#60A5FA"/>
+<text x="329.5" y="219.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="443.5" y="219.1" font-size="11" fill="#e5e7eb" text-anchor="end">491,912</text>
+<circle cx="319.5" cy="231.1" r="4" fill="#34D399"/>
+<text x="329.5" y="235.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="443.5" y="235.1" font-size="11" fill="#e5e7eb" text-anchor="end">10,094</text>
+<circle cx="319.5" cy="247.1" r="4" fill="#A78BFA"/>
+<text x="329.5" y="251.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="443.5" y="251.1" font-size="11" fill="#e5e7eb" text-anchor="end">1,931</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="387.21" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="388.75" y="207.87" width="12.34" height="90.13" fill="#60A5FA"/>
+<rect class="seg" x="388.75" y="204.58" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="388.75" y="202.14" width="12.34" height="0.44" fill="#A78BFA"/>
+<g class="tip">
+<rect x="320.9" y="106.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="330.9" y="128.1" font-size="12" font-weight="600" fill="#e5e7eb">Feb 26</text>
+<circle cx="334.9" cy="140.1" r="4" fill="#60A5FA"/>
+<text x="344.9" y="144.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="458.9" y="144.1" font-size="11" fill="#e5e7eb" text-anchor="end">2,456,795</text>
+<circle cx="334.9" cy="156.1" r="4" fill="#34D399"/>
+<text x="344.9" y="160.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="458.9" y="160.1" font-size="11" fill="#e5e7eb" text-anchor="end">34,501</text>
+<circle cx="334.9" cy="172.1" r="4" fill="#A78BFA"/>
+<text x="344.9" y="176.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="458.9" y="176.1" font-size="11" fill="#e5e7eb" text-anchor="end">11,644</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="402.63" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="404.17" y="290.58" width="12.34" height="7.42" fill="#60A5FA"/>
+<rect class="seg" x="404.17" y="288.34" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="404.17" y="286.28" width="12.34" height="0.07" fill="#A78BFA"/>
+<g class="tip">
+<rect x="336.3" y="190.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="346.3" y="212.3" font-size="12" font-weight="600" fill="#e5e7eb">Mar 3</text>
+<circle cx="350.3" cy="224.3" r="4" fill="#60A5FA"/>
+<text x="360.3" y="228.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="474.3" y="228.3" font-size="11" fill="#e5e7eb" text-anchor="end">251,241</text>
+<circle cx="350.3" cy="240.3" r="4" fill="#34D399"/>
+<text x="360.3" y="244.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="474.3" y="244.3" font-size="11" fill="#e5e7eb" text-anchor="end">6,330</text>
+<circle cx="350.3" cy="256.3" r="4" fill="#A78BFA"/>
+<text x="360.3" y="260.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="474.3" y="260.3" font-size="11" fill="#e5e7eb" text-anchor="end">1,756</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="418.06" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="419.60" y="224.06" width="12.34" height="73.94" fill="#60A5FA"/>
+<rect class="seg" x="419.60" y="221.14" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="419.60" y="218.90" width="12.34" height="0.24" fill="#A78BFA"/>
+<g class="tip">
+<rect x="351.8" y="122.9" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="361.8" y="144.9" font-size="12" font-weight="600" fill="#e5e7eb">Mar 4</text>
+<circle cx="365.8" cy="156.9" r="4" fill="#60A5FA"/>
+<text x="375.8" y="160.9" font-size="11" fill="#9ca3af">Input</text>
+<text x="489.8" y="160.9" font-size="11" fill="#e5e7eb" text-anchor="end">2,025,167</text>
+<circle cx="365.8" cy="172.9" r="4" fill="#34D399"/>
+<text x="375.8" y="176.9" font-size="11" fill="#9ca3af">Output</text>
+<text x="489.8" y="176.9" font-size="11" fill="#e5e7eb" text-anchor="end">24,527</text>
+<circle cx="365.8" cy="188.9" r="4" fill="#A78BFA"/>
+<text x="375.8" y="192.9" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="489.8" y="192.9" font-size="11" fill="#e5e7eb" text-anchor="end">6,306</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="433.48" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="435.03" y="248.27" width="12.34" height="49.73" fill="#60A5FA"/>
+<rect class="seg" x="435.03" y="245.35" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="435.03" y="243.10" width="12.34" height="0.25" fill="#A78BFA"/>
+<g class="tip">
+<rect x="367.2" y="147.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="377.2" y="169.1" font-size="12" font-weight="600" fill="#e5e7eb">Mar 5</text>
+<circle cx="381.2" cy="181.1" r="4" fill="#60A5FA"/>
+<text x="391.2" y="185.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="505.2" y="185.1" font-size="11" fill="#e5e7eb" text-anchor="end">1,379,353</text>
+<circle cx="381.2" cy="197.1" r="4" fill="#34D399"/>
+<text x="391.2" y="201.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="505.2" y="201.1" font-size="11" fill="#e5e7eb" text-anchor="end">24,649</text>
+<circle cx="381.2" cy="213.1" r="4" fill="#A78BFA"/>
+<text x="391.2" y="217.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="505.2" y="217.1" font-size="11" fill="#e5e7eb" text-anchor="end">6,604</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="448.91" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="450.45" y="266.35" width="12.34" height="31.65" fill="#60A5FA"/>
+<rect class="seg" x="450.45" y="264.11" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="450.45" y="262.02" width="12.34" height="0.09" fill="#A78BFA"/>
+<g class="tip">
+<rect x="382.6" y="166.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="392.6" y="188.0" font-size="12" font-weight="600" fill="#e5e7eb">Mar 6</text>
+<circle cx="396.6" cy="200.0" r="4" fill="#60A5FA"/>
+<text x="406.6" y="204.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="520.6" y="204.0" font-size="11" fill="#e5e7eb" text-anchor="end">897,270</text>
+<circle cx="396.6" cy="216.0" r="4" fill="#34D399"/>
+<text x="406.6" y="220.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="520.6" y="220.0" font-size="11" fill="#e5e7eb" text-anchor="end">6,523</text>
+<circle cx="396.6" cy="232.0" r="4" fill="#A78BFA"/>
+<text x="406.6" y="236.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="520.6" y="236.0" font-size="11" fill="#e5e7eb" text-anchor="end">2,310</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="464.34" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="465.88" y="171.71" width="12.34" height="126.29" fill="#60A5FA"/>
+<rect class="seg" x="465.88" y="168.81" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="465.88" y="166.67" width="12.34" height="0.14" fill="#A78BFA"/>
+<g class="tip">
+<rect x="398.1" y="70.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="408.1" y="92.7" font-size="12" font-weight="600" fill="#e5e7eb">Mar 10</text>
+<circle cx="412.1" cy="104.7" r="4" fill="#60A5FA"/>
+<text x="422.1" y="108.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="536.1" y="108.7" font-size="11" fill="#e5e7eb" text-anchor="end">3,421,081</text>
+<circle cx="412.1" cy="120.7" r="4" fill="#34D399"/>
+<text x="422.1" y="124.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="536.1" y="124.7" font-size="11" fill="#e5e7eb" text-anchor="end">24,021</text>
+<circle cx="412.1" cy="136.7" r="4" fill="#A78BFA"/>
+<text x="422.1" y="140.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="536.1" y="140.7" font-size="11" fill="#e5e7eb" text-anchor="end">3,697</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="479.76" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="481.31" y="265.70" width="12.34" height="32.30" fill="#60A5FA"/>
+<rect class="seg" x="481.31" y="263.06" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="481.31" y="261.03" width="12.34" height="0.03" fill="#A78BFA"/>
+<g class="tip">
+<rect x="413.5" y="165.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="423.5" y="187.0" font-size="12" font-weight="600" fill="#e5e7eb">Mar 13</text>
+<circle cx="427.5" cy="199.0" r="4" fill="#60A5FA"/>
+<text x="437.5" y="203.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="551.5" y="203.0" font-size="11" fill="#e5e7eb" text-anchor="end">914,767</text>
+<circle cx="427.5" cy="215.0" r="4" fill="#34D399"/>
+<text x="437.5" y="219.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="551.5" y="219.0" font-size="11" fill="#e5e7eb" text-anchor="end">16,858</text>
+<circle cx="427.5" cy="231.0" r="4" fill="#A78BFA"/>
+<text x="437.5" y="235.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="551.5" y="235.0" font-size="11" fill="#e5e7eb" text-anchor="end">924</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="495.19" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="496.73" y="285.18" width="12.34" height="12.82" fill="#60A5FA"/>
+<rect class="seg" x="496.73" y="282.96" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="496.73" y="280.94" width="12.34" height="0.01" fill="#A78BFA"/>
+<text x="502.9" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Mar 22</text>
+<g class="tip">
+<rect x="428.9" y="184.9" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="438.9" y="206.9" font-size="12" font-weight="600" fill="#e5e7eb">Mar 22</text>
+<circle cx="442.9" cy="218.9" r="4" fill="#60A5FA"/>
+<text x="452.9" y="222.9" font-size="11" fill="#9ca3af">Input</text>
+<text x="566.9" y="222.9" font-size="11" fill="#e5e7eb" text-anchor="end">395,294</text>
+<circle cx="442.9" cy="234.9" r="4" fill="#34D399"/>
+<text x="452.9" y="238.9" font-size="11" fill="#9ca3af">Output</text>
+<text x="566.9" y="238.9" font-size="11" fill="#e5e7eb" text-anchor="end">5,840</text>
+<circle cx="442.9" cy="250.9" r="4" fill="#A78BFA"/>
+<text x="452.9" y="254.9" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="566.9" y="254.9" font-size="11" fill="#e5e7eb" text-anchor="end">363</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="510.62" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="512.16" y="291.62" width="12.34" height="6.38" fill="#60A5FA"/>
+<rect class="seg" x="512.16" y="289.60" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="512.16" y="287.60" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="444.3" y="191.6" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="454.3" y="213.6" font-size="12" font-weight="600" fill="#e5e7eb">Apr 2</text>
+<circle cx="458.3" cy="225.6" r="4" fill="#60A5FA"/>
+<text x="468.3" y="229.6" font-size="11" fill="#9ca3af">Input</text>
+<text x="582.3" y="229.6" font-size="11" fill="#e5e7eb" text-anchor="end">223,340</text>
+<circle cx="458.3" cy="241.6" r="4" fill="#34D399"/>
+<text x="468.3" y="245.6" font-size="11" fill="#9ca3af">Output</text>
+<text x="582.3" y="245.6" font-size="11" fill="#e5e7eb" text-anchor="end">564</text>
+<circle cx="458.3" cy="257.6" r="4" fill="#A78BFA"/>
+<text x="468.3" y="261.6" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="582.3" y="261.6" font-size="11" fill="#e5e7eb" text-anchor="end">57</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="526.04" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="527.59" y="258.93" width="12.34" height="39.07" fill="#60A5FA"/>
+<rect class="seg" x="527.59" y="256.32" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="527.59" y="254.01" width="12.34" height="0.31" fill="#A78BFA"/>
+<g class="tip">
+<rect x="459.8" y="158.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="469.8" y="180.0" font-size="12" font-weight="600" fill="#e5e7eb">Apr 3</text>
+<circle cx="473.8" cy="192.0" r="4" fill="#60A5FA"/>
+<text x="483.8" y="196.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="597.8" y="196.0" font-size="11" fill="#e5e7eb" text-anchor="end">1,095,233</text>
+<circle cx="473.8" cy="208.0" r="4" fill="#34D399"/>
+<text x="483.8" y="212.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="597.8" y="212.0" font-size="11" fill="#e5e7eb" text-anchor="end">16,319</text>
+<circle cx="473.8" cy="224.0" r="4" fill="#A78BFA"/>
+<text x="483.8" y="228.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="597.8" y="228.0" font-size="11" fill="#e5e7eb" text-anchor="end">8,244</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="541.47" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="543.01" y="114.04" width="12.34" height="183.96" fill="#60A5FA"/>
+<rect class="seg" x="543.01" y="110.76" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="543.01" y="108.04" width="12.34" height="0.72" fill="#A78BFA"/>
+<g class="tip">
+<rect x="475.2" y="12.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="485.2" y="34.0" font-size="12" font-weight="600" fill="#e5e7eb">Apr 10</text>
+<circle cx="489.2" cy="46.0" r="4" fill="#60A5FA"/>
+<text x="499.2" y="50.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="613.2" y="50.0" font-size="11" fill="#e5e7eb" text-anchor="end">4,958,836</text>
+<circle cx="489.2" cy="62.0" r="4" fill="#34D399"/>
+<text x="499.2" y="66.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="613.2" y="66.0" font-size="11" fill="#e5e7eb" text-anchor="end">34,127</text>
+<circle cx="489.2" cy="78.0" r="4" fill="#A78BFA"/>
+<text x="499.2" y="82.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="613.2" y="82.0" font-size="11" fill="#e5e7eb" text-anchor="end">19,173</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="556.90" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="558.44" y="170.34" width="12.34" height="127.66" fill="#60A5FA"/>
+<rect class="seg" x="558.44" y="167.28" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="558.44" y="165.17" width="12.34" height="0.11" fill="#A78BFA"/>
+<g class="tip">
+<rect x="490.6" y="69.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="500.6" y="91.2" font-size="12" font-weight="600" fill="#e5e7eb">Apr 17</text>
+<circle cx="504.6" cy="103.2" r="4" fill="#60A5FA"/>
+<text x="514.6" y="107.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="628.6" y="107.2" font-size="11" fill="#e5e7eb" text-anchor="end">3,457,505</text>
+<circle cx="504.6" cy="119.2" r="4" fill="#34D399"/>
+<text x="514.6" y="123.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="628.6" y="123.2" font-size="11" fill="#e5e7eb" text-anchor="end">28,312</text>
+<circle cx="504.6" cy="135.2" r="4" fill="#A78BFA"/>
+<text x="514.6" y="139.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="628.6" y="139.2" font-size="11" fill="#e5e7eb" text-anchor="end">2,894</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="572.32" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="573.87" y="53.46" width="12.34" height="244.54" fill="#60A5FA"/>
+<rect class="seg" x="573.87" y="49.75" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="573.87" y="47.43" width="12.34" height="0.32" fill="#A78BFA"/>
+<g class="tip">
+<rect x="506.0" y="-36.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="516.0" y="-14.0" font-size="12" font-weight="600" fill="#e5e7eb">Apr 21</text>
+<circle cx="520.0" cy="-2.0" r="4" fill="#60A5FA"/>
+<text x="530.0" y="2.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="644.0" y="2.0" font-size="11" fill="#e5e7eb" text-anchor="end">6,574,387</text>
+<circle cx="520.0" cy="14.0" r="4" fill="#34D399"/>
+<text x="530.0" y="18.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="644.0" y="18.0" font-size="11" fill="#e5e7eb" text-anchor="end">45,656</text>
+<circle cx="520.0" cy="30.0" r="4" fill="#A78BFA"/>
+<text x="530.0" y="34.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="644.0" y="34.0" font-size="11" fill="#e5e7eb" text-anchor="end">8,527</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="587.75" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="589.29" y="265.77" width="12.34" height="32.23" fill="#60A5FA"/>
+<rect class="seg" x="589.29" y="263.71" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="589.29" y="261.68" width="12.34" height="0.03" fill="#A78BFA"/>
+<g class="tip">
+<rect x="521.5" y="165.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="531.5" y="187.7" font-size="12" font-weight="600" fill="#e5e7eb">Apr 22</text>
+<circle cx="535.5" cy="199.7" r="4" fill="#60A5FA"/>
+<text x="545.5" y="203.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="659.5" y="203.7" font-size="11" fill="#e5e7eb" text-anchor="end">912,763</text>
+<circle cx="535.5" cy="215.7" r="4" fill="#34D399"/>
+<text x="545.5" y="219.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="659.5" y="219.7" font-size="11" fill="#e5e7eb" text-anchor="end">1,735</text>
+<circle cx="535.5" cy="231.7" r="4" fill="#A78BFA"/>
+<text x="545.5" y="235.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="659.5" y="235.7" font-size="11" fill="#e5e7eb" text-anchor="end">698</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="603.18" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="604.72" y="299.74" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="604.72" y="297.73" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="604.72" y="295.73" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="536.9" y="199.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="546.9" y="221.7" font-size="12" font-weight="600" fill="#e5e7eb">Apr 23</text>
+<circle cx="550.9" cy="233.7" r="4" fill="#60A5FA"/>
+<text x="560.9" y="237.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="674.9" y="237.7" font-size="11" fill="#e5e7eb" text-anchor="end">6,913</text>
+<circle cx="550.9" cy="249.7" r="4" fill="#34D399"/>
+<text x="560.9" y="253.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="674.9" y="253.7" font-size="11" fill="#e5e7eb" text-anchor="end">181</text>
+<circle cx="550.9" cy="265.7" r="4" fill="#A78BFA"/>
+<text x="560.9" y="269.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="674.9" y="269.7" font-size="11" fill="#e5e7eb" text-anchor="end">114</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="618.60" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="620.15" y="280.83" width="12.34" height="17.17" fill="#60A5FA"/>
+<rect class="seg" x="620.15" y="278.42" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="620.15" y="276.29" width="12.34" height="0.14" fill="#A78BFA"/>
+<text x="626.3" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Apr 24</text>
+<g class="tip">
+<rect x="552.3" y="180.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="562.3" y="202.3" font-size="12" font-weight="600" fill="#e5e7eb">Apr 24</text>
+<circle cx="566.3" cy="214.3" r="4" fill="#60A5FA"/>
+<text x="576.3" y="218.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="690.3" y="218.3" font-size="11" fill="#e5e7eb" text-anchor="end">511,226</text>
+<circle cx="566.3" cy="230.3" r="4" fill="#34D399"/>
+<text x="576.3" y="234.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="690.3" y="234.3" font-size="11" fill="#e5e7eb" text-anchor="end">10,810</text>
+<circle cx="566.3" cy="246.3" r="4" fill="#A78BFA"/>
+<text x="576.3" y="250.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="690.3" y="250.3" font-size="11" fill="#e5e7eb" text-anchor="end">3,648</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="634.03" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="635.57" y="230.38" width="12.34" height="67.62" fill="#60A5FA"/>
+<rect class="seg" x="635.57" y="227.70" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="635.57" y="225.40" width="12.34" height="0.29" fill="#A78BFA"/>
+<g class="tip">
+<rect x="567.7" y="129.4" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="577.7" y="151.4" font-size="12" font-weight="600" fill="#e5e7eb">Apr 27</text>
+<circle cx="581.7" cy="163.4" r="4" fill="#60A5FA"/>
+<text x="591.7" y="167.4" font-size="11" fill="#9ca3af">Input</text>
+<text x="705.7" y="167.4" font-size="11" fill="#e5e7eb" text-anchor="end">1,856,584</text>
+<circle cx="581.7" cy="179.4" r="4" fill="#34D399"/>
+<text x="591.7" y="183.4" font-size="11" fill="#9ca3af">Output</text>
+<text x="705.7" y="183.4" font-size="11" fill="#e5e7eb" text-anchor="end">18,139</text>
+<circle cx="581.7" cy="195.4" r="4" fill="#A78BFA"/>
+<text x="591.7" y="199.4" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="705.7" y="199.4" font-size="11" fill="#e5e7eb" text-anchor="end">7,837</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="649.46" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="651.00" y="294.40" width="12.34" height="3.60" fill="#60A5FA"/>
+<rect class="seg" x="651.00" y="291.66" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="651.00" y="289.50" width="12.34" height="0.16" fill="#A78BFA"/>
+<g class="tip">
+<rect x="583.2" y="193.5" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="593.2" y="215.5" font-size="12" font-weight="600" fill="#e5e7eb">Apr 28</text>
+<circle cx="597.2" cy="227.5" r="4" fill="#60A5FA"/>
+<text x="607.2" y="231.5" font-size="11" fill="#9ca3af">Input</text>
+<text x="721.2" y="231.5" font-size="11" fill="#e5e7eb" text-anchor="end">149,369</text>
+<circle cx="597.2" cy="243.5" r="4" fill="#34D399"/>
+<text x="607.2" y="247.5" font-size="11" fill="#9ca3af">Output</text>
+<text x="721.2" y="247.5" font-size="11" fill="#e5e7eb" text-anchor="end">19,778</text>
+<circle cx="597.2" cy="259.5" r="4" fill="#A78BFA"/>
+<text x="607.2" y="263.5" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="721.2" y="263.5" font-size="11" fill="#e5e7eb" text-anchor="end">4,182</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="664.88" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="666.42" y="298.12" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="666.42" y="296.12" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="666.42" y="294.11" width="12.34" height="0.01" fill="#A78BFA"/>
+<g class="tip">
+<rect x="598.6" y="198.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="608.6" y="220.1" font-size="12" font-weight="600" fill="#e5e7eb">Apr 29</text>
+<circle cx="612.6" cy="232.1" r="4" fill="#60A5FA"/>
+<text x="622.6" y="236.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="736.6" y="236.1" font-size="11" fill="#e5e7eb" text-anchor="end">50,019</text>
+<circle cx="612.6" cy="248.1" r="4" fill="#34D399"/>
+<text x="622.6" y="252.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="736.6" y="252.1" font-size="11" fill="#e5e7eb" text-anchor="end">241</text>
+<circle cx="612.6" cy="264.1" r="4" fill="#A78BFA"/>
+<text x="622.6" y="268.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="736.6" y="268.1" font-size="11" fill="#e5e7eb" text-anchor="end">183</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="680.31" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="681.85" y="299.30" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="681.85" y="297.19" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="681.85" y="295.19" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="614.0" y="199.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="624.0" y="221.2" font-size="12" font-weight="600" fill="#e5e7eb">May 4</text>
+<circle cx="628.0" cy="233.2" r="4" fill="#60A5FA"/>
+<text x="638.0" y="237.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="752.0" y="237.2" font-size="11" fill="#e5e7eb" text-anchor="end">18,669</text>
+<circle cx="628.0" cy="249.2" r="4" fill="#34D399"/>
+<text x="638.0" y="253.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="752.0" y="253.2" font-size="11" fill="#e5e7eb" text-anchor="end">2,936</text>
+<circle cx="628.0" cy="265.2" r="4" fill="#A78BFA"/>
+<text x="638.0" y="269.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="752.0" y="269.2" font-size="11" fill="#e5e7eb" text-anchor="end">70</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="695.74" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="697.28" y="295.16" width="12.34" height="2.84" fill="#60A5FA"/>
+<rect class="seg" x="697.28" y="292.91" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="697.28" y="290.86" width="12.34" height="0.05" fill="#A78BFA"/>
+<g class="tip">
+<rect x="629.4" y="194.9" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="639.4" y="216.9" font-size="12" font-weight="600" fill="#e5e7eb">May 6</text>
+<circle cx="643.4" cy="228.9" r="4" fill="#60A5FA"/>
+<text x="653.4" y="232.9" font-size="11" fill="#9ca3af">Input</text>
+<text x="767.4" y="232.9" font-size="11" fill="#e5e7eb" text-anchor="end">129,195</text>
+<circle cx="643.4" cy="244.9" r="4" fill="#34D399"/>
+<text x="653.4" y="248.9" font-size="11" fill="#9ca3af">Output</text>
+<text x="767.4" y="248.9" font-size="11" fill="#e5e7eb" text-anchor="end">6,481</text>
+<circle cx="643.4" cy="260.9" r="4" fill="#A78BFA"/>
+<text x="653.4" y="264.9" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="767.4" y="264.9" font-size="11" fill="#e5e7eb" text-anchor="end">1,388</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="711.16" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="712.70" y="285.66" width="12.34" height="12.34" fill="#60A5FA"/>
+<rect class="seg" x="712.70" y="282.41" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="712.70" y="280.19" width="12.34" height="0.22" fill="#A78BFA"/>
+<g class="tip">
+<rect x="644.9" y="184.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="654.9" y="206.2" font-size="12" font-weight="600" fill="#e5e7eb">May 7</text>
+<circle cx="658.9" cy="218.2" r="4" fill="#60A5FA"/>
+<text x="668.9" y="222.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="782.9" y="222.2" font-size="11" fill="#e5e7eb" text-anchor="end">382,288</text>
+<circle cx="658.9" cy="234.2" r="4" fill="#34D399"/>
+<text x="668.9" y="238.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="782.9" y="238.2" font-size="11" fill="#e5e7eb" text-anchor="end">33,413</text>
+<circle cx="658.9" cy="250.2" r="4" fill="#A78BFA"/>
+<text x="668.9" y="254.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="782.9" y="254.2" font-size="11" fill="#e5e7eb" text-anchor="end">5,851</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="726.59" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="728.13" y="258.07" width="12.34" height="39.93" fill="#60A5FA"/>
+<rect class="seg" x="728.13" y="254.28" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="728.13" y="251.92" width="12.34" height="0.35" fill="#A78BFA"/>
+<g class="tip">
+<rect x="660.3" y="155.9" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="670.3" y="177.9" font-size="12" font-weight="600" fill="#e5e7eb">May 8</text>
+<circle cx="674.3" cy="189.9" r="4" fill="#60A5FA"/>
+<text x="684.3" y="193.9" font-size="11" fill="#9ca3af">Input</text>
+<text x="798.3" y="193.9" font-size="11" fill="#e5e7eb" text-anchor="end">1,118,024</text>
+<circle cx="674.3" cy="205.9" r="4" fill="#34D399"/>
+<text x="684.3" y="209.9" font-size="11" fill="#9ca3af">Output</text>
+<text x="798.3" y="209.9" font-size="11" fill="#e5e7eb" text-anchor="end">47,903</text>
+<circle cx="674.3" cy="221.9" r="4" fill="#A78BFA"/>
+<text x="684.3" y="225.9" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="798.3" y="225.9" font-size="11" fill="#e5e7eb" text-anchor="end">9,426</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="742.01" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="743.56" y="215.99" width="12.34" height="82.01" fill="#60A5FA"/>
+<rect class="seg" x="743.56" y="211.31" width="12.34" height="0.67" fill="#34D399"/>
+<rect class="seg" x="743.56" y="208.90" width="12.34" height="0.41" fill="#A78BFA"/>
+<text x="749.7" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">May 11</text>
+<g class="tip">
+<rect x="675.7" y="112.9" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="685.7" y="134.9" font-size="12" font-weight="600" fill="#e5e7eb">May 11</text>
+<circle cx="689.7" cy="146.9" r="4" fill="#60A5FA"/>
+<text x="699.7" y="150.9" font-size="11" fill="#9ca3af">Input</text>
+<text x="813.7" y="150.9" font-size="11" fill="#e5e7eb" text-anchor="end">2,240,352</text>
+<circle cx="689.7" cy="162.9" r="4" fill="#34D399"/>
+<text x="699.7" y="166.9" font-size="11" fill="#9ca3af">Output</text>
+<text x="813.7" y="166.9" font-size="11" fill="#e5e7eb" text-anchor="end">71,332</text>
+<circle cx="689.7" cy="178.9" r="4" fill="#A78BFA"/>
+<text x="699.7" y="182.9" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="813.7" y="182.9" font-size="11" fill="#e5e7eb" text-anchor="end">10,934</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="757.44" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="758.98" y="283.16" width="12.34" height="14.84" fill="#60A5FA"/>
+<rect class="seg" x="758.98" y="280.96" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="758.98" y="278.96" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="691.2" y="183.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="701.2" y="205.0" font-size="12" font-weight="600" fill="#e5e7eb">May 12</text>
+<circle cx="705.2" cy="217.0" r="4" fill="#60A5FA"/>
+<text x="715.2" y="221.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="829.2" y="221.0" font-size="11" fill="#e5e7eb" text-anchor="end">449,037</text>
+<circle cx="705.2" cy="233.0" r="4" fill="#34D399"/>
+<text x="715.2" y="237.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="829.2" y="237.0" font-size="11" fill="#e5e7eb" text-anchor="end">5,423</text>
+<circle cx="705.2" cy="249.0" r="4" fill="#A78BFA"/>
+<text x="715.2" y="253.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="829.2" y="253.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="772.87" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="774.41" y="298.42" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="774.41" y="296.09" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="774.41" y="294.09" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="706.6" y="198.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="716.6" y="220.1" font-size="12" font-weight="600" fill="#e5e7eb">May 13</text>
+<circle cx="720.6" cy="232.1" r="4" fill="#60A5FA"/>
+<text x="730.6" y="236.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="844.6" y="236.1" font-size="11" fill="#e5e7eb" text-anchor="end">42,031</text>
+<circle cx="720.6" cy="248.1" r="4" fill="#34D399"/>
+<text x="730.6" y="252.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="844.6" y="252.1" font-size="11" fill="#e5e7eb" text-anchor="end">8,840</text>
+<circle cx="720.6" cy="264.1" r="4" fill="#A78BFA"/>
+<text x="730.6" y="268.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="844.6" y="268.1" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="788.29" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="789.84" y="296.73" width="12.34" height="1.27" fill="#60A5FA"/>
+<rect class="seg" x="789.84" y="294.40" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="789.84" y="292.32" width="12.34" height="0.08" fill="#A78BFA"/>
+<g class="tip">
+<rect x="722.0" y="196.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="732.0" y="218.3" font-size="12" font-weight="600" fill="#e5e7eb">May 14</text>
+<circle cx="736.0" cy="230.3" r="4" fill="#60A5FA"/>
+<text x="746.0" y="234.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="860.0" y="234.3" font-size="11" fill="#e5e7eb" text-anchor="end">87,316</text>
+<circle cx="736.0" cy="246.3" r="4" fill="#34D399"/>
+<text x="746.0" y="250.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="860.0" y="250.3" font-size="11" fill="#e5e7eb" text-anchor="end">8,665</text>
+<circle cx="736.0" cy="262.3" r="4" fill="#A78BFA"/>
+<text x="746.0" y="266.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="860.0" y="266.3" font-size="11" fill="#e5e7eb" text-anchor="end">2,174</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="803.72" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="805.26" y="280.81" width="12.34" height="17.19" fill="#60A5FA"/>
+<rect class="seg" x="805.26" y="278.18" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="805.26" y="276.18" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="737.4" y="180.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="747.4" y="202.2" font-size="12" font-weight="600" fill="#e5e7eb">May 15</text>
+<circle cx="751.4" cy="214.2" r="4" fill="#60A5FA"/>
+<text x="761.4" y="218.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="875.4" y="218.2" font-size="11" fill="#e5e7eb" text-anchor="end">511,738</text>
+<circle cx="751.4" cy="230.2" r="4" fill="#34D399"/>
+<text x="761.4" y="234.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="875.4" y="234.2" font-size="11" fill="#e5e7eb" text-anchor="end">16,830</text>
+<circle cx="751.4" cy="246.2" r="4" fill="#A78BFA"/>
+<text x="761.4" y="250.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="875.4" y="250.2" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="819.15" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="820.69" y="300.00" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="820.69" y="297.84" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="820.69" y="295.84" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="752.9" y="199.8" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="762.9" y="221.8" font-size="12" font-weight="600" fill="#e5e7eb">May 17</text>
+<circle cx="766.9" cy="233.8" r="4" fill="#60A5FA"/>
+<text x="776.9" y="237.8" font-size="11" fill="#9ca3af">Input</text>
+<text x="890.9" y="237.8" font-size="11" fill="#e5e7eb" text-anchor="end">16</text>
+<circle cx="766.9" cy="249.8" r="4" fill="#34D399"/>
+<text x="776.9" y="253.8" font-size="11" fill="#9ca3af">Output</text>
+<text x="890.9" y="253.8" font-size="11" fill="#e5e7eb" text-anchor="end">4,264</text>
+<circle cx="766.9" cy="265.8" r="4" fill="#A78BFA"/>
+<text x="776.9" y="269.8" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="890.9" y="269.8" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="834.57" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="836.12" y="299.31" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="836.12" y="296.00" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="836.12" y="293.99" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="768.3" y="198.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="778.3" y="220.0" font-size="12" font-weight="600" fill="#e5e7eb">May 18</text>
+<circle cx="782.3" cy="232.0" r="4" fill="#60A5FA"/>
+<text x="792.3" y="236.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="906.3" y="236.0" font-size="11" fill="#e5e7eb" text-anchor="end">18,444</text>
+<circle cx="782.3" cy="248.0" r="4" fill="#34D399"/>
+<text x="792.3" y="252.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="906.3" y="252.0" font-size="11" fill="#e5e7eb" text-anchor="end">34,978</text>
+<circle cx="782.3" cy="264.0" r="4" fill="#A78BFA"/>
+<text x="792.3" y="268.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="906.3" y="268.0" font-size="11" fill="#e5e7eb" text-anchor="end">51</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="850.00" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="851.54" y="284.64" width="12.34" height="13.36" fill="#60A5FA"/>
+<rect class="seg" x="851.54" y="281.94" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="851.54" y="279.82" width="12.34" height="0.13" fill="#A78BFA"/>
+<g class="tip">
+<rect x="783.7" y="183.8" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="793.7" y="205.8" font-size="12" font-weight="600" fill="#e5e7eb">May 19</text>
+<circle cx="797.7" cy="217.8" r="4" fill="#60A5FA"/>
+<text x="807.7" y="221.8" font-size="11" fill="#9ca3af">Input</text>
+<text x="921.7" y="221.8" font-size="11" fill="#e5e7eb" text-anchor="end">409,519</text>
+<circle cx="797.7" cy="233.8" r="4" fill="#34D399"/>
+<text x="807.7" y="237.8" font-size="11" fill="#9ca3af">Output</text>
+<text x="921.7" y="237.8" font-size="11" fill="#e5e7eb" text-anchor="end">18,666</text>
+<circle cx="797.7" cy="249.8" r="4" fill="#A78BFA"/>
+<text x="807.7" y="253.8" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="921.7" y="253.8" font-size="11" fill="#e5e7eb" text-anchor="end">3,377</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="865.43" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="866.97" y="293.44" width="12.34" height="4.56" fill="#60A5FA"/>
+<rect class="seg" x="866.97" y="291.07" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="866.97" y="289.02" width="12.34" height="0.05" fill="#A78BFA"/>
+<text x="873.1" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">May 21</text>
+<g class="tip">
+<rect x="799.1" y="193.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="809.1" y="215.0" font-size="12" font-weight="600" fill="#e5e7eb">May 21</text>
+<circle cx="813.1" cy="227.0" r="4" fill="#60A5FA"/>
+<text x="823.1" y="231.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="937.1" y="231.0" font-size="11" fill="#e5e7eb" text-anchor="end">175,035</text>
+<circle cx="813.1" cy="243.0" r="4" fill="#34D399"/>
+<text x="823.1" y="247.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="937.1" y="247.0" font-size="11" fill="#e5e7eb" text-anchor="end">9,724</text>
+<circle cx="813.1" cy="259.0" r="4" fill="#A78BFA"/>
+<text x="823.1" y="263.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="937.1" y="263.0" font-size="11" fill="#e5e7eb" text-anchor="end">1,258</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="880.85" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="882.40" y="298.12" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="882.40" y="295.83" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="882.40" y="293.82" width="12.34" height="0.01" fill="#A78BFA"/>
+<g class="tip">
+<rect x="814.6" y="197.8" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="824.6" y="219.8" font-size="12" font-weight="600" fill="#e5e7eb">May 22</text>
+<circle cx="828.6" cy="231.8" r="4" fill="#60A5FA"/>
+<text x="838.6" y="235.8" font-size="11" fill="#9ca3af">Input</text>
+<text x="952.6" y="235.8" font-size="11" fill="#e5e7eb" text-anchor="end">50,141</text>
+<circle cx="828.6" cy="247.8" r="4" fill="#34D399"/>
+<text x="838.6" y="251.8" font-size="11" fill="#9ca3af">Output</text>
+<text x="952.6" y="251.8" font-size="11" fill="#e5e7eb" text-anchor="end">7,699</text>
+<circle cx="828.6" cy="263.8" r="4" fill="#A78BFA"/>
+<text x="838.6" y="267.8" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="952.6" y="267.8" font-size="11" fill="#e5e7eb" text-anchor="end">348</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="896.28" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="897.82" y="299.20" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="897.82" y="297.17" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="897.82" y="295.16" width="12.34" height="0.01" fill="#A78BFA"/>
+<g class="tip">
+<rect x="830.0" y="199.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="840.0" y="221.2" font-size="12" font-weight="600" fill="#e5e7eb">May 26</text>
+<circle cx="844.0" cy="233.2" r="4" fill="#60A5FA"/>
+<text x="854.0" y="237.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="968.0" y="237.2" font-size="11" fill="#e5e7eb" text-anchor="end">21,213</text>
+<circle cx="844.0" cy="249.2" r="4" fill="#34D399"/>
+<text x="854.0" y="253.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="968.0" y="253.2" font-size="11" fill="#e5e7eb" text-anchor="end">799</text>
+<circle cx="844.0" cy="265.2" r="4" fill="#A78BFA"/>
+<text x="854.0" y="269.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="968.0" y="269.2" font-size="11" fill="#e5e7eb" text-anchor="end">277</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="911.71" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="913.25" y="300.00" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="913.25" y="298.00" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="913.25" y="296.00" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="845.4" y="200.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="855.4" y="222.0" font-size="12" font-weight="600" fill="#e5e7eb">May 27</text>
+<circle cx="859.4" cy="234.0" r="4" fill="#60A5FA"/>
+<text x="869.4" y="238.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="983.4" y="238.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="859.4" cy="250.0" r="4" fill="#34D399"/>
+<text x="869.4" y="254.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="983.4" y="254.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="859.4" cy="266.0" r="4" fill="#A78BFA"/>
+<text x="869.4" y="270.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="983.4" y="270.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="927.13" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="928.68" y="300.00" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="928.68" y="298.00" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="928.68" y="296.00" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="860.8" y="200.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="870.8" y="222.0" font-size="12" font-weight="600" fill="#e5e7eb">May 28</text>
+<circle cx="874.8" cy="234.0" r="4" fill="#60A5FA"/>
+<text x="884.8" y="238.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="998.8" y="238.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="874.8" cy="250.0" r="4" fill="#34D399"/>
+<text x="884.8" y="254.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="998.8" y="254.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="874.8" cy="266.0" r="4" fill="#A78BFA"/>
+<text x="884.8" y="270.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="998.8" y="270.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="942.56" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="944.10" y="294.29" width="12.34" height="3.71" fill="#60A5FA"/>
+<rect class="seg" x="944.10" y="291.82" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="944.10" y="289.73" width="12.34" height="0.10" fill="#A78BFA"/>
+<g class="tip">
+<rect x="876.3" y="193.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="886.3" y="215.7" font-size="12" font-weight="600" fill="#e5e7eb">May 29</text>
+<circle cx="890.3" cy="227.7" r="4" fill="#60A5FA"/>
+<text x="900.3" y="231.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="1014.3" y="231.7" font-size="11" fill="#e5e7eb" text-anchor="end">152,247</text>
+<circle cx="890.3" cy="243.7" r="4" fill="#34D399"/>
+<text x="900.3" y="247.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="1014.3" y="247.7" font-size="11" fill="#e5e7eb" text-anchor="end">12,445</text>
+<circle cx="890.3" cy="259.7" r="4" fill="#A78BFA"/>
+<text x="900.3" y="263.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1014.3" y="263.7" font-size="11" fill="#e5e7eb" text-anchor="end">2,571</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="957.99" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="959.53" y="288.15" width="12.34" height="9.85" fill="#60A5FA"/>
+<rect class="seg" x="959.53" y="285.31" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="959.53" y="283.17" width="12.34" height="0.13" fill="#A78BFA"/>
+<g class="tip">
+<rect x="891.7" y="187.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="901.7" y="209.2" font-size="12" font-weight="600" fill="#e5e7eb">May 31</text>
+<circle cx="905.7" cy="221.2" r="4" fill="#60A5FA"/>
+<text x="915.7" y="225.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="1029.7" y="225.2" font-size="11" fill="#e5e7eb" text-anchor="end">315,956</text>
+<circle cx="905.7" cy="237.2" r="4" fill="#34D399"/>
+<text x="915.7" y="241.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="1029.7" y="241.2" font-size="11" fill="#e5e7eb" text-anchor="end">22,557</text>
+<circle cx="905.7" cy="253.2" r="4" fill="#A78BFA"/>
+<text x="915.7" y="257.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1029.7" y="257.2" font-size="11" fill="#e5e7eb" text-anchor="end">3,596</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="973.41" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="974.95" y="279.46" width="12.34" height="18.54" fill="#60A5FA"/>
+<rect class="seg" x="974.95" y="275.63" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="974.95" y="273.35" width="12.34" height="0.28" fill="#A78BFA"/>
+<g class="tip">
+<rect x="907.1" y="177.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="917.1" y="199.3" font-size="12" font-weight="600" fill="#e5e7eb">Jun 1</text>
+<circle cx="921.1" cy="211.3" r="4" fill="#60A5FA"/>
+<text x="931.1" y="215.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="1045.1" y="215.3" font-size="11" fill="#e5e7eb" text-anchor="end">547,702</text>
+<circle cx="921.1" cy="227.3" r="4" fill="#34D399"/>
+<text x="931.1" y="231.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="1045.1" y="231.3" font-size="11" fill="#e5e7eb" text-anchor="end">48,825</text>
+<circle cx="921.1" cy="243.3" r="4" fill="#A78BFA"/>
+<text x="931.1" y="247.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1045.1" y="247.3" font-size="11" fill="#e5e7eb" text-anchor="end">7,485</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="988.84" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="990.38" y="290.74" width="12.34" height="7.26" fill="#60A5FA"/>
+<rect class="seg" x="990.38" y="287.74" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="990.38" y="285.61" width="12.34" height="0.13" fill="#A78BFA"/>
+<text x="996.6" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Jun 4</text>
+<g class="tip">
+<rect x="922.6" y="189.6" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="932.6" y="211.6" font-size="12" font-weight="600" fill="#e5e7eb">Jun 4</text>
+<circle cx="936.6" cy="223.6" r="4" fill="#60A5FA"/>
+<text x="946.6" y="227.6" font-size="11" fill="#9ca3af">Input</text>
+<text x="1060.6" y="227.6" font-size="11" fill="#e5e7eb" text-anchor="end">246,993</text>
+<circle cx="936.6" cy="239.6" r="4" fill="#34D399"/>
+<text x="946.6" y="243.6" font-size="11" fill="#9ca3af">Output</text>
+<text x="1060.6" y="243.6" font-size="11" fill="#e5e7eb" text-anchor="end">26,551</text>
+<circle cx="936.6" cy="255.6" r="4" fill="#A78BFA"/>
+<text x="946.6" y="259.6" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1060.6" y="259.6" font-size="11" fill="#e5e7eb" text-anchor="end">3,584</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1004.26" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1005.81" y="297.66" width="12.34" height="0.34" fill="#60A5FA"/>
+<rect class="seg" x="1005.81" y="295.61" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1005.81" y="293.60" width="12.34" height="0.02" fill="#A78BFA"/>
+<g class="tip">
+<rect x="938.0" y="197.6" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="948.0" y="219.6" font-size="12" font-weight="600" fill="#e5e7eb">Jun 5</text>
+<circle cx="952.0" cy="231.6" r="4" fill="#60A5FA"/>
+<text x="962.0" y="235.6" font-size="11" fill="#9ca3af">Input</text>
+<text x="1076.0" y="235.6" font-size="11" fill="#e5e7eb" text-anchor="end">62,357</text>
+<circle cx="952.0" cy="247.6" r="4" fill="#34D399"/>
+<text x="962.0" y="251.6" font-size="11" fill="#9ca3af">Output</text>
+<text x="1076.0" y="251.6" font-size="11" fill="#e5e7eb" text-anchor="end">1,246</text>
+<circle cx="952.0" cy="263.6" r="4" fill="#A78BFA"/>
+<text x="962.0" y="267.6" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1076.0" y="267.6" font-size="11" fill="#e5e7eb" text-anchor="end">427</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1019.69" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1021.23" y="278.27" width="12.34" height="19.73" fill="#60A5FA"/>
+<rect class="seg" x="1021.23" y="274.61" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1021.23" y="271.85" width="12.34" height="0.76" fill="#A78BFA"/>
+<g class="tip">
+<rect x="953.4" y="175.8" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="963.4" y="197.8" font-size="12" font-weight="600" fill="#e5e7eb">Jun 8</text>
+<circle cx="967.4" cy="209.8" r="4" fill="#60A5FA"/>
+<text x="977.4" y="213.8" font-size="11" fill="#9ca3af">Input</text>
+<text x="1091.4" y="213.8" font-size="11" fill="#e5e7eb" text-anchor="end">579,425</text>
+<circle cx="967.4" cy="225.8" r="4" fill="#34D399"/>
+<text x="977.4" y="229.8" font-size="11" fill="#9ca3af">Output</text>
+<text x="1091.4" y="229.8" font-size="11" fill="#e5e7eb" text-anchor="end">44,230</text>
+<circle cx="967.4" cy="241.8" r="4" fill="#A78BFA"/>
+<text x="977.4" y="245.8" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1091.4" y="245.8" font-size="11" fill="#e5e7eb" text-anchor="end">20,400</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1035.12" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1036.66" y="300.00" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1036.66" y="298.00" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1036.66" y="296.00" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="968.8" y="200.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="978.8" y="222.0" font-size="12" font-weight="600" fill="#e5e7eb">Jun 9</text>
+<circle cx="982.8" cy="234.0" r="4" fill="#60A5FA"/>
+<text x="992.8" y="238.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1106.8" y="238.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="982.8" cy="250.0" r="4" fill="#34D399"/>
+<text x="992.8" y="254.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1106.8" y="254.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="982.8" cy="266.0" r="4" fill="#A78BFA"/>
+<text x="992.8" y="270.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1106.8" y="270.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1050.54" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1052.09" y="299.23" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1052.09" y="297.22" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1052.09" y="295.22" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="984.3" y="199.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="994.3" y="221.2" font-size="12" font-weight="600" fill="#e5e7eb">Jun 10</text>
+<circle cx="998.3" cy="233.2" r="4" fill="#60A5FA"/>
+<text x="1008.3" y="237.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="1122.3" y="237.2" font-size="11" fill="#e5e7eb" text-anchor="end">20,496</text>
+<circle cx="998.3" cy="249.2" r="4" fill="#34D399"/>
+<text x="1008.3" y="253.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="1122.3" y="253.2" font-size="11" fill="#e5e7eb" text-anchor="end">380</text>
+<circle cx="998.3" cy="265.2" r="4" fill="#A78BFA"/>
+<text x="1008.3" y="269.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1122.3" y="269.2" font-size="11" fill="#e5e7eb" text-anchor="end">51</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1065.97" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1067.51" y="292.91" width="12.34" height="5.09" fill="#60A5FA"/>
+<rect class="seg" x="1067.51" y="290.56" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1067.51" y="288.53" width="12.34" height="0.03" fill="#A78BFA"/>
+<g class="tip">
+<rect x="999.7" y="192.5" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1009.7" y="214.5" font-size="12" font-weight="600" fill="#e5e7eb">Jun 11</text>
+<circle cx="1013.7" cy="226.5" r="4" fill="#60A5FA"/>
+<text x="1023.7" y="230.5" font-size="11" fill="#9ca3af">Input</text>
+<text x="1137.7" y="230.5" font-size="11" fill="#e5e7eb" text-anchor="end">189,011</text>
+<circle cx="1013.7" cy="242.5" r="4" fill="#34D399"/>
+<text x="1023.7" y="246.5" font-size="11" fill="#9ca3af">Output</text>
+<text x="1137.7" y="246.5" font-size="11" fill="#e5e7eb" text-anchor="end">9,271</text>
+<circle cx="1013.7" cy="258.5" r="4" fill="#A78BFA"/>
+<text x="1023.7" y="262.5" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1137.7" y="262.5" font-size="11" fill="#e5e7eb" text-anchor="end">814</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1081.40" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1082.94" y="279.17" width="12.34" height="18.83" fill="#60A5FA"/>
+<rect class="seg" x="1082.94" y="276.29" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1082.94" y="274.04" width="12.34" height="0.25" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1015.1" y="178.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1025.1" y="200.0" font-size="12" font-weight="600" fill="#e5e7eb">Jun 12</text>
+<circle cx="1029.1" cy="212.0" r="4" fill="#60A5FA"/>
+<text x="1039.1" y="216.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1153.1" y="216.0" font-size="11" fill="#e5e7eb" text-anchor="end">555,412</text>
+<circle cx="1029.1" cy="228.0" r="4" fill="#34D399"/>
+<text x="1039.1" y="232.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1153.1" y="232.0" font-size="11" fill="#e5e7eb" text-anchor="end">23,583</text>
+<circle cx="1029.1" cy="244.0" r="4" fill="#A78BFA"/>
+<text x="1039.1" y="248.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1153.1" y="248.0" font-size="11" fill="#e5e7eb" text-anchor="end">6,699</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1096.82" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1098.37" y="300.00" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1098.37" y="298.00" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1098.37" y="296.00" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1030.5" y="200.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1040.5" y="222.0" font-size="12" font-weight="600" fill="#e5e7eb">Jun 13</text>
+<circle cx="1044.5" cy="234.0" r="4" fill="#60A5FA"/>
+<text x="1054.5" y="238.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1168.5" y="238.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="1044.5" cy="250.0" r="4" fill="#34D399"/>
+<text x="1054.5" y="254.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1168.5" y="254.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="1044.5" cy="266.0" r="4" fill="#A78BFA"/>
+<text x="1054.5" y="270.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1168.5" y="270.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1112.25" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1113.79" y="200.88" width="12.34" height="97.12" fill="#60A5FA"/>
+<rect class="seg" x="1113.79" y="190.45" width="12.34" height="6.43" fill="#34D399"/>
+<rect class="seg" x="1113.79" y="188.04" width="12.34" height="0.42" fill="#A78BFA"/>
+<text x="1120.0" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Jun 15</text>
+<g class="tip">
+<rect x="1046.0" y="92.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1056.0" y="114.0" font-size="12" font-weight="600" fill="#e5e7eb">Jun 15</text>
+<circle cx="1060.0" cy="126.0" r="4" fill="#60A5FA"/>
+<text x="1070.0" y="130.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1184.0" y="130.0" font-size="11" fill="#e5e7eb" text-anchor="end">2,643,205</text>
+<circle cx="1060.0" cy="142.0" r="4" fill="#34D399"/>
+<text x="1070.0" y="146.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1184.0" y="146.0" font-size="11" fill="#e5e7eb" text-anchor="end">224,672</text>
+<circle cx="1060.0" cy="158.0" r="4" fill="#A78BFA"/>
+<text x="1070.0" y="162.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1184.0" y="162.0" font-size="11" fill="#e5e7eb" text-anchor="end">11,079</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1127.68" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1129.22" y="299.91" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1129.22" y="297.00" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1129.22" y="295.00" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1061.4" y="199.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1071.4" y="221.0" font-size="12" font-weight="600" fill="#e5e7eb">Jun 16</text>
+<circle cx="1075.4" cy="233.0" r="4" fill="#60A5FA"/>
+<text x="1085.4" y="237.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1199.4" y="237.0" font-size="11" fill="#e5e7eb" text-anchor="end">2,432</text>
+<circle cx="1075.4" cy="249.0" r="4" fill="#34D399"/>
+<text x="1085.4" y="253.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1199.4" y="253.0" font-size="11" fill="#e5e7eb" text-anchor="end">24,222</text>
+<circle cx="1075.4" cy="265.0" r="4" fill="#A78BFA"/>
+<text x="1085.4" y="269.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1199.4" y="269.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1143.10" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1144.65" y="294.10" width="12.34" height="3.90" fill="#60A5FA"/>
+<rect class="seg" x="1144.65" y="291.55" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1144.65" y="289.47" width="12.34" height="0.09" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1076.8" y="193.5" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1086.8" y="215.5" font-size="12" font-weight="600" fill="#e5e7eb">Jun 17</text>
+<circle cx="1090.8" cy="227.5" r="4" fill="#60A5FA"/>
+<text x="1100.8" y="231.5" font-size="11" fill="#9ca3af">Input</text>
+<text x="1214.8" y="231.5" font-size="11" fill="#e5e7eb" text-anchor="end">157,321</text>
+<circle cx="1090.8" cy="243.5" r="4" fill="#34D399"/>
+<text x="1100.8" y="247.5" font-size="11" fill="#9ca3af">Output</text>
+<text x="1214.8" y="247.5" font-size="11" fill="#e5e7eb" text-anchor="end">14,591</text>
+<circle cx="1090.8" cy="259.5" r="4" fill="#A78BFA"/>
+<text x="1100.8" y="263.5" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1214.8" y="263.5" font-size="11" fill="#e5e7eb" text-anchor="end">2,280</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1158.53" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1160.07" y="285.71" width="12.34" height="12.29" fill="#60A5FA"/>
+<rect class="seg" x="1160.07" y="272.99" width="12.34" height="8.72" fill="#34D399"/>
+<rect class="seg" x="1160.07" y="270.67" width="12.34" height="0.32" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1092.2" y="174.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1102.2" y="196.7" font-size="12" font-weight="600" fill="#e5e7eb">Jun 18</text>
+<circle cx="1106.2" cy="208.7" r="4" fill="#60A5FA"/>
+<text x="1116.2" y="212.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="1230.2" y="212.7" font-size="11" fill="#e5e7eb" text-anchor="end">381,096</text>
+<circle cx="1106.2" cy="224.7" r="4" fill="#34D399"/>
+<text x="1116.2" y="228.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="1230.2" y="228.7" font-size="11" fill="#e5e7eb" text-anchor="end">285,800</text>
+<circle cx="1106.2" cy="240.7" r="4" fill="#A78BFA"/>
+<text x="1116.2" y="244.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1230.2" y="244.7" font-size="11" fill="#e5e7eb" text-anchor="end">8,559</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1173.96" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1175.50" y="207.37" width="12.34" height="90.63" fill="#60A5FA"/>
+<rect class="seg" x="1175.50" y="199.41" width="12.34" height="3.96" fill="#34D399"/>
+<rect class="seg" x="1175.50" y="196.96" width="12.34" height="0.45" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1107.7" y="101.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1117.7" y="123.0" font-size="12" font-weight="600" fill="#e5e7eb">Jun 19</text>
+<circle cx="1121.7" cy="135.0" r="4" fill="#60A5FA"/>
+<text x="1131.7" y="139.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1245.7" y="139.0" font-size="11" fill="#e5e7eb" text-anchor="end">2,470,023</text>
+<circle cx="1121.7" cy="151.0" r="4" fill="#34D399"/>
+<text x="1131.7" y="155.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1245.7" y="155.0" font-size="11" fill="#e5e7eb" text-anchor="end">159,025</text>
+<circle cx="1121.7" cy="167.0" r="4" fill="#A78BFA"/>
+<text x="1131.7" y="171.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1245.7" y="171.0" font-size="11" fill="#e5e7eb" text-anchor="end">11,903</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1189.38" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1190.93" y="151.97" width="12.34" height="146.03" fill="#60A5FA"/>
+<rect class="seg" x="1190.93" y="136.56" width="12.34" height="11.41" fill="#34D399"/>
+<rect class="seg" x="1190.93" y="133.86" width="12.34" height="0.70" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1123.1" y="37.9" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1133.1" y="59.9" font-size="12" font-weight="600" fill="#e5e7eb">Jun 22</text>
+<circle cx="1137.1" cy="71.9" r="4" fill="#60A5FA"/>
+<text x="1147.1" y="75.9" font-size="11" fill="#9ca3af">Input</text>
+<text x="1261.1" y="75.9" font-size="11" fill="#e5e7eb" text-anchor="end">3,947,500</text>
+<circle cx="1137.1" cy="87.9" r="4" fill="#34D399"/>
+<text x="1147.1" y="91.9" font-size="11" fill="#9ca3af">Output</text>
+<text x="1261.1" y="91.9" font-size="11" fill="#e5e7eb" text-anchor="end">357,639</text>
+<circle cx="1137.1" cy="103.9" r="4" fill="#A78BFA"/>
+<text x="1147.1" y="107.9" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1261.1" y="107.9" font-size="11" fill="#e5e7eb" text-anchor="end">18,589</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1204.81" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1206.35" y="300.00" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1206.35" y="297.23" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1206.35" y="295.23" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1138.5" y="199.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1148.5" y="221.2" font-size="12" font-weight="600" fill="#e5e7eb">Jun 23</text>
+<circle cx="1152.5" cy="233.2" r="4" fill="#60A5FA"/>
+<text x="1162.5" y="237.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="1276.5" y="237.2" font-size="11" fill="#e5e7eb" text-anchor="end">54</text>
+<circle cx="1152.5" cy="249.2" r="4" fill="#34D399"/>
+<text x="1162.5" y="253.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="1276.5" y="253.2" font-size="11" fill="#e5e7eb" text-anchor="end">20,535</text>
+<circle cx="1152.5" cy="265.2" r="4" fill="#A78BFA"/>
+<text x="1162.5" y="269.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1276.5" y="269.2" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1220.24" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1221.78" y="293.78" width="12.34" height="4.22" fill="#60A5FA"/>
+<rect class="seg" x="1221.78" y="291.02" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1221.78" y="288.93" width="12.34" height="0.09" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1153.9" y="192.9" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1163.9" y="214.9" font-size="12" font-weight="600" fill="#e5e7eb">Jun 24</text>
+<circle cx="1167.9" cy="226.9" r="4" fill="#60A5FA"/>
+<text x="1177.9" y="230.9" font-size="11" fill="#9ca3af">Input</text>
+<text x="1291.9" y="230.9" font-size="11" fill="#e5e7eb" text-anchor="end">165,960</text>
+<circle cx="1167.9" cy="242.9" r="4" fill="#34D399"/>
+<text x="1177.9" y="246.9" font-size="11" fill="#9ca3af">Output</text>
+<text x="1291.9" y="246.9" font-size="11" fill="#e5e7eb" text-anchor="end">20,122</text>
+<circle cx="1167.9" cy="258.9" r="4" fill="#A78BFA"/>
+<text x="1177.9" y="262.9" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1291.9" y="262.9" font-size="11" fill="#e5e7eb" text-anchor="end">2,499</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1235.66" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1237.21" y="300.00" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1237.21" y="298.00" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1237.21" y="296.00" width="12.34" height="0.00" fill="#A78BFA"/>
+<text x="1243.4" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Jun 25</text>
+<g class="tip">
+<rect x="1169.4" y="200.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1179.4" y="222.0" font-size="12" font-weight="600" fill="#e5e7eb">Jun 25</text>
+<circle cx="1183.4" cy="234.0" r="4" fill="#60A5FA"/>
+<text x="1193.4" y="238.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1307.4" y="238.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="1183.4" cy="250.0" r="4" fill="#34D399"/>
+<text x="1193.4" y="254.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1307.4" y="254.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="1183.4" cy="266.0" r="4" fill="#A78BFA"/>
+<text x="1193.4" y="270.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1307.4" y="270.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1251.09" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1252.63" y="271.60" width="12.34" height="26.40" fill="#60A5FA"/>
+<rect class="seg" x="1252.63" y="264.43" width="12.34" height="3.17" fill="#34D399"/>
+<rect class="seg" x="1252.63" y="261.74" width="12.34" height="0.69" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1184.8" y="165.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1194.8" y="187.7" font-size="12" font-weight="600" fill="#e5e7eb">Jun 26</text>
+<circle cx="1198.8" cy="199.7" r="4" fill="#60A5FA"/>
+<text x="1208.8" y="203.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="1322.8" y="203.7" font-size="11" fill="#e5e7eb" text-anchor="end">757,285</text>
+<circle cx="1198.8" cy="215.7" r="4" fill="#34D399"/>
+<text x="1208.8" y="219.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="1322.8" y="219.7" font-size="11" fill="#e5e7eb" text-anchor="end">137,938</text>
+<circle cx="1198.8" cy="231.7" r="4" fill="#A78BFA"/>
+<text x="1208.8" y="235.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1322.8" y="235.7" font-size="11" fill="#e5e7eb" text-anchor="end">18,401</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1266.52" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1268.06" y="284.37" width="12.34" height="13.63" fill="#60A5FA"/>
+<rect class="seg" x="1268.06" y="280.44" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1268.06" y="278.17" width="12.34" height="0.27" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1200.2" y="182.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1210.2" y="204.2" font-size="12" font-weight="600" fill="#e5e7eb">Jun 29</text>
+<circle cx="1214.2" cy="216.2" r="4" fill="#60A5FA"/>
+<text x="1224.2" y="220.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="1338.2" y="220.2" font-size="11" fill="#e5e7eb" text-anchor="end">416,815</text>
+<circle cx="1214.2" cy="232.2" r="4" fill="#34D399"/>
+<text x="1224.2" y="236.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="1338.2" y="236.2" font-size="11" fill="#e5e7eb" text-anchor="end">51,378</text>
+<circle cx="1214.2" cy="248.2" r="4" fill="#A78BFA"/>
+<text x="1224.2" y="252.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1338.2" y="252.2" font-size="11" fill="#e5e7eb" text-anchor="end">7,190</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1281.94" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1283.48" y="299.99" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1283.48" y="295.63" width="12.34" height="0.36" fill="#34D399"/>
+<rect class="seg" x="1283.48" y="293.63" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1215.7" y="197.6" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1225.7" y="219.6" font-size="12" font-weight="600" fill="#e5e7eb">Jun 30</text>
+<circle cx="1229.7" cy="231.6" r="4" fill="#60A5FA"/>
+<text x="1239.7" y="235.6" font-size="11" fill="#9ca3af">Input</text>
+<text x="1353.7" y="235.6" font-size="11" fill="#e5e7eb" text-anchor="end">293</text>
+<circle cx="1229.7" cy="247.6" r="4" fill="#34D399"/>
+<text x="1239.7" y="251.6" font-size="11" fill="#9ca3af">Output</text>
+<text x="1353.7" y="251.6" font-size="11" fill="#e5e7eb" text-anchor="end">62,962</text>
+<circle cx="1229.7" cy="263.6" r="4" fill="#A78BFA"/>
+<text x="1239.7" y="267.6" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1353.7" y="267.6" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1297.37" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1298.91" y="277.15" width="12.34" height="20.85" fill="#60A5FA"/>
+<rect class="seg" x="1298.91" y="271.29" width="12.34" height="1.86" fill="#34D399"/>
+<rect class="seg" x="1298.91" y="269.10" width="12.34" height="0.18" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1231.1" y="173.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1241.1" y="195.1" font-size="12" font-weight="600" fill="#e5e7eb">Jul 1</text>
+<circle cx="1245.1" cy="207.1" r="4" fill="#60A5FA"/>
+<text x="1255.1" y="211.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="1369.1" y="211.1" font-size="11" fill="#e5e7eb" text-anchor="end">609,305</text>
+<circle cx="1245.1" cy="223.1" r="4" fill="#34D399"/>
+<text x="1255.1" y="227.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="1369.1" y="227.1" font-size="11" fill="#e5e7eb" text-anchor="end">103,053</text>
+<circle cx="1245.1" cy="239.1" r="4" fill="#A78BFA"/>
+<text x="1255.1" y="243.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1369.1" y="243.1" font-size="11" fill="#e5e7eb" text-anchor="end">4,875</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1312.79" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1314.34" y="247.59" width="12.34" height="50.41" fill="#60A5FA"/>
+<rect class="seg" x="1314.34" y="241.53" width="12.34" height="2.06" fill="#34D399"/>
+<rect class="seg" x="1314.34" y="239.05" width="12.34" height="0.48" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1246.5" y="143.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1256.5" y="165.1" font-size="12" font-weight="600" fill="#e5e7eb">Jul 2</text>
+<circle cx="1260.5" cy="177.1" r="4" fill="#60A5FA"/>
+<text x="1270.5" y="181.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="1384.5" y="181.1" font-size="11" fill="#e5e7eb" text-anchor="end">1,397,595</text>
+<circle cx="1260.5" cy="193.1" r="4" fill="#34D399"/>
+<text x="1270.5" y="197.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="1384.5" y="197.1" font-size="11" fill="#e5e7eb" text-anchor="end">108,313</text>
+<circle cx="1260.5" cy="209.1" r="4" fill="#A78BFA"/>
+<text x="1270.5" y="213.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1384.5" y="213.1" font-size="11" fill="#e5e7eb" text-anchor="end">12,757</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1328.22" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1329.76" y="300.00" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1329.76" y="298.00" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1329.76" y="296.00" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1261.9" y="200.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1271.9" y="222.0" font-size="12" font-weight="600" fill="#e5e7eb">Jul 3</text>
+<circle cx="1275.9" cy="234.0" r="4" fill="#60A5FA"/>
+<text x="1285.9" y="238.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1399.9" y="238.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="1275.9" cy="250.0" r="4" fill="#34D399"/>
+<text x="1285.9" y="254.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1399.9" y="254.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="1275.9" cy="266.0" r="4" fill="#A78BFA"/>
+<text x="1285.9" y="270.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1399.9" y="270.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1343.65" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1345.19" y="300.00" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1345.19" y="298.00" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1345.19" y="296.00" width="12.34" height="0.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1277.4" y="200.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1287.4" y="222.0" font-size="12" font-weight="600" fill="#e5e7eb">Jul 6</text>
+<circle cx="1291.4" cy="234.0" r="4" fill="#60A5FA"/>
+<text x="1301.4" y="238.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1415.4" y="238.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="1291.4" cy="250.0" r="4" fill="#34D399"/>
+<text x="1301.4" y="254.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1415.4" y="254.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+<circle cx="1291.4" cy="266.0" r="4" fill="#A78BFA"/>
+<text x="1301.4" y="270.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1415.4" y="270.0" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1359.07" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1360.62" y="291.12" width="12.34" height="6.88" fill="#60A5FA"/>
+<rect class="seg" x="1360.62" y="282.31" width="12.34" height="4.81" fill="#34D399"/>
+<rect class="seg" x="1360.62" y="280.31" width="12.34" height="0.00" fill="#A78BFA"/>
+<text x="1366.8" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Jul 8</text>
+<g class="tip">
+<rect x="1292.8" y="184.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1302.8" y="206.3" font-size="12" font-weight="600" fill="#e5e7eb">Jul 8</text>
+<circle cx="1306.8" cy="218.3" r="4" fill="#60A5FA"/>
+<text x="1316.8" y="222.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="1430.8" y="222.3" font-size="11" fill="#e5e7eb" text-anchor="end">236,807</text>
+<circle cx="1306.8" cy="234.3" r="4" fill="#34D399"/>
+<text x="1316.8" y="238.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="1430.8" y="238.3" font-size="11" fill="#e5e7eb" text-anchor="end">181,480</text>
+<circle cx="1306.8" cy="250.3" r="4" fill="#A78BFA"/>
+<text x="1316.8" y="254.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1430.8" y="254.3" font-size="11" fill="#e5e7eb" text-anchor="end">0</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1374.50" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1376.04" y="195.36" width="12.34" height="102.64" fill="#60A5FA"/>
+<rect class="seg" x="1376.04" y="173.74" width="12.34" height="17.62" fill="#34D399"/>
+<rect class="seg" x="1376.04" y="170.21" width="12.34" height="1.53" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1308.2" y="74.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1318.2" y="96.2" font-size="12" font-weight="600" fill="#e5e7eb">Jul 9</text>
+<circle cx="1322.2" cy="108.2" r="4" fill="#60A5FA"/>
+<text x="1332.2" y="112.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="1446.2" y="112.2" font-size="11" fill="#e5e7eb" text-anchor="end">2,790,316</text>
+<circle cx="1322.2" cy="124.2" r="4" fill="#34D399"/>
+<text x="1332.2" y="128.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="1446.2" y="128.2" font-size="11" fill="#e5e7eb" text-anchor="end">523,199</text>
+<circle cx="1322.2" cy="140.2" r="4" fill="#A78BFA"/>
+<text x="1332.2" y="144.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1446.2" y="144.2" font-size="11" fill="#e5e7eb" text-anchor="end">40,758</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1389.93" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1391.47" y="225.69" width="12.34" height="72.31" fill="#60A5FA"/>
+<rect class="seg" x="1391.47" y="213.61" width="12.34" height="8.08" fill="#34D399"/>
+<rect class="seg" x="1391.47" y="209.62" width="12.34" height="1.99" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1323.6" y="113.6" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1333.6" y="135.6" font-size="12" font-weight="600" fill="#e5e7eb">Jul 10</text>
+<circle cx="1337.6" cy="147.6" r="4" fill="#60A5FA"/>
+<text x="1347.6" y="151.6" font-size="11" fill="#9ca3af">Input</text>
+<text x="1461.6" y="151.6" font-size="11" fill="#e5e7eb" text-anchor="end">1,981,609</text>
+<circle cx="1337.6" cy="163.6" r="4" fill="#34D399"/>
+<text x="1347.6" y="167.6" font-size="11" fill="#9ca3af">Output</text>
+<text x="1461.6" y="167.6" font-size="11" fill="#e5e7eb" text-anchor="end">268,783</text>
+<circle cx="1337.6" cy="179.6" r="4" fill="#A78BFA"/>
+<text x="1347.6" y="183.6" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1461.6" y="183.6" font-size="11" fill="#e5e7eb" text-anchor="end">53,094</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1405.35" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1406.90" y="294.59" width="12.34" height="3.41" fill="#60A5FA"/>
+<rect class="seg" x="1406.90" y="292.41" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1406.90" y="290.35" width="12.34" height="0.07" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1339.1" y="194.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1349.1" y="216.3" font-size="12" font-weight="600" fill="#e5e7eb">Jul 12</text>
+<circle cx="1353.1" cy="228.3" r="4" fill="#60A5FA"/>
+<text x="1363.1" y="232.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="1477.1" y="232.3" font-size="11" fill="#e5e7eb" text-anchor="end">144,324</text>
+<circle cx="1353.1" cy="244.3" r="4" fill="#34D399"/>
+<text x="1363.1" y="248.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="1477.1" y="248.3" font-size="11" fill="#e5e7eb" text-anchor="end">4,620</text>
+<circle cx="1353.1" cy="260.3" r="4" fill="#A78BFA"/>
+<text x="1363.1" y="264.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1477.1" y="264.3" font-size="11" fill="#e5e7eb" text-anchor="end">1,815</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1420.78" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1422.32" y="279.40" width="12.34" height="18.60" fill="#60A5FA"/>
+<rect class="seg" x="1422.32" y="276.17" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1422.32" y="274.10" width="12.34" height="0.07" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1354.5" y="178.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1364.5" y="200.1" font-size="12" font-weight="600" fill="#e5e7eb">Jul 13</text>
+<circle cx="1368.5" cy="212.1" r="4" fill="#60A5FA"/>
+<text x="1378.5" y="216.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="1492.5" y="216.1" font-size="11" fill="#e5e7eb" text-anchor="end">549,439</text>
+<circle cx="1368.5" cy="228.1" r="4" fill="#34D399"/>
+<text x="1378.5" y="232.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="1492.5" y="232.1" font-size="11" fill="#e5e7eb" text-anchor="end">32,698</text>
+<circle cx="1368.5" cy="244.1" r="4" fill="#A78BFA"/>
+<text x="1378.5" y="248.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1492.5" y="248.1" font-size="11" fill="#e5e7eb" text-anchor="end">1,914</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1436.21" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1437.75" y="278.81" width="12.34" height="19.19" fill="#60A5FA"/>
+<rect class="seg" x="1437.75" y="274.11" width="12.34" height="0.70" fill="#34D399"/>
+<rect class="seg" x="1437.75" y="271.65" width="12.34" height="0.47" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1369.9" y="175.6" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1379.9" y="197.6" font-size="12" font-weight="600" fill="#e5e7eb">Jul 14</text>
+<circle cx="1383.9" cy="209.6" r="4" fill="#60A5FA"/>
+<text x="1393.9" y="213.6" font-size="11" fill="#9ca3af">Input</text>
+<text x="1507.9" y="213.6" font-size="11" fill="#e5e7eb" text-anchor="end">565,060</text>
+<circle cx="1383.9" cy="225.6" r="4" fill="#34D399"/>
+<text x="1393.9" y="229.6" font-size="11" fill="#9ca3af">Output</text>
+<text x="1507.9" y="229.6" font-size="11" fill="#e5e7eb" text-anchor="end">71,902</text>
+<circle cx="1383.9" cy="241.6" r="4" fill="#A78BFA"/>
+<text x="1393.9" y="245.6" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1507.9" y="245.6" font-size="11" fill="#e5e7eb" text-anchor="end">12,426</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1451.63" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1453.18" y="92.51" width="12.34" height="205.49" fill="#60A5FA"/>
+<rect class="seg" x="1453.18" y="79.47" width="12.34" height="9.04" fill="#34D399"/>
+<rect class="seg" x="1453.18" y="73.96" width="12.34" height="3.50" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1385.3" y="-22.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1395.3" y="-0.0" font-size="12" font-weight="600" fill="#e5e7eb">Jul 15</text>
+<circle cx="1399.3" cy="12.0" r="4" fill="#60A5FA"/>
+<text x="1409.3" y="16.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1523.3" y="16.0" font-size="11" fill="#e5e7eb" text-anchor="end">5,533,035</text>
+<circle cx="1399.3" cy="28.0" r="4" fill="#34D399"/>
+<text x="1409.3" y="32.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1523.3" y="32.0" font-size="11" fill="#e5e7eb" text-anchor="end">294,448</text>
+<circle cx="1399.3" cy="44.0" r="4" fill="#A78BFA"/>
+<text x="1409.3" y="48.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1523.3" y="48.0" font-size="11" fill="#e5e7eb" text-anchor="end">93,460</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1467.06" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1468.60" y="178.98" width="12.34" height="119.02" fill="#60A5FA"/>
+<rect class="seg" x="1468.60" y="168.45" width="12.34" height="6.53" fill="#34D399"/>
+<rect class="seg" x="1468.60" y="163.45" width="12.34" height="3.00" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1400.8" y="67.4" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1410.8" y="89.4" font-size="12" font-weight="600" fill="#e5e7eb">Jul 16</text>
+<circle cx="1414.8" cy="101.4" r="4" fill="#60A5FA"/>
+<text x="1424.8" y="105.4" font-size="11" fill="#9ca3af">Input</text>
+<text x="1538.8" y="105.4" font-size="11" fill="#e5e7eb" text-anchor="end">3,227,210</text>
+<circle cx="1414.8" cy="117.4" r="4" fill="#34D399"/>
+<text x="1424.8" y="121.4" font-size="11" fill="#9ca3af">Output</text>
+<text x="1538.8" y="121.4" font-size="11" fill="#e5e7eb" text-anchor="end">227,429</text>
+<circle cx="1414.8" cy="133.4" r="4" fill="#A78BFA"/>
+<text x="1424.8" y="137.4" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1538.8" y="137.4" font-size="11" fill="#e5e7eb" text-anchor="end">80,107</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1482.49" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1484.03" y="298.21" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1484.03" y="296.15" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1484.03" y="294.13" width="12.34" height="0.02" fill="#A78BFA"/>
+<text x="1490.2" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Jul 17</text>
+<g class="tip">
+<rect x="1416.2" y="198.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1426.2" y="220.1" font-size="12" font-weight="600" fill="#e5e7eb">Jul 17</text>
+<circle cx="1430.2" cy="232.1" r="4" fill="#60A5FA"/>
+<text x="1440.2" y="236.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="1554.2" y="236.1" font-size="11" fill="#e5e7eb" text-anchor="end">47,796</text>
+<circle cx="1430.2" cy="248.1" r="4" fill="#34D399"/>
+<text x="1440.2" y="252.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="1554.2" y="252.1" font-size="11" fill="#e5e7eb" text-anchor="end">1,572</text>
+<circle cx="1430.2" cy="264.1" r="4" fill="#A78BFA"/>
+<text x="1440.2" y="268.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1554.2" y="268.1" font-size="11" fill="#e5e7eb" text-anchor="end">575</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1497.91" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1499.46" y="296.80" width="12.34" height="1.20" fill="#60A5FA"/>
+<rect class="seg" x="1499.46" y="294.33" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1499.46" y="292.08" width="12.34" height="0.25" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1431.6" y="196.1" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1441.6" y="218.1" font-size="12" font-weight="600" fill="#e5e7eb">Jul 18</text>
+<circle cx="1445.6" cy="230.1" r="4" fill="#60A5FA"/>
+<text x="1455.6" y="234.1" font-size="11" fill="#9ca3af">Input</text>
+<text x="1569.6" y="234.1" font-size="11" fill="#e5e7eb" text-anchor="end">85,354</text>
+<circle cx="1445.6" cy="246.1" r="4" fill="#34D399"/>
+<text x="1455.6" y="250.1" font-size="11" fill="#9ca3af">Output</text>
+<text x="1569.6" y="250.1" font-size="11" fill="#e5e7eb" text-anchor="end">12,573</text>
+<circle cx="1445.6" cy="262.1" r="4" fill="#A78BFA"/>
+<text x="1455.6" y="266.1" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1569.6" y="266.1" font-size="11" fill="#e5e7eb" text-anchor="end">6,695</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1513.34" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1514.88" y="297.34" width="12.34" height="0.66" fill="#60A5FA"/>
+<rect class="seg" x="1514.88" y="295.15" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1514.88" y="293.05" width="12.34" height="0.10" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1447.1" y="197.0" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1457.1" y="219.0" font-size="12" font-weight="600" fill="#e5e7eb">Jul 19</text>
+<circle cx="1461.1" cy="231.0" r="4" fill="#60A5FA"/>
+<text x="1471.1" y="235.0" font-size="11" fill="#9ca3af">Input</text>
+<text x="1585.1" y="235.0" font-size="11" fill="#e5e7eb" text-anchor="end">70,868</text>
+<circle cx="1461.1" cy="247.0" r="4" fill="#34D399"/>
+<text x="1471.1" y="251.0" font-size="11" fill="#9ca3af">Output</text>
+<text x="1585.1" y="251.0" font-size="11" fill="#e5e7eb" text-anchor="end">5,180</text>
+<circle cx="1461.1" cy="263.0" r="4" fill="#A78BFA"/>
+<text x="1471.1" y="267.0" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1585.1" y="267.0" font-size="11" fill="#e5e7eb" text-anchor="end">2,751</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1528.77" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1530.31" y="202.81" width="12.34" height="95.19" fill="#60A5FA"/>
+<rect class="seg" x="1530.31" y="189.61" width="12.34" height="9.21" fill="#34D399"/>
+<rect class="seg" x="1530.31" y="183.57" width="12.34" height="4.04" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1462.5" y="87.6" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1472.5" y="109.6" font-size="12" font-weight="600" fill="#e5e7eb">Jul 20</text>
+<circle cx="1476.5" cy="121.6" r="4" fill="#60A5FA"/>
+<text x="1486.5" y="125.6" font-size="11" fill="#9ca3af">Input</text>
+<text x="1600.5" y="125.6" font-size="11" fill="#e5e7eb" text-anchor="end">2,591,610</text>
+<circle cx="1476.5" cy="137.6" r="4" fill="#34D399"/>
+<text x="1486.5" y="141.6" font-size="11" fill="#9ca3af">Output</text>
+<text x="1600.5" y="141.6" font-size="11" fill="#e5e7eb" text-anchor="end">298,823</text>
+<circle cx="1476.5" cy="153.6" r="4" fill="#A78BFA"/>
+<text x="1486.5" y="157.6" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1600.5" y="157.6" font-size="11" fill="#e5e7eb" text-anchor="end">107,804</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1544.19" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1545.74" y="297.79" width="12.34" height="0.21" fill="#60A5FA"/>
+<rect class="seg" x="1545.74" y="269.67" width="12.34" height="24.11" fill="#34D399"/>
+<rect class="seg" x="1545.74" y="267.67" width="12.34" height="0.01" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1477.9" y="171.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1487.9" y="193.7" font-size="12" font-weight="600" fill="#e5e7eb">Jul 21</text>
+<circle cx="1491.9" cy="205.7" r="4" fill="#60A5FA"/>
+<text x="1501.9" y="209.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="1615.9" y="209.7" font-size="11" fill="#e5e7eb" text-anchor="end">59,050</text>
+<circle cx="1491.9" cy="221.7" r="4" fill="#34D399"/>
+<text x="1501.9" y="225.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="1615.9" y="225.7" font-size="11" fill="#e5e7eb" text-anchor="end">696,354</text>
+<circle cx="1491.9" cy="237.7" r="4" fill="#A78BFA"/>
+<text x="1501.9" y="241.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1615.9" y="241.7" font-size="11" fill="#e5e7eb" text-anchor="end">181</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1559.62" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1561.16" y="292.50" width="12.34" height="5.50" fill="#60A5FA"/>
+<rect class="seg" x="1561.16" y="271.59" width="12.34" height="16.91" fill="#34D399"/>
+<rect class="seg" x="1561.16" y="269.47" width="12.34" height="0.12" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1493.3" y="173.5" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1503.3" y="195.5" font-size="12" font-weight="600" fill="#e5e7eb">Jul 22</text>
+<circle cx="1507.3" cy="207.5" r="4" fill="#60A5FA"/>
+<text x="1517.3" y="211.5" font-size="11" fill="#9ca3af">Input</text>
+<text x="1631.3" y="211.5" font-size="11" fill="#e5e7eb" text-anchor="end">199,975</text>
+<circle cx="1507.3" cy="223.5" r="4" fill="#34D399"/>
+<text x="1517.3" y="227.5" font-size="11" fill="#9ca3af">Output</text>
+<text x="1631.3" y="227.5" font-size="11" fill="#e5e7eb" text-anchor="end">504,307</text>
+<circle cx="1507.3" cy="239.5" r="4" fill="#A78BFA"/>
+<text x="1517.3" y="243.5" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1631.3" y="243.5" font-size="11" fill="#e5e7eb" text-anchor="end">3,203</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1575.05" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1576.59" y="263.51" width="12.34" height="34.49" fill="#60A5FA"/>
+<rect class="seg" x="1576.59" y="236.66" width="12.34" height="22.85" fill="#34D399"/>
+<rect class="seg" x="1576.59" y="233.59" width="12.34" height="1.07" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1508.8" y="137.6" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1518.8" y="159.6" font-size="12" font-weight="600" fill="#e5e7eb">Jul 23</text>
+<circle cx="1522.8" cy="171.6" r="4" fill="#60A5FA"/>
+<text x="1532.8" y="175.6" font-size="11" fill="#9ca3af">Input</text>
+<text x="1646.8" y="175.6" font-size="11" fill="#e5e7eb" text-anchor="end">973,126</text>
+<circle cx="1522.8" cy="187.6" r="4" fill="#34D399"/>
+<text x="1532.8" y="191.6" font-size="11" fill="#9ca3af">Output</text>
+<text x="1646.8" y="191.6" font-size="11" fill="#e5e7eb" text-anchor="end">662,643</text>
+<circle cx="1522.8" cy="203.6" r="4" fill="#A78BFA"/>
+<text x="1532.8" y="207.6" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1646.8" y="207.6" font-size="11" fill="#e5e7eb" text-anchor="end">28,619</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1590.47" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1592.01" y="276.72" width="12.34" height="21.28" fill="#60A5FA"/>
+<rect class="seg" x="1592.01" y="249.15" width="12.34" height="23.57" fill="#34D399"/>
+<rect class="seg" x="1592.01" y="246.73" width="12.34" height="0.42" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1524.2" y="150.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1534.2" y="172.7" font-size="12" font-weight="600" fill="#e5e7eb">Jul 24</text>
+<circle cx="1538.2" cy="184.7" r="4" fill="#60A5FA"/>
+<text x="1548.2" y="188.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="1662.2" y="188.7" font-size="11" fill="#e5e7eb" text-anchor="end">620,837</text>
+<circle cx="1538.2" cy="200.7" r="4" fill="#34D399"/>
+<text x="1548.2" y="204.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="1662.2" y="204.7" font-size="11" fill="#e5e7eb" text-anchor="end">681,870</text>
+<circle cx="1538.2" cy="216.7" r="4" fill="#A78BFA"/>
+<text x="1548.2" y="220.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1662.2" y="220.7" font-size="11" fill="#e5e7eb" text-anchor="end">11,131</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1605.90" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1607.44" y="297.82" width="12.34" height="0.18" fill="#60A5FA"/>
+<rect class="seg" x="1607.44" y="295.49" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1607.44" y="293.30" width="12.34" height="0.19" fill="#A78BFA"/>
+<text x="1613.6" y="324" font-size="11" fill="#9ca3af" text-anchor="middle">Jul 25</text>
+<g class="tip">
+<rect x="1539.6" y="197.3" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1549.6" y="219.3" font-size="12" font-weight="600" fill="#e5e7eb">Jul 25</text>
+<circle cx="1553.6" cy="231.3" r="4" fill="#60A5FA"/>
+<text x="1563.6" y="235.3" font-size="11" fill="#9ca3af">Input</text>
+<text x="1677.6" y="235.3" font-size="11" fill="#e5e7eb" text-anchor="end">58,116</text>
+<circle cx="1553.6" cy="247.3" r="4" fill="#34D399"/>
+<text x="1563.6" y="251.3" font-size="11" fill="#9ca3af">Output</text>
+<text x="1677.6" y="251.3" font-size="11" fill="#e5e7eb" text-anchor="end">8,883</text>
+<circle cx="1553.6" cy="263.3" r="4" fill="#A78BFA"/>
+<text x="1563.6" y="267.3" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1677.6" y="267.3" font-size="11" fill="#e5e7eb" text-anchor="end">5,129</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1621.32" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1622.87" y="298.04" width="12.34" height="0.00" fill="#60A5FA"/>
+<rect class="seg" x="1622.87" y="295.71" width="12.34" height="0.00" fill="#34D399"/>
+<rect class="seg" x="1622.87" y="293.52" width="12.34" height="0.19" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1552.0" y="197.5" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1562.0" y="219.5" font-size="12" font-weight="600" fill="#e5e7eb">Jul 26</text>
+<circle cx="1566.0" cy="231.5" r="4" fill="#60A5FA"/>
+<text x="1576.0" y="235.5" font-size="11" fill="#9ca3af">Input</text>
+<text x="1690.0" y="235.5" font-size="11" fill="#e5e7eb" text-anchor="end">52,349</text>
+<circle cx="1566.0" cy="247.5" r="4" fill="#34D399"/>
+<text x="1576.0" y="251.5" font-size="11" fill="#9ca3af">Output</text>
+<text x="1690.0" y="251.5" font-size="11" fill="#e5e7eb" text-anchor="end">8,658</text>
+<circle cx="1566.0" cy="263.5" r="4" fill="#A78BFA"/>
+<text x="1576.0" y="267.5" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1690.0" y="267.5" font-size="11" fill="#e5e7eb" text-anchor="end">5,024</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1636.75" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1638.29" y="289.08" width="12.34" height="8.92" fill="#60A5FA"/>
+<rect class="seg" x="1638.29" y="266.22" width="12.34" height="18.86" fill="#34D399"/>
+<rect class="seg" x="1638.29" y="263.68" width="12.34" height="0.55" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1552.0" y="167.7" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1562.0" y="189.7" font-size="12" font-weight="600" fill="#e5e7eb">Jul 27</text>
+<circle cx="1566.0" cy="201.7" r="4" fill="#60A5FA"/>
+<text x="1576.0" y="205.7" font-size="11" fill="#9ca3af">Input</text>
+<text x="1690.0" y="205.7" font-size="11" fill="#e5e7eb" text-anchor="end">291,102</text>
+<circle cx="1566.0" cy="217.7" r="4" fill="#34D399"/>
+<text x="1576.0" y="221.7" font-size="11" fill="#9ca3af">Output</text>
+<text x="1690.0" y="221.7" font-size="11" fill="#e5e7eb" text-anchor="end">556,236</text>
+<circle cx="1566.0" cy="233.7" r="4" fill="#A78BFA"/>
+<text x="1576.0" y="237.7" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1690.0" y="237.7" font-size="11" fill="#e5e7eb" text-anchor="end">14,641</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1652.18" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1653.72" y="233.05" width="12.34" height="64.95" fill="#60A5FA"/>
+<rect class="seg" x="1653.72" y="206.96" width="12.34" height="22.10" fill="#34D399"/>
+<rect class="seg" x="1653.72" y="203.18" width="12.34" height="1.77" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1552.0" y="107.2" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1562.0" y="129.2" font-size="12" font-weight="600" fill="#e5e7eb">Jul 28</text>
+<circle cx="1566.0" cy="141.2" r="4" fill="#60A5FA"/>
+<text x="1576.0" y="145.2" font-size="11" fill="#9ca3af">Input</text>
+<text x="1690.0" y="145.2" font-size="11" fill="#e5e7eb" text-anchor="end">1,785,270</text>
+<circle cx="1566.0" cy="157.2" r="4" fill="#34D399"/>
+<text x="1576.0" y="161.2" font-size="11" fill="#9ca3af">Output</text>
+<text x="1690.0" y="161.2" font-size="11" fill="#e5e7eb" text-anchor="end">642,559</text>
+<circle cx="1566.0" cy="173.2" r="4" fill="#A78BFA"/>
+<text x="1576.0" y="177.2" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1690.0" y="177.2" font-size="11" fill="#e5e7eb" text-anchor="end">47,255</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1667.60" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1669.15" y="284.67" width="12.34" height="13.33" fill="#60A5FA"/>
+<rect class="seg" x="1669.15" y="264.40" width="12.34" height="16.28" fill="#34D399"/>
+<rect class="seg" x="1669.15" y="261.82" width="12.34" height="0.57" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1552.0" y="165.8" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1562.0" y="187.8" font-size="12" font-weight="600" fill="#e5e7eb">Jul 29</text>
+<circle cx="1566.0" cy="199.8" r="4" fill="#60A5FA"/>
+<text x="1576.0" y="203.8" font-size="11" fill="#9ca3af">Input</text>
+<text x="1690.0" y="203.8" font-size="11" fill="#e5e7eb" text-anchor="end">408,690</text>
+<circle cx="1566.0" cy="215.8" r="4" fill="#34D399"/>
+<text x="1576.0" y="219.8" font-size="11" fill="#9ca3af">Output</text>
+<text x="1690.0" y="219.8" font-size="11" fill="#e5e7eb" text-anchor="end">487,422</text>
+<circle cx="1566.0" cy="231.8" r="4" fill="#A78BFA"/>
+<text x="1576.0" y="235.8" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1690.0" y="235.8" font-size="11" fill="#e5e7eb" text-anchor="end">15,333</text>
+</g>
+</g>
+<g class="bar-col">
+<rect class="hit" x="1683.03" y="0" width="15.43" height="300" fill="transparent"/>
+<rect class="seg" x="1684.57" y="296.12" width="12.34" height="1.88" fill="#60A5FA"/>
+<rect class="seg" x="1684.57" y="279.95" width="12.34" height="12.16" fill="#34D399"/>
+<rect class="seg" x="1684.57" y="277.85" width="12.34" height="0.10" fill="#A78BFA"/>
+<g class="tip">
+<rect x="1552.0" y="181.9" width="148" height="86" rx="8" fill="#0e0f13" stroke="#232733"/>
+<text x="1562.0" y="203.9" font-size="12" font-weight="600" fill="#e5e7eb">Jul 30</text>
+<circle cx="1566.0" cy="215.9" r="4" fill="#60A5FA"/>
+<text x="1576.0" y="219.9" font-size="11" fill="#9ca3af">Input</text>
+<text x="1690.0" y="219.9" font-size="11" fill="#e5e7eb" text-anchor="end">103,600</text>
+<circle cx="1566.0" cy="231.9" r="4" fill="#34D399"/>
+<text x="1576.0" y="235.9" font-size="11" fill="#9ca3af">Output</text>
+<text x="1690.0" y="235.9" font-size="11" fill="#e5e7eb" text-anchor="end">377,691</text>
+<circle cx="1566.0" cy="247.9" r="4" fill="#A78BFA"/>
+<text x="1576.0" y="251.9" font-size="11" fill="#9ca3af">Reasoning</text>
+<text x="1690.0" y="251.9" font-size="11" fill="#e5e7eb" text-anchor="end">2,630</text>
+</g>
+</g>
+</g>
+</g>
+<rect x="20" y="447" width="10" height="10" rx="2" fill="#60A5FA"/>
+<text x="36" y="456" font-size="12" fill="#9ca3af">Input</text>
+<rect x="95" y="447" width="10" height="10" rx="2" fill="#34D399"/>
+<text x="111" y="456" font-size="12" fill="#9ca3af">Output</text>
+<rect x="177" y="447" width="10" height="10" rx="2" fill="#A78BFA"/>
+<text x="193" y="456" font-size="12" fill="#9ca3af">Reasoning</text>
+</svg>
