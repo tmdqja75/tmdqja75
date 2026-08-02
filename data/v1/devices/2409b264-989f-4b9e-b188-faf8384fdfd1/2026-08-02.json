@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 7359106,
-      "cache_write_tokens": 178161,
-      "headline_total": 32518,
-      "input_tokens": 208,
-      "output_tokens": 32310,
+      "cache_read_tokens": 94980618,
+      "cache_write_tokens": 1276151,
+      "headline_total": 749056,
+      "input_tokens": 5444,
+      "output_tokens": 743612,
       "reasoning_tokens": 0,
-      "session_count": 2,
+      "session_count": 6,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -31,17 +31,22 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "dcd2ab25e7765a8937f5484b6a7ea88197b7548c2c1c943a0a18fe7c1a56b781",
+  "checksum": "c6fa9410be4083f808d199c3451845c5c8b48fb8fb6ef16db83b4207e12561f0",
   "date": "2026-08-02",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "schema_version": 2,
   "skills": {
+    "artifact-design": 1,
     "brainstorming": 1,
     "docker-compose-service-maintenance": 1,
     "graphify": 1,
     "graphify:graphify": 1,
-    "software-development-lifecycle": 1
+    "playwriter": 1,
+    "software-development-lifecycle": 1,
+    "superpowers:executing-plans": 1,
+    "superpowers:finishing-a-development-branch": 1,
+    "superpowers:writing-plans": 2
   }
 }
