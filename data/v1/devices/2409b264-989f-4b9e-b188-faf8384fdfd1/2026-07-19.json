@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 853282,
       "input_tokens": 38862,
       "output_tokens": 814420,
@@ -9,6 +11,8 @@
       "source_status": "available_with_activity"
     },
     "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 320102,
       "input_tokens": 317623,
       "output_tokens": 2038,
@@ -17,6 +21,8 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 1206054,
       "input_tokens": 1077624,
       "output_tokens": 90790,
@@ -25,12 +31,12 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "06817b7f68b8112c2f35d5f373dc30eb0fc524494796c9aa3d3e3b6704fc4eba",
+  "checksum": "e55e349902bb6c62ae38dd3e1f4cd8f627170167082a27bb345b48c6d82ada8b",
   "date": "2026-07-19",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "artifact-design": 1,
     "brainstorming": 3,

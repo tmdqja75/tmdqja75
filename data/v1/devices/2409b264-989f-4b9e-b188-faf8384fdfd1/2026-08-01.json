@@ -8,7 +8,7 @@
       "output_tokens": 0,
       "reasoning_tokens": 0,
       "session_count": 0,
-      "source_status": "source_unavailable"
+      "source_status": "available_with_zero_activity"
     },
     "codex": {
       "cache_read_tokens": 0,
@@ -18,24 +18,28 @@
       "output_tokens": 0,
       "reasoning_tokens": 0,
       "session_count": 0,
-      "source_status": "source_unavailable"
+      "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 6488576,
       "cache_write_tokens": 0,
-      "headline_total": 414944,
-      "input_tokens": 398849,
-      "output_tokens": 13139,
-      "reasoning_tokens": 2956,
-      "session_count": 4,
+      "headline_total": 487066,
+      "input_tokens": 457769,
+      "output_tokens": 22080,
+      "reasoning_tokens": 7217,
+      "session_count": 1,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "f3a7fde6313e82d3cf923441456da8cea0dc15ccf8d2015553040f8e9dac49a7",
-  "date": "2026-05-07",
+  "checksum": "3aea516001aed5f0f81e07088cd37de4e73f95d3620db2ed30358382220bdc37",
+  "date": "2026-08-01",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "schema_version": 2,
-  "skills": {}
+  "skills": {
+    "frontend-api-ui-integration": 2,
+    "graphify": 4,
+    "software-development-lifecycle": 4
+  }
 }

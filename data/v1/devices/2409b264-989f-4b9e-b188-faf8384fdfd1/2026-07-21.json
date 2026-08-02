@@ -1,6 +1,8 @@
 {
   "agents": {
     "claude_code": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -9,6 +11,8 @@
       "source_status": "available_with_zero_activity"
     },
     "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 0,
       "input_tokens": 0,
       "output_tokens": 0,
@@ -17,6 +21,8 @@
       "source_status": "source_unavailable"
     },
     "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
       "headline_total": 3084647,
       "input_tokens": 2737630,
       "output_tokens": 238078,
@@ -25,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "3c49496c3a71029aaba9ba48faa62a99f65cf8000401a64327b09c065c7d988b",
+  "checksum": "a49ffd4de9ff1b62a10c6cb39d1cb99b44c820a05b816cf5c2aafa6d0588060d",
   "date": "2026-07-21",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {
@@ -34,7 +40,7 @@
   "mcp_tools": {
     "ouroboros/ouroboros_qa": 2
   },
-  "schema_version": 1,
+  "schema_version": 2,
   "skills": {
     "autonomous-coding-agents": 1,
     "backend-api-contracts": 2,
