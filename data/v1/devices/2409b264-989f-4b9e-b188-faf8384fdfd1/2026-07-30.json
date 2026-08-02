@@ -18,7 +18,7 @@
       "output_tokens": 0,
       "reasoning_tokens": 0,
       "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "source_status": "source_unavailable"
     },
     "hermes_agent": {
       "cache_read_tokens": 8065536,
@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "fc9afe9267b35997c26fd2e4ebbd205f927441be56b20dfc46d15a27f5e85016",
+  "checksum": "5e79420512d65b1ed38a88cbc14a92ebc01b17aec3ae293c80001edb0c4d71ae",
   "date": "2026-07-30",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},

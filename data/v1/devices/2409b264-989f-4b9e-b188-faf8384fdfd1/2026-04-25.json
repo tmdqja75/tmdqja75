@@ -21,7 +21,7 @@
       "source_status": "source_unavailable"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 98176,
       "cache_write_tokens": 0,
       "headline_total": 107423,
       "input_tokens": 103382,
@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "cdca7cbb008083b42849e2bfbe656ef52db2cc0e65b36ec5c4119d542c06c81e",
+  "checksum": "66072efdc10c996a2f815955bb3ecdea720740a59e046fd0427e1059785588f3",
   "date": "2026-04-25",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},

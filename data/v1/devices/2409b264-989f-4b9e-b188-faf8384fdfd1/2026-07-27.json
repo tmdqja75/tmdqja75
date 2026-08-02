@@ -1,8 +1,8 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 0,
-      "cache_write_tokens": 0,
+      "cache_read_tokens": 627575,
+      "cache_write_tokens": 79786,
       "headline_total": 1400,
       "input_tokens": 26,
       "output_tokens": 1374,
@@ -18,11 +18,11 @@
       "output_tokens": 0,
       "reasoning_tokens": 0,
       "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "source_status": "source_unavailable"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
-      "cache_write_tokens": 0,
+      "cache_read_tokens": 94358,
+      "cache_write_tokens": 56475,
       "headline_total": 1198,
       "input_tokens": 6,
       "output_tokens": 1192,
@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "56a1c1e967b41fa039d0c8151305fc1bc79cfeb663dd3240f2d3a09a93556bd0",
+  "checksum": "2df2d09de54d714d6ae9c4216e0dcf24b1a8007700daca647b802f420232fdd5",
   "date": "2026-07-27",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},

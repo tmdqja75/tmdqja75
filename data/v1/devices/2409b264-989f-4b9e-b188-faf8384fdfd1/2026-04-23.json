@@ -11,7 +11,7 @@
       "source_status": "source_unavailable"
     },
     "codex": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 6528,
       "cache_write_tokens": 0,
       "headline_total": 14951,
       "input_tokens": 14945,
@@ -31,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "2842857e0dcfc82ca4b840cabc441b486fe17f36fe1ed2c3a1dd180a25f0c0dc",
+  "checksum": "6d90c87024195651e0d0ed535f8f28e9f4e70e6676b54fb3cb0c9e90c7b2949a",
   "date": "2026-04-23",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},

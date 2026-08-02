@@ -11,7 +11,7 @@
       "source_status": "source_unavailable"
     },
     "codex": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 406144,
       "cache_write_tokens": 0,
       "headline_total": 448479,
       "input_tokens": 440908,
@@ -21,7 +21,7 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 265216,
       "cache_write_tokens": 0,
       "headline_total": 90088,
       "input_tokens": 87414,
@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "c7a9035ed9fdbbba2a98a0f76e306c26967feb0433f78ef696c8c2613511c486",
+  "checksum": "1282ff7d3a43511a65c58a6d00ebc7698f2bce57cba5c3b2dea08db143ac22cb",
   "date": "2026-04-27",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},

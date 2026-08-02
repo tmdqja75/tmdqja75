@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 566878,
-      "cache_write_tokens": 61730,
-      "headline_total": 5722,
-      "input_tokens": 22,
-      "output_tokens": 5700,
+      "cache_read_tokens": 7359106,
+      "cache_write_tokens": 178161,
+      "headline_total": 32518,
+      "input_tokens": 208,
+      "output_tokens": 32310,
       "reasoning_tokens": 0,
-      "session_count": 1,
+      "session_count": 2,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "242daa3aa7e5eecca0baa0e703cead372dcb1bd25209cdabcdf87510baf6bef3",
+  "checksum": "dcd2ab25e7765a8937f5484b6a7ea88197b7548c2c1c943a0a18fe7c1a56b781",
   "date": "2026-08-02",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},

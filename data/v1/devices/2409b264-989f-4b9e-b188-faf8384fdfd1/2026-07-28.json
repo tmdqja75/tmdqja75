@@ -1,11 +1,11 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 0,
-      "cache_write_tokens": 0,
-      "headline_total": 363579,
-      "input_tokens": 1265,
-      "output_tokens": 362314,
+      "cache_read_tokens": 116162339,
+      "cache_write_tokens": 1859179,
+      "headline_total": 364324,
+      "input_tokens": 1271,
+      "output_tokens": 363053,
       "reasoning_tokens": 0,
       "session_count": 6,
       "source_status": "available_with_activity"
@@ -18,10 +18,10 @@
       "output_tokens": 0,
       "reasoning_tokens": 0,
       "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "source_status": "source_unavailable"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 6145536,
       "cache_write_tokens": 0,
       "headline_total": 567486,
       "input_tokens": 516737,
@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "961830c8476f46be77ae1b5e479c1ff211d86d139724a02674acf04752ca0a4c",
+  "checksum": "20996ab1c7497b1938359cf16a0cdba9a5d79ead02f8062eeb0b2c0eef219a4b",
   "date": "2026-07-28",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
