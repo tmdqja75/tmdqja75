@@ -1,0 +1,50 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 103916277,
+      "cache_write_tokens": 1994779,
+      "headline_total": 567529,
+      "input_tokens": 30611,
+      "output_tokens": 536918,
+      "reasoning_tokens": 0,
+      "session_count": 9,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "399ba3474b0699471e612ee3b48a44fe41fa9a6b2d4ef4a85e4f1a194a0576e0",
+  "date": "2026-08-03",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {
+    "plugin_context7_context7": 4
+  },
+  "mcp_tools": {
+    "plugin_context7_context7/query-docs": 3,
+    "plugin_context7_context7/resolve-library-id": 1
+  },
+  "schema_version": 2,
+  "skills": {
+    "ponytail:ponytail-audit": 1,
+    "run": 1,
+    "superpowers:writing-plans": 1
+  }
+}
