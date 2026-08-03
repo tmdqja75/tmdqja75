@@ -1,24 +1,24 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 94213,
-      "cache_write_tokens": 61744,
-      "headline_total": 360,
-      "input_tokens": 6,
-      "output_tokens": 354,
+      "cache_read_tokens": 8175238,
+      "cache_write_tokens": 306191,
+      "headline_total": 53592,
+      "input_tokens": 166,
+      "output_tokens": 53426,
       "reasoning_tokens": 0,
-      "session_count": 1,
+      "session_count": 2,
       "source_status": "available_with_activity"
     },
     "codex": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 515840,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "headline_total": 578325,
+      "input_tokens": 572455,
+      "output_tokens": 4077,
+      "reasoning_tokens": 1793,
+      "session_count": 2,
+      "source_status": "available_with_activity"
     },
     "hermes_agent": {
       "cache_read_tokens": 896,
@@ -31,11 +31,13 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "8fe733be431a4e047b3a0df66c37a87671ee124666f312270386d22706a8a729",
+  "checksum": "6e45b479630240f56c106f22d25ddc708cf57d83ff525615ca0167a3699b1cef",
   "date": "2026-08-03",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "schema_version": 2,
-  "skills": {}
+  "skills": {
+    "superpowers:systematic-debugging": 1
+  }
 }
