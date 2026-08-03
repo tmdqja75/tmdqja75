@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 59618163,
-      "cache_write_tokens": 1716461,
-      "headline_total": 513286,
-      "input_tokens": 48681,
-      "output_tokens": 464605,
+      "cache_read_tokens": 75037127,
+      "cache_write_tokens": 1843682,
+      "headline_total": 547021,
+      "input_tokens": 48859,
+      "output_tokens": 498162,
       "reasoning_tokens": 0,
-      "session_count": 6,
+      "session_count": 7,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,17 +21,17 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 7371136,
+      "cache_read_tokens": 8142208,
       "cache_write_tokens": 0,
-      "headline_total": 2793844,
-      "input_tokens": 2707150,
-      "output_tokens": 66089,
-      "reasoning_tokens": 20605,
-      "session_count": 5,
+      "headline_total": 2882750,
+      "input_tokens": 2790656,
+      "output_tokens": 70186,
+      "reasoning_tokens": 21908,
+      "session_count": 6,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "3bf1f71ec008d8229f6d5090695436c356df06fd5588ee4f553554a20c5999ec",
+  "checksum": "ffa9632f011b299f10e99a31257ef239600fcc3a9f00590257ba533be82c7847",
   "date": "2026-08-03",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
@@ -41,6 +41,8 @@
     "(hidden)": 2,
     "bems-dspy-experiment-harness": 1,
     "brainstorming": 2,
+    "hermes-agent": 1,
+    "hermes-service-troubleshooting": 1,
     "mlops-model-operations": 1,
     "software-development-lifecycle": 3,
     "superpowers:executing-plans": 1,
