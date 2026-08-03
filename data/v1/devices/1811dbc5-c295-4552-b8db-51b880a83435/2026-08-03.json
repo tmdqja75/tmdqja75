@@ -1,43 +1,54 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 8175238,
-      "cache_write_tokens": 306191,
-      "headline_total": 53592,
-      "input_tokens": 166,
-      "output_tokens": 53426,
+      "cache_read_tokens": 59618163,
+      "cache_write_tokens": 1716461,
+      "headline_total": 513286,
+      "input_tokens": 48681,
+      "output_tokens": 464605,
       "reasoning_tokens": 0,
-      "session_count": 2,
+      "session_count": 6,
       "source_status": "available_with_activity"
     },
     "codex": {
-      "cache_read_tokens": 515840,
+      "cache_read_tokens": 526848,
       "cache_write_tokens": 0,
-      "headline_total": 578325,
-      "input_tokens": 572455,
-      "output_tokens": 4077,
+      "headline_total": 601567,
+      "input_tokens": 595473,
+      "output_tokens": 4301,
       "reasoning_tokens": 1793,
-      "session_count": 2,
+      "session_count": 3,
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 896,
+      "cache_read_tokens": 7371136,
       "cache_write_tokens": 0,
-      "headline_total": 2218604,
-      "input_tokens": 2197081,
-      "output_tokens": 20667,
-      "reasoning_tokens": 856,
-      "session_count": 2,
+      "headline_total": 2793844,
+      "input_tokens": 2707150,
+      "output_tokens": 66089,
+      "reasoning_tokens": 20605,
+      "session_count": 5,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "6e45b479630240f56c106f22d25ddc708cf57d83ff525615ca0167a3699b1cef",
+  "checksum": "3bf1f71ec008d8229f6d5090695436c356df06fd5588ee4f553554a20c5999ec",
   "date": "2026-08-03",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "schema_version": 2,
   "skills": {
-    "superpowers:systematic-debugging": 1
+    "(hidden)": 2,
+    "bems-dspy-experiment-harness": 1,
+    "brainstorming": 2,
+    "mlops-model-operations": 1,
+    "software-development-lifecycle": 3,
+    "superpowers:executing-plans": 1,
+    "superpowers:systematic-debugging": 1,
+    "superpowers:writing-plans": 1,
+    "systematic-debugging": 1,
+    "test-driven-development": 2,
+    "verification-before-completion": 3,
+    "writing-plans": 1
   }
 }
