@@ -31,11 +31,15 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "e744ab7510b8f31e118abcb5e5ac29140008e99aaa41bf2f1a6313b8341ba0ac",
+  "checksum": "e34d25dd15eaace903d49b565250d98968c9a9d6fe161bd8892ff575d4022bc5",
   "date": "2026-07-17",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "google/gemini-3-flash-preview": 334,
+    "gpt-5.6-terra": 5385219
+  },
   "schema_version": 2,
   "skills": {
     "brainstorming": 18,

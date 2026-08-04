@@ -31,11 +31,14 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "c4f1406b946afed55f48582b590af3fcb083d9a91f84bbf70fedeed38d703bdb",
+  "checksum": "f19f6a60925767483ff526b02342bca54df023efc1f4495c58f39a3b16ea3c26",
   "date": "2026-07-24",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 7894
+  },
   "schema_version": 2,
   "skills": {
     "k-skill-setup": 2

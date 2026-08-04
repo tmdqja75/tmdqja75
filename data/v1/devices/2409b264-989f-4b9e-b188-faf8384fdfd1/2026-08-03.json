@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 103916277,
-      "cache_write_tokens": 1994779,
-      "headline_total": 567529,
-      "input_tokens": 30611,
-      "output_tokens": 536918,
+      "cache_read_tokens": 105945012,
+      "cache_write_tokens": 2304190,
+      "headline_total": 575287,
+      "input_tokens": 30647,
+      "output_tokens": 544640,
       "reasoning_tokens": 0,
-      "session_count": 9,
+      "session_count": 12,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -31,7 +31,7 @@
       "source_status": "available_with_zero_activity"
     }
   },
-  "checksum": "399ba3474b0699471e612ee3b48a44fe41fa9a6b2d4ef4a85e4f1a194a0576e0",
+  "checksum": "bed59572407200d0409300097895dd7bcdd909d99c2adb89a923b8fbff022af1",
   "date": "2026-08-03",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {
@@ -40,6 +40,12 @@
   "mcp_tools": {
     "plugin_context7_context7/query-docs": 3,
     "plugin_context7_context7/resolve-library-id": 1
+  },
+  "models": {
+    "<synthetic>": 0,
+    "claude-haiku-4-5-20251001": 8282,
+    "claude-opus-5": 410083,
+    "claude-sonnet-5": 156922
   },
   "schema_version": 2,
   "skills": {

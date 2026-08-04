@@ -31,11 +31,17 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "bc268e4a11f724ff42b317dbb85e1df03d71b8d9a90e393682d69e622823b0c1",
+  "checksum": "ba77ece0730b42c7dbed11904f5bd90c56b45b144243ecfa75961513a059918e",
   "date": "2026-07-12",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 63406,
+    "gpt-5.5": 339197,
+    "gpt-5.6-terra": 32625,
+    "nvidia/nemotron-3-ultra-550b-a55b:free": 206951
+  },
   "schema_version": 2,
   "skills": {
     "hermes-agent": 2

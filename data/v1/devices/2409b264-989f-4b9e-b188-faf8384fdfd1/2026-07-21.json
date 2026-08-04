@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "16dee3428888f2c44b4d46795de283b19ac412e2c68b62d5fcdbdb84dfb3b79d",
+  "checksum": "3cc98baeac7cb9442e11a81d57807f5fd4070a1c2ddc1d148a35f263cd6111b1",
   "date": "2026-07-21",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {
@@ -39,6 +39,10 @@
   },
   "mcp_tools": {
     "ouroboros/ouroboros_qa": 2
+  },
+  "models": {
+    "<synthetic>": 0,
+    "gpt-5.6-terra": 3084647
   },
   "schema_version": 2,
   "skills": {

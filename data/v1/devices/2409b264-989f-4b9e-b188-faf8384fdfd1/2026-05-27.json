@@ -31,11 +31,14 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "43d1202de22da09b42bad68f121ec10531541b0a2d40a410ff27657f8b5e8731",
+  "checksum": "e2a50b00f94ff67983dfddff90b3593d961c0b84a5b28f46b4c02e4be4bb14bc",
   "date": "2026-05-27",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "gpt-5.5": 186173
+  },
   "schema_version": 2,
   "skills": {
     "audiocraft-audio-generation": 2

@@ -31,11 +31,12 @@
       "source_status": "available_with_zero_activity"
     }
   },
-  "checksum": "5e98020632bc0a3ff4c908d63931825d40b3885d73829ef60a4e0cd5ac1f75e3",
+  "checksum": "c7c9ec4a9b4afafa60a991c6797e01c15fed0b3730dd60816261d8d4ce2d351a",
   "date": "2026-07-25",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {},
   "schema_version": 2,
   "skills": {
     "kakaotalk-mac": 1

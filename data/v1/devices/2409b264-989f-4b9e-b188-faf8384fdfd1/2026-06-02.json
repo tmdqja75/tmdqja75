@@ -31,11 +31,14 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "48eaa94a79033a77645bdca35d6d15aaefacff61ec5d6127f7069b078d171ef3",
+  "checksum": "f8a6f1dbca5a71aa5e14f30c4f3e3345918cbf972a8490b9e1b935974b89abfe",
   "date": "2026-06-02",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "gpt-5.5": 358225
+  },
   "schema_version": 2,
   "skills": {
     "github-pr-workflow": 1,

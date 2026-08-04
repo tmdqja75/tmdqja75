@@ -31,11 +31,14 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "02b4703787a367cb8670378a10e3473b22f894d720c6b624b4e4c0edb95b1134",
+  "checksum": "d627021e6825661d84dea38d193fdc52aba7d694f0a7646cf398de033ada25df",
   "date": "2026-07-14",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "gpt-5.6-terra": 969156
+  },
   "schema_version": 2,
   "skills": {
     "docker-compose-service-maintenance": 2,

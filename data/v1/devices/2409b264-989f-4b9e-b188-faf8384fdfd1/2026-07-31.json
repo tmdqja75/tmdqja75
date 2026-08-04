@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "81f76176ac64649d73cc4d872990f7f44e85cf505ff9af0fdabe07cdd8b02f68",
+  "checksum": "d79c740d5767fd14e9a8e70f2cc955a8c6160a4fef35dc18a4e557e3ac65c2ae",
   "date": "2026-07-31",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {
@@ -41,6 +41,11 @@
     "mnemosyne/mnemosyne_diagnose": 2,
     "mnemosyne/mnemosyne_remember": 1,
     "mnemosyne/mnemosyne_stats": 1
+  },
+  "models": {
+    "claude-sonnet-5": 60743,
+    "gpt-5.6-sol": 189356,
+    "gpt-5.6-terra": 152683
   },
   "schema_version": 2,
   "skills": {
