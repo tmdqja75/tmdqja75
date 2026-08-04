@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 9054401,
-      "cache_write_tokens": 762550,
-      "headline_total": 55532,
-      "input_tokens": 278,
-      "output_tokens": 55254,
+      "cache_read_tokens": 48491235,
+      "cache_write_tokens": 1410037,
+      "headline_total": 268059,
+      "input_tokens": 815,
+      "output_tokens": 267244,
       "reasoning_tokens": 0,
-      "session_count": 4,
+      "session_count": 6,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,30 +21,35 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 9662464,
+      "cache_read_tokens": 13575680,
       "cache_write_tokens": 0,
-      "headline_total": 512555,
-      "input_tokens": 449904,
-      "output_tokens": 42729,
-      "reasoning_tokens": 19922,
-      "session_count": 2,
+      "headline_total": 695386,
+      "input_tokens": 610601,
+      "output_tokens": 58731,
+      "reasoning_tokens": 26054,
+      "session_count": 3,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "0f24b54069ebc3d1b65ed6a9ce661659a7c20158bd9f0712d8837404826b10a7",
+  "checksum": "9faea265c2ace133cef15fd42bb5f7ab942438d62979c21574f6e2d7b2960dbd",
   "date": "2026-08-04",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-5": 55532,
-    "gpt-5.6-terra": 512555
+    "claude-sonnet-5": 268059,
+    "gpt-5.6-terra": 695386
   },
   "schema_version": 2,
   "skills": {
-    "docker-compose-service-maintenance": 3,
+    "backend-api-contracts": 1,
+    "docker-compose-service-maintenance": 4,
+    "frontend-api-ui-integration": 1,
     "graphify": 1,
+    "playwriter": 1,
     "realtime-transit-integration": 1,
-    "software-development-lifecycle": 2
+    "run": 1,
+    "software-development-lifecycle": 3,
+    "superpowers:systematic-debugging": 1
   }
 }
