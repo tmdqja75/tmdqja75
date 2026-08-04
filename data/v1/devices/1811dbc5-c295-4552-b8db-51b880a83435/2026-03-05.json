@@ -31,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "4849feef09d4253bc55d910f84c1db4ed755f460606119d4ea7a0228c2e3c00f",
+  "checksum": "016bd5df81000623fdcf417df5806cee3ef2b5f8fe3a47b042fc561e9027d172",
   "date": "2026-03-05",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -42,6 +42,9 @@
     "notion/notion-fetch": 3,
     "notion/notion-get-teams": 1,
     "notion/notion-search": 2
+  },
+  "models": {
+    "gpt-5.3-codex": 1410606
   },
   "schema_version": 2,
   "skills": {}

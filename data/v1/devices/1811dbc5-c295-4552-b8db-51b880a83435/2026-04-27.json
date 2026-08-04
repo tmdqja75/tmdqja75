@@ -31,11 +31,15 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "22dde936aee90fd56f636f27d0c5c77cbb6a052df4fc114547e73f2e17ad0968",
+  "checksum": "3d6654804f2b65a66b2a2f9b0af3f0acbcf000411a3bc9531ae9fa0344353fd5",
   "date": "2026-04-27",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "gpt-5.4": 35439,
+    "gpt-5.5": 1847121
+  },
   "schema_version": 2,
   "skills": {}
 }

@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 75037127,
-      "cache_write_tokens": 1843682,
-      "headline_total": 547021,
-      "input_tokens": 48859,
-      "output_tokens": 498162,
+      "cache_read_tokens": 203078256,
+      "cache_write_tokens": 3171328,
+      "headline_total": 948719,
+      "input_tokens": 50286,
+      "output_tokens": 898433,
       "reasoning_tokens": 0,
-      "session_count": 7,
+      "session_count": 14,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,36 +21,49 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 8142208,
+      "cache_read_tokens": 11877760,
       "cache_write_tokens": 0,
-      "headline_total": 2882750,
-      "input_tokens": 2790656,
-      "output_tokens": 70186,
-      "reasoning_tokens": 21908,
-      "session_count": 6,
+      "headline_total": 3367956,
+      "input_tokens": 3242138,
+      "output_tokens": 93514,
+      "reasoning_tokens": 32304,
+      "session_count": 8,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "ffa9632f011b299f10e99a31257ef239600fcc3a9f00590257ba533be82c7847",
+  "checksum": "d20d50b025d218cf55a56051325ccbc2e57a3bbfadada067d88c0f305193838b",
   "date": "2026-08-03",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "auto/best-coding": 2214498,
+    "big-pickle": 4106,
+    "claude-haiku-4-5-20251001": 702,
+    "claude-sonnet-5": 948017,
+    "gpt-5.6-terra": 1750919
+  },
   "schema_version": 2,
   "skills": {
     "(hidden)": 2,
+    "agent-browser": 3,
+    "apple-macos-automation": 2,
     "bems-dspy-experiment-harness": 1,
     "brainstorming": 2,
+    "github-workflows": 1,
     "hermes-agent": 1,
     "hermes-service-troubleshooting": 1,
+    "init": 1,
     "mlops-model-operations": 1,
     "software-development-lifecycle": 3,
-    "superpowers:executing-plans": 1,
-    "superpowers:systematic-debugging": 1,
+    "superpowers:executing-plans": 2,
+    "superpowers:finishing-a-development-branch": 1,
+    "superpowers:systematic-debugging": 2,
     "superpowers:writing-plans": 1,
-    "systematic-debugging": 1,
-    "test-driven-development": 2,
-    "verification-before-completion": 3,
+    "systematic-debugging": 2,
+    "test-driven-development": 3,
+    "verification-before-completion": 4,
+    "web-scraper": 1,
     "writing-plans": 1
   }
 }

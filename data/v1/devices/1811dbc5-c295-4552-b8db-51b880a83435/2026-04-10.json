@@ -31,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "93099d86208b48f05b63b0361bd966d44d6f680462011e542b6a11932650c0e7",
+  "checksum": "f34dba18d7263ad61d89ed2d332a8b3b1c7a2a5c90ff8e8d74a50f038a2a5d73",
   "date": "2026-04-10",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -40,6 +40,9 @@
   "mcp_tools": {
     "codex_apps/github_fetch_file": 5,
     "codex_apps/github_search": 3
+  },
+  "models": {
+    "gpt-5.4": 5012136
   },
   "schema_version": 2,
   "skills": {}

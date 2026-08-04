@@ -31,11 +31,16 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "ec7ea63687ddd123bc1db8af96ba64ef0a6f8925b4dac3780702db56fd8b168d",
+  "checksum": "63b414234dbe3085da580d942cddbe44b5b2d596545b5f88b44f85389448fe14",
   "date": "2026-06-17",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "<synthetic>": 0,
+    "claude-sonnet-4-6": 7740,
+    "gpt-5.5": 166452
+  },
   "schema_version": 2,
   "skills": {
     "hermes-agent": 2,

@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "44b19083fdafbc939f9d17ea459afad06823b81a3d3438e17ec3134a740a3646",
+  "checksum": "2bd04fe441c2f70417e51eb5d66e0c854f9cb09e99fb8e832d5f7a286d3957b8",
   "date": "2026-07-24",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -40,6 +40,12 @@
   "mcp_tools": {
     "visualize/read_me": 2,
     "visualize/show_widget": 3
+  },
+  "models": {
+    "anthropic/claude-sonnet-5": 7600,
+    "claude-opus-4-8": 153300,
+    "claude-sonnet-5": 501500,
+    "gpt-5.6-terra": 651438
   },
   "schema_version": 2,
   "skills": {

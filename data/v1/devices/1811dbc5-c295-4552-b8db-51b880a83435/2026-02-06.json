@@ -31,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "4f519b3eded168fa8b7a7ed6b47c6a7a89a8e384648fcd72cc1221bca25d913c",
+  "checksum": "6dbee0e04b48bf4539208a3921606ed456ac129104fdd86e6e44225cc8e6a2e6",
   "date": "2026-02-06",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -41,6 +41,9 @@
     "playwright/browser_close": 1,
     "playwright/browser_navigate": 7,
     "playwright/browser_run_code": 12
+  },
+  "models": {
+    "gpt-5.3-codex": 2509968
   },
   "schema_version": 2,
   "skills": {}

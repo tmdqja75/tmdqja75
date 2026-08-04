@@ -31,11 +31,15 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "91bc426e89d0e60eb9d3ad6a284acf23cf9be1efd1d1bbf2ef63ddab1b0ba7d2",
+  "checksum": "438a351352ed8d15b1c6cf550f33f09cf151f3d6e1f1fa6292e49f81b1537613",
   "date": "2026-05-04",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "claude-sonnet-4-6": 2850,
+    "gpt-5.5": 18825
+  },
   "schema_version": 2,
   "skills": {}
 }

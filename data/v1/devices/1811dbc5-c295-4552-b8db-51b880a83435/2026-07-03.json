@@ -31,11 +31,12 @@
       "source_status": "available_with_zero_activity"
     }
   },
-  "checksum": "2eb825b554aa5ebfc249babe7fb879da4aafde6c0f5a1629b2bf060bd1bef920",
+  "checksum": "8b7c8a3b9eca3af6b0d79b7ced89bfdcfe4ff8b911b7806d576dc3314742b59a",
   "date": "2026-07-03",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {},
   "schema_version": 2,
   "skills": {
     "mlops-model-operations": 5,

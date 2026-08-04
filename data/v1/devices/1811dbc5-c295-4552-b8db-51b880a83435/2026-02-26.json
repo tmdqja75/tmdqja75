@@ -31,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "a4ecc9123a049b55052b4b2a0acbab51db36201f038d2bc3a99ccdd0a667378f",
+  "checksum": "a5ccadc31947db0b330d2c117686b74d8c5824f580d7fead1b90444ba492d3c2",
   "date": "2026-02-26",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -43,6 +43,9 @@
     "pencil/get_screenshot": 3,
     "pencil/snapshot_layout": 1,
     "pencil/spawn_agents": 1
+  },
+  "models": {
+    "gpt-5.3-codex": 2502940
   },
   "schema_version": 2,
   "skills": {}

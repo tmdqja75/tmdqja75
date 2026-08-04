@@ -31,11 +31,14 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "aacd6ec741bc536d4554da653e2b1fd19ff4ba0e56bfe483cb1fd7ceee2b0554",
+  "checksum": "11cd6a6fa722a8061161ffcf511bbc1e3e34b3f5b99fa6e5c166c868dfc83706",
   "date": "2026-05-15",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "qwen/qwen3.6-plus": 528568
+  },
   "schema_version": 2,
   "skills": {}
 }

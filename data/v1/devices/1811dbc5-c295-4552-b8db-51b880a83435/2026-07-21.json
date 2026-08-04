@@ -31,11 +31,17 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "eb8d3fee9e86e5f93bc5329245c3a15025f3b984652bf3d98a1cd531dd44e973",
+  "checksum": "bc1366f21d3acb0827fdcb3b286cb7ff845a7cd4c8983a5d1da253f7441e9f52",
   "date": "2026-07-21",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "<synthetic>": 0,
+    "claude-sonnet-5": 722262,
+    "gpt-5.6-luna": 33069,
+    "gpt-5.6-terra": 254
+  },
   "schema_version": 2,
   "skills": {
     "(hidden)": 1,

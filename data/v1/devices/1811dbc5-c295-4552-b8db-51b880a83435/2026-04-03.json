@@ -31,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "0838aa4ff7c214e7a48e39eae861dc28ae68842ba4e72522cc254b92087d97b5",
+  "checksum": "2a4777ec19a17011aa7fe1c38370e922de8bfc880aaaba9a67f8fe9fe2019f5e",
   "date": "2026-04-03",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -39,6 +39,9 @@
   },
   "mcp_tools": {
     "bems_db/query": 56
+  },
+  "models": {
+    "gpt-5.4": 1119796
   },
   "schema_version": 2,
   "skills": {}

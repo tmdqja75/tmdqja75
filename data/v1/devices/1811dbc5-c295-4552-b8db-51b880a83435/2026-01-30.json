@@ -31,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "0d1f8612ff3b07f944b64b81f2d101870b8175e723364e1f7639248806ae609e",
+  "checksum": "980a05ed1ef2e6a0162e64be920e5e492d0e407521d8dc4f390407aa391b1792",
   "date": "2026-01-30",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -39,6 +39,9 @@
   },
   "mcp_tools": {
     "magic/21st_magic_component_inspiration": 1
+  },
+  "models": {
+    "gpt-5.2-codex": 2113874
   },
   "schema_version": 2,
   "skills": {}

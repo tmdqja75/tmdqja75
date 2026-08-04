@@ -31,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "925e5807b967fa023cb787d626f966c15bad9e2e59583488674e6cfa5efafdf3",
+  "checksum": "20567c16d8026fd5aecf037dd14e6eeff42fd45120455c237d716f0862fcb075",
   "date": "2026-06-30",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -41,6 +41,9 @@
   "mcp_tools": {
     "claude_ai_Google_Drive/search_files": 5,
     "claude_ai_Notion/notion-search": 1
+  },
+  "models": {
+    "claude-sonnet-4-6": 63255
   },
   "schema_version": 2,
   "skills": {

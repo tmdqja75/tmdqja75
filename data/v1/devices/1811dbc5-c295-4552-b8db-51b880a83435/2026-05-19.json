@@ -31,11 +31,14 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "9354ac47db93943b8b5dfdaab236fd75d35c106de824d4c997e61151a17968d7",
+  "checksum": "5063fd8ed1e6e9a815af33a9da680e41c3f604aa6813cd80e11dd50bdd16a81c",
   "date": "2026-05-19",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
+  "models": {
+    "gpt-5.5": 431562
+  },
   "schema_version": 2,
   "skills": {
     "hermes-agent": 1,

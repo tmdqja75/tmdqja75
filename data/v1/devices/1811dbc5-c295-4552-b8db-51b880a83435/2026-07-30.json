@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "e65ff9d314c69b30b0f33c08dce6f711f6bad72252d01272f06a9b4232f5f07a",
+  "checksum": "0eaf703b3cca418b167ec8ed76f161b560e549c206643a61276b76797b19a5dc",
   "date": "2026-07-30",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -43,6 +43,10 @@
     "playwright/browser_console_messages": 1,
     "playwright/browser_navigate": 6,
     "playwright/browser_take_screenshot": 5
+  },
+  "models": {
+    "claude-sonnet-5": 1658490,
+    "gpt-5.6-terra": 462315
   },
   "schema_version": 2,
   "skills": {
