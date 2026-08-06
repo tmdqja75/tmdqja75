@@ -22,11 +22,3 @@ Data Science<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdqja75&layout=compact&theme=vue&hide_border=true&exclude_repo=ProjectTeamG04,panda_simulator,panda_robot" />
 -->
 
-
-## Token Usage (last 5 days)
-
-![Token usage bar chart, last 5 days](token-usage-bar-last5days.svg)
-
-## Token Usage (all-time)
-
-![Token usage bar chart, all-time](token-usage-bar-all-time.svg)
