@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 43768758,
-      "cache_write_tokens": 716362,
-      "headline_total": 176632,
-      "input_tokens": 714,
-      "output_tokens": 175918,
+      "cache_read_tokens": 105161030,
+      "cache_write_tokens": 1673958,
+      "headline_total": 393506,
+      "input_tokens": 1501,
+      "output_tokens": 392005,
       "reasoning_tokens": 0,
-      "session_count": 2,
+      "session_count": 8,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -31,21 +31,28 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "34a3e92ddab65f9a9a7a62ea99d9b8f57617189fc15dafc9f5d5d016b2a0d9fc",
+  "checksum": "c16f8e2d050e2530fd4f38ec81bf01e62d9ae9cce90e10977d5b6c02a41c711c",
   "date": "2026-08-06",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-5": 176632,
+    "claude-sonnet-5": 393506,
     "gpt-5.6-terra": 4770944
   },
   "schema_version": 2,
   "skills": {
     "apple-app-automation": 1,
-    "danawa-price-search": 4,
+    "cco": 1,
+    "danawa-price-search": 5,
     "grounded-citations": 4,
     "naver-shopping-search": 1,
-    "research-workflows": 1
+    "research-workflows": 1,
+    "superpowers:brainstorming": 1,
+    "superpowers:executing-plans": 1,
+    "superpowers:finishing-a-development-branch": 1,
+    "superpowers:using-git-worktrees": 1,
+    "superpowers:writing-plans": 1,
+    "update-config": 1
   }
 }
