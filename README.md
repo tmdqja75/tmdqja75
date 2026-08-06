@@ -22,3 +22,10 @@ Data Science<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdqja75&layout=compact&theme=vue&hide_border=true&exclude_repo=ProjectTeamG04,panda_simulator,panda_robot" />
 -->
 
+
+<!-- tomax:start -->
+## Agent Usage
+
+![Agent Usage dashboard](assets/tomax/dashboard.png)
+
+<!-- tomax:end -->
