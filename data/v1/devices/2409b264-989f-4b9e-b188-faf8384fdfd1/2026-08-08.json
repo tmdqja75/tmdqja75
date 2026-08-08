@@ -1,0 +1,59 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 247260899,
+      "cache_write_tokens": 2900165,
+      "headline_total": 1049071,
+      "input_tokens": 2119,
+      "output_tokens": 1046952,
+      "reasoning_tokens": 0,
+      "session_count": 12,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 273408,
+      "cache_write_tokens": 0,
+      "headline_total": 70011,
+      "input_tokens": 66507,
+      "output_tokens": 2566,
+      "reasoning_tokens": 938,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "7e94e982d49ad0419755ec919c8dc9cf41676186a1f5b5d6f249f0400ad000f1",
+  "date": "2026-08-08",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5": 31309,
+    "claude-sonnet-5": 1017762,
+    "gpt-5.6-terra": 70011
+  },
+  "schema_version": 2,
+  "skills": {
+    "artifact-capabilities": 1,
+    "artifact-design": 1,
+    "dataviz": 1,
+    "frontend-design": 1,
+    "hermes-agent": 1,
+    "humanizer": 1,
+    "korean-humanizer": 1,
+    "media-content-workflows": 1,
+    "paar": 1,
+    "playwriter": 2,
+    "research-workflows": 1,
+    "watch": 1
+  }
+}
