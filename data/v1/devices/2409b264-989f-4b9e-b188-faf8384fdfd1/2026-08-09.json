@@ -1,0 +1,54 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 49212380,
+      "cache_write_tokens": 1299885,
+      "headline_total": 263401,
+      "input_tokens": 29798,
+      "output_tokens": 233603,
+      "reasoning_tokens": 0,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 193024,
+      "cache_write_tokens": 0,
+      "headline_total": 219179,
+      "input_tokens": 217923,
+      "output_tokens": 1153,
+      "reasoning_tokens": 103,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 343040,
+      "cache_write_tokens": 0,
+      "headline_total": 199422,
+      "input_tokens": 191188,
+      "output_tokens": 5634,
+      "reasoning_tokens": 2600,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "8f39fb9ca92ebc0c72828ae328031a558d79072e91c48d5f75bfa97560e1d2d7",
+  "date": "2026-08-09",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 263401,
+    "gpt-5.6-terra": 418601
+  },
+  "schema_version": 2,
+  "skills": {
+    "brainstorming": 1,
+    "career-portfolio-strategy": 1,
+    "grounded-citations": 1,
+    "korean-humanizer": 1,
+    "paar": 1,
+    "research-workflows": 1,
+    "run": 1,
+    "writing-and-voice-editing": 1
+  }
+}
