@@ -1,0 +1,54 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 10199198,
+      "cache_write_tokens": 795148,
+      "headline_total": 83957,
+      "input_tokens": 304,
+      "output_tokens": 83653,
+      "reasoning_tokens": 0,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 57600,
+      "cache_write_tokens": 0,
+      "headline_total": 81833,
+      "input_tokens": 81312,
+      "output_tokens": 447,
+      "reasoning_tokens": 74,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 3005184,
+      "cache_write_tokens": 0,
+      "headline_total": 386382,
+      "input_tokens": 352644,
+      "output_tokens": 23400,
+      "reasoning_tokens": 10338,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "8edc9cba9e44d0bc0b5b475e7db99ca73cde6a59fac5a8785502acdf051b03ec",
+  "date": "2026-08-10",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 83957,
+    "gpt-5.6-terra": 468215
+  },
+  "schema_version": 2,
+  "skills": {
+    "apple-macos-automation": 2,
+    "brainstorming": 1,
+    "danawa-price-search": 2,
+    "interactive-data-reports": 2,
+    "software-development-lifecycle": 2,
+    "systematic-debugging": 1,
+    "verification-before-completion": 1,
+    "visual-artifact-design": 2
+  }
+}
