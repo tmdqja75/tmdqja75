@@ -1,0 +1,61 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 233884189,
+      "cache_write_tokens": 2360026,
+      "headline_total": 1090056,
+      "input_tokens": 55727,
+      "output_tokens": 1034329,
+      "reasoning_tokens": 0,
+      "session_count": 7,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 8240128,
+      "cache_write_tokens": 0,
+      "headline_total": 779771,
+      "input_tokens": 710745,
+      "output_tokens": 46289,
+      "reasoning_tokens": 22737,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "fe75f2dfe37c22b15915c0b4821ce1d6e16533b91bdc36c5c6f7d13ad8f7023b",
+  "date": "2026-08-10",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 1090056,
+    "gpt-5.6-terra": 779771
+  },
+  "schema_version": 2,
+  "skills": {
+    "apple-app-automation": 2,
+    "apple:apple-app-automation": 1,
+    "artifact-design": 2,
+    "artifact-diagramming": 1,
+    "brainstorming": 1,
+    "docker-compose-service-maintenance": 1,
+    "executing-plans": 1,
+    "external-platform-automation": 1,
+    "finishing-a-development-branch": 1,
+    "hermes-agent": 5,
+    "k-skill:kakaotalk-mac": 3,
+    "kakaotalk-mac": 8,
+    "superpowers:systematic-debugging": 1,
+    "writing-plans": 1,
+    "writing:writing-and-voice-editing": 1
+  }
+}
