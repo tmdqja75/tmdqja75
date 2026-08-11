@@ -1,11 +1,11 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 57058258,
-      "cache_write_tokens": 2061509,
-      "headline_total": 320682,
-      "input_tokens": 36375,
-      "output_tokens": 284307,
+      "cache_read_tokens": 57890833,
+      "cache_write_tokens": 2064595,
+      "headline_total": 332264,
+      "input_tokens": 36381,
+      "output_tokens": 295883,
       "reasoning_tokens": 0,
       "session_count": 3,
       "source_status": "available_with_activity"
@@ -21,38 +21,41 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 8773376,
+      "cache_read_tokens": 11583232,
       "cache_write_tokens": 0,
-      "headline_total": 776071,
-      "input_tokens": 708227,
-      "output_tokens": 44035,
-      "reasoning_tokens": 23809,
-      "session_count": 4,
+      "headline_total": 1021548,
+      "input_tokens": 919136,
+      "output_tokens": 68092,
+      "reasoning_tokens": 34320,
+      "session_count": 6,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "fb2b10673ee151b91be863272ef74f9829e75360ccc212372e6b5720d947c49c",
+  "checksum": "9570579b3c59f4f9c976815834f63dab563078693132403252984fa048f0b211",
   "date": "2026-08-11",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-5": 320682,
-    "gpt-5.6-terra": 1113132
+    "claude-sonnet-5": 332264,
+    "gpt-5.6-terra": 1358609
   },
   "schema_version": 2,
   "skills": {
-    "brainstorming": 2,
+    "apple-app-automation": 1,
+    "brainstorming": 3,
     "career-portfolio-strategy": 1,
     "computer-use": 1,
     "deploy-to-vercel": 2,
     "github-workflows": 1,
-    "graphify": 1,
+    "graphify": 2,
     "grounded-citations": 1,
     "korean-humanizer": 1,
+    "macos-tcc-permission-diagnostics": 1,
     "media-content-workflows": 2,
     "playwriter": 1,
-    "research-workflows": 1,
+    "research-workflows": 2,
+    "static-data-visualization": 1,
     "writing-guidelines": 1
   }
 }
