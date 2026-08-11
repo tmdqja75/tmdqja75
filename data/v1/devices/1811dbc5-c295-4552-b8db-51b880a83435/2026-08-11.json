@@ -1,0 +1,64 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 89547266,
+      "cache_write_tokens": 2322098,
+      "headline_total": 773910,
+      "input_tokens": 1298,
+      "output_tokens": 772612,
+      "reasoning_tokens": 0,
+      "session_count": 9,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 11597952,
+      "cache_write_tokens": 0,
+      "headline_total": 776877,
+      "input_tokens": 697357,
+      "output_tokens": 60908,
+      "reasoning_tokens": 18612,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "4c268acf04bac23df5e00d8f37e7256bde5872b6e3d918792217273b08ce1e99",
+  "date": "2026-08-11",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "codegraph": 4
+  },
+  "mcp_tools": {
+    "codegraph/codegraph_explore": 4
+  },
+  "models": {
+    "<synthetic>": 0,
+    "claude-sonnet-5": 773910,
+    "gpt-5.6-terra": 776877
+  },
+  "schema_version": 2,
+  "skills": {
+    "(hidden)": 1,
+    "artifact-design": 1,
+    "brainstorming": 2,
+    "find-skills": 1,
+    "hermes-agent": 1,
+    "langfuse": 2,
+    "playwriter": 2,
+    "postgres-best-practices:supabase-postgres-best-practices": 1,
+    "software-development-lifecycle": 1,
+    "test-driven-development": 1,
+    "using-git-worktrees": 1,
+    "using-superpowers": 1,
+    "writing-plans": 1
+  }
+}
