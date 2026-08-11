@@ -1,0 +1,58 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 57058258,
+      "cache_write_tokens": 2061509,
+      "headline_total": 320682,
+      "input_tokens": 36375,
+      "output_tokens": 284307,
+      "reasoning_tokens": 0,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 305024,
+      "cache_write_tokens": 0,
+      "headline_total": 337061,
+      "input_tokens": 335236,
+      "output_tokens": 1614,
+      "reasoning_tokens": 211,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 8773376,
+      "cache_write_tokens": 0,
+      "headline_total": 776071,
+      "input_tokens": 708227,
+      "output_tokens": 44035,
+      "reasoning_tokens": 23809,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "fb2b10673ee151b91be863272ef74f9829e75360ccc212372e6b5720d947c49c",
+  "date": "2026-08-11",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 320682,
+    "gpt-5.6-terra": 1113132
+  },
+  "schema_version": 2,
+  "skills": {
+    "brainstorming": 2,
+    "career-portfolio-strategy": 1,
+    "computer-use": 1,
+    "deploy-to-vercel": 2,
+    "github-workflows": 1,
+    "graphify": 1,
+    "grounded-citations": 1,
+    "korean-humanizer": 1,
+    "media-content-workflows": 2,
+    "playwriter": 1,
+    "research-workflows": 1,
+    "writing-guidelines": 1
+  }
+}
