@@ -1,0 +1,58 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 110320729,
+      "cache_write_tokens": 3313555,
+      "headline_total": 629203,
+      "input_tokens": 9997,
+      "output_tokens": 619206,
+      "reasoning_tokens": 0,
+      "session_count": 5,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 930560,
+      "cache_write_tokens": 0,
+      "headline_total": 1014118,
+      "input_tokens": 1007981,
+      "output_tokens": 4813,
+      "reasoning_tokens": 1324,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 7475328,
+      "cache_write_tokens": 0,
+      "headline_total": 608560,
+      "input_tokens": 545299,
+      "output_tokens": 45830,
+      "reasoning_tokens": 17431,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "80065c9712afdb44ca09be7d71d271b98c73c9a910d6ebb94004cf8c81febca8",
+  "date": "2026-08-12",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "<synthetic>": 0,
+    "claude-sonnet-5": 629203,
+    "gpt-5.6-terra": 1622678
+  },
+  "schema_version": 2,
+  "skills": {
+    "(hidden)": 1,
+    "artifact-design": 1,
+    "artifact-diagramming": 1,
+    "aws-cost-optimization-audits": 4,
+    "brainstorming": 3,
+    "software-development-lifecycle": 4,
+    "superpowers:brainstorming": 1,
+    "test-driven-development": 1,
+    "verification-before-completion": 4,
+    "visual-artifact-design": 1,
+    "writing-plans": 1
+  }
+}
