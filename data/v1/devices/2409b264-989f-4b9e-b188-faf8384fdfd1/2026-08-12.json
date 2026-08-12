@@ -1,0 +1,74 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 53037066,
+      "cache_write_tokens": 1063180,
+      "headline_total": 181438,
+      "input_tokens": 9809,
+      "output_tokens": 171629,
+      "reasoning_tokens": 0,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 223744,
+      "cache_write_tokens": 0,
+      "headline_total": 269891,
+      "input_tokens": 265480,
+      "output_tokens": 3984,
+      "reasoning_tokens": 427,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 29205376,
+      "cache_write_tokens": 0,
+      "headline_total": 2613393,
+      "input_tokens": 2408625,
+      "output_tokens": 156973,
+      "reasoning_tokens": 47795,
+      "session_count": 14,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "77e4020230d53f89d7c88c317ff840199aef52e345a765e463211c773c6cef10",
+  "date": "2026-08-12",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 181438,
+    "codex-auto-review": 14127,
+    "gpt-5.6-sol": 1599224,
+    "gpt-5.6-terra": 1269933
+  },
+  "schema_version": 2,
+  "skills": {
+    "(hidden)": 2,
+    "artifact-design": 1,
+    "autonomous-coding-agents": 1,
+    "brainstorming": 5,
+    "brainstorming:brainstorming": 2,
+    "career-portfolio-strategy": 5,
+    "career:career-portfolio-strategy": 4,
+    "github-workflows": 2,
+    "grammar-checker": 1,
+    "graphify": 5,
+    "graphify:graphify": 2,
+    "hermes-agent": 2,
+    "kakao-talk-mac": 1,
+    "kakaotalk-mac": 1,
+    "korean-humanizer": 1,
+    "paar": 3,
+    "software-development-lifecycle": 3,
+    "style-guide": 2,
+    "superpowers:subagent-driven-development": 1,
+    "visual-design-artifacts": 3,
+    "web-design-guidelines": 2,
+    "web-design-guidelines:web-design-guidelines": 2,
+    "writing-and-voice-editing": 1,
+    "writing-guidelines": 3,
+    "writing-guidelines:writing-guidelines": 1,
+    "writing:writing-and-voice-editing": 1
+  }
+}

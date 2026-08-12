@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 57890833,
-      "cache_write_tokens": 2064595,
-      "headline_total": 332264,
-      "input_tokens": 36381,
-      "output_tokens": 295883,
+      "cache_read_tokens": 79911722,
+      "cache_write_tokens": 3203738,
+      "headline_total": 399557,
+      "input_tokens": 36515,
+      "output_tokens": 363042,
       "reasoning_tokens": 0,
-      "session_count": 3,
+      "session_count": 4,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -31,13 +31,13 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "9570579b3c59f4f9c976815834f63dab563078693132403252984fa048f0b211",
+  "checksum": "887e034bddcb1afce322021cb9f46482c91882ae6d6cd0469457348c6a9f904b",
   "date": "2026-08-11",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-5": 332264,
+    "claude-sonnet-5": 399557,
     "gpt-5.6-terra": 1358609
   },
   "schema_version": 2,
@@ -45,6 +45,7 @@
     "apple-app-automation": 1,
     "brainstorming": 3,
     "career-portfolio-strategy": 1,
+    "claude-api": 1,
     "computer-use": 1,
     "deploy-to-vercel": 2,
     "github-workflows": 1,
