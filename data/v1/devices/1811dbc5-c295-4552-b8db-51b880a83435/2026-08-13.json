@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 55162027,
-      "cache_write_tokens": 1629916,
-      "headline_total": 195412,
-      "input_tokens": 2306,
-      "output_tokens": 193106,
+      "cache_read_tokens": 110032560,
+      "cache_write_tokens": 3915712,
+      "headline_total": 427460,
+      "input_tokens": 2808,
+      "output_tokens": 424652,
       "reasoning_tokens": 0,
-      "session_count": 9,
+      "session_count": 13,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,29 +21,37 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 277504,
+      "cache_read_tokens": 3506176,
       "cache_write_tokens": 0,
-      "headline_total": 58727,
-      "input_tokens": 56368,
-      "output_tokens": 1643,
-      "reasoning_tokens": 716,
-      "session_count": 1,
+      "headline_total": 391609,
+      "input_tokens": 358544,
+      "output_tokens": 20047,
+      "reasoning_tokens": 13018,
+      "session_count": 2,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "45fba0e1f96efd79d2b2a009f1716f6658a679ee9c09f3ecc539152ad48ca182",
+  "checksum": "a446a831fe600ddbf6e484238e9e709c3a723e780c9c04914202089b6523d7cb",
   "date": "2026-08-13",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
-  "mcp_servers": {},
-  "mcp_tools": {},
+  "mcp_servers": {
+    "codegraph": 1
+  },
+  "mcp_tools": {
+    "codegraph/codegraph_explore": 1
+  },
   "models": {
     "<synthetic>": 0,
-    "claude-sonnet-5": 195412,
-    "gpt-5.6-terra": 58727
+    "claude-sonnet-5": 427460,
+    "gpt-5.6-terra": 391609
   },
   "schema_version": 2,
   "skills": {
+    "agent-browser": 1,
+    "apple-macos-automation": 2,
     "artifact-capabilities": 1,
+    "artifact-design": 1,
+    "artifact-diagramming": 1,
     "hermes-agent": 1,
     "hermes-external-skills": 1,
     "superpowers:test-driven-development": 1,
