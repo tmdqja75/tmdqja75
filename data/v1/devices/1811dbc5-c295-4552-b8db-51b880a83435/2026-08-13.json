@@ -1,11 +1,11 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 110032560,
-      "cache_write_tokens": 3915712,
-      "headline_total": 427460,
-      "input_tokens": 2808,
-      "output_tokens": 424652,
+      "cache_read_tokens": 110289592,
+      "cache_write_tokens": 3918240,
+      "headline_total": 432080,
+      "input_tokens": 2812,
+      "output_tokens": 429268,
       "reasoning_tokens": 0,
       "session_count": 13,
       "source_status": "available_with_activity"
@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "a446a831fe600ddbf6e484238e9e709c3a723e780c9c04914202089b6523d7cb",
+  "checksum": "74ea38329f68ba61bda44af6f1154cfe8689b403963062c63b8ca17f7dbc5ebd",
   "date": "2026-08-13",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -42,7 +42,7 @@
   },
   "models": {
     "<synthetic>": 0,
-    "claude-sonnet-5": 427460,
+    "claude-sonnet-5": 432080,
     "gpt-5.6-terra": 391609
   },
   "schema_version": 2,
