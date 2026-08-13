@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 28740727,
-      "cache_write_tokens": 1066655,
-      "headline_total": 489094,
-      "input_tokens": 428,
-      "output_tokens": 488666,
+      "cache_read_tokens": 29501583,
+      "cache_write_tokens": 1097259,
+      "headline_total": 493352,
+      "input_tokens": 460,
+      "output_tokens": 492892,
       "reasoning_tokens": 0,
-      "session_count": 3,
+      "session_count": 4,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,27 +21,37 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 3874816,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "headline_total": 421032,
+      "input_tokens": 380406,
+      "output_tokens": 33019,
+      "reasoning_tokens": 7607,
+      "session_count": 3,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "bce6dac234233a42595b96bf6f37bb766ec9fb214b26ac887901341ecfee6355",
+  "checksum": "a6aea91154df15746bfe56c380faaafce0746b3dee2579a345324d8a032077c9",
   "date": "2026-08-13",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-5": 489094,
-    "gpt-5.6-terra": 1803417
+    "claude-sonnet-5": 493352,
+    "gpt-5.6-terra": 2224449
   },
   "schema_version": 2,
   "skills": {
-    "artifact-design": 1
+    "apple-app-automation": 1,
+    "artifact-design": 1,
+    "brainstorming": 1,
+    "career-portfolio-strategy": 1,
+    "docker-compose-service-maintenance": 1,
+    "grammar-checker": 1,
+    "graphify": 1,
+    "k-skill:kakaotalk-mac": 1,
+    "macos-computer-use": 1,
+    "writing-and-voice-editing": 1,
+    "writing-plans": 1
   }
 }
