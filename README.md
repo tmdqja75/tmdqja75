@@ -26,6 +26,6 @@ Data Science<br/>
 <!-- tomax:start -->
 ## Agent Usage
 
-![Agent Usage dashboard](assets/tomax/dashboard.png)
+![Agent Usage dashboard](assets/tomax/dashboard.svg)
 
 <!-- tomax:end -->
