@@ -21,17 +21,17 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 3506176,
+      "cache_read_tokens": 10184192,
       "cache_write_tokens": 0,
-      "headline_total": 391609,
-      "input_tokens": 358544,
-      "output_tokens": 20047,
-      "reasoning_tokens": 13018,
-      "session_count": 2,
+      "headline_total": 1118675,
+      "input_tokens": 984612,
+      "output_tokens": 95163,
+      "reasoning_tokens": 38900,
+      "session_count": 12,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "74ea38329f68ba61bda44af6f1154cfe8689b403963062c63b8ca17f7dbc5ebd",
+  "checksum": "b0fc2b6e974aa39e0f8205daa418798fb6cac4173b95504d05fc87777617e54c",
   "date": "2026-08-13",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -43,18 +43,30 @@
   "models": {
     "<synthetic>": 0,
     "claude-sonnet-5": 432080,
-    "gpt-5.6-terra": 391609
+    "gpt-5.6-terra": 1118675
   },
   "schema_version": 2,
   "skills": {
-    "agent-browser": 1,
-    "apple-macos-automation": 2,
+    "agent-browser": 6,
+    "apple-macos-automation": 4,
     "artifact-capabilities": 1,
     "artifact-design": 1,
     "artifact-diagramming": 1,
+    "coding-agent-delegation": 1,
+    "computer-use": 1,
+    "dispatching-parallel-agents": 2,
+    "github-workflows": 4,
     "hermes-agent": 1,
     "hermes-external-skills": 1,
+    "interactive-data-reports": 1,
+    "naver-shopping-search": 3,
+    "productivity:book-cataloging": 1,
+    "research-knowledge-workflows": 1,
     "superpowers:test-driven-development": 1,
-    "update-config": 1
+    "update-config": 1,
+    "using-superpowers": 3,
+    "verification-before-completion": 4,
+    "web-scraper": 2,
+    "xlsx": 1
   }
 }
