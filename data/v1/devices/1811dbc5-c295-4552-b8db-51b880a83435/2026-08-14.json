@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 119890360,
-      "cache_write_tokens": 4708484,
-      "headline_total": 583203,
-      "input_tokens": 1152,
-      "output_tokens": 582051,
+      "cache_read_tokens": 205673940,
+      "cache_write_tokens": 5938291,
+      "headline_total": 956996,
+      "input_tokens": 1880,
+      "output_tokens": 955116,
       "reasoning_tokens": 0,
-      "session_count": 5,
+      "session_count": 9,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -31,21 +31,23 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "5bf0c6d5f01c870ec02e9b1faa0f5b7040f6418f136195249d3515055442872d",
+  "checksum": "98d23cb1f49234a3865c08b0db788fd4dc97b05d8338589dd6c88780123ee715",
   "date": "2026-08-14",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-5": 583203,
+    "claude-sonnet-5": 956996,
     "gpt-5.6-terra": 1503617
   },
   "schema_version": 2,
   "skills": {
     "(hidden)": 3,
     "agent-browser": 1,
+    "artifact-design": 1,
     "bems-dspy-experiment-harness": 2,
     "brainstorming": 2,
+    "dev-browser": 1,
     "dspy": 2,
     "github-workflows": 1,
     "langfuse": 3,
