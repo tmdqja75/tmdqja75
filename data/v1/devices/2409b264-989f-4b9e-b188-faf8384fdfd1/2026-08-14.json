@@ -1,0 +1,49 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 24748909,
+      "cache_write_tokens": 685409,
+      "headline_total": 274762,
+      "input_tokens": 486,
+      "output_tokens": 274276,
+      "reasoning_tokens": 0,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 779776,
+      "cache_write_tokens": 0,
+      "headline_total": 95523,
+      "input_tokens": 90167,
+      "output_tokens": 3794,
+      "reasoning_tokens": 1562,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "ed80e9fd00b687e74c0582c7919e9b0c676727d393107d0fd918120a1029cb17",
+  "date": "2026-08-14",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 274762,
+    "gpt-5.6-terra": 95523
+  },
+  "schema_version": 2,
+  "skills": {
+    "k-skill:kakaotalk-mac": 1,
+    "superpowers:executing-plans": 1,
+    "superpowers:writing-plans": 1
+  }
+}
