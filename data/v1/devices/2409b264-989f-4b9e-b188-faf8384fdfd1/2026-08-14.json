@@ -1,11 +1,11 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 24748909,
-      "cache_write_tokens": 685409,
-      "headline_total": 274762,
-      "input_tokens": 486,
-      "output_tokens": 274276,
+      "cache_read_tokens": 31985563,
+      "cache_write_tokens": 727223,
+      "headline_total": 292156,
+      "input_tokens": 574,
+      "output_tokens": 291582,
       "reasoning_tokens": 0,
       "session_count": 3,
       "source_status": "available_with_activity"
@@ -31,19 +31,20 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "ed80e9fd00b687e74c0582c7919e9b0c676727d393107d0fd918120a1029cb17",
+  "checksum": "cff5c166c85e704309cf4cfbb4f8fb8c512f9f54d768b716dafcdd6bbdd35c4b",
   "date": "2026-08-14",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-5": 274762,
+    "claude-sonnet-5": 292156,
     "gpt-5.6-terra": 95523
   },
   "schema_version": 2,
   "skills": {
     "k-skill:kakaotalk-mac": 1,
     "superpowers:executing-plans": 1,
+    "superpowers:finishing-a-development-branch": 1,
     "superpowers:writing-plans": 1
   }
 }
