@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 24652219,
-      "cache_write_tokens": 925834,
-      "headline_total": 255735,
-      "input_tokens": 432,
-      "output_tokens": 255303,
+      "cache_read_tokens": 38346931,
+      "cache_write_tokens": 1273323,
+      "headline_total": 346379,
+      "input_tokens": 684,
+      "output_tokens": 345695,
       "reasoning_tokens": 0,
-      "session_count": 6,
+      "session_count": 8,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -31,13 +31,13 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "660dd87eb60d43f36e06c20b719e8b303446064e092b1f28195a6d88dffad9b4",
+  "checksum": "9b80849d4480fd6a4d3899e2cc107b9cd32e8dd75e15572a4dab9f168b17e21e",
   "date": "2026-08-15",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-5": 255735,
+    "claude-sonnet-5": 346379,
     "gpt-5.6-terra": 325129
   },
   "schema_version": 2,
@@ -46,6 +46,7 @@
     "career-portfolio-strategy": 1,
     "docker-compose-service-maintenance": 3,
     "korean-humanizer": 1,
-    "playwriter": 2
+    "playwriter": 2,
+    "systematic-debugging": 1
   }
 }

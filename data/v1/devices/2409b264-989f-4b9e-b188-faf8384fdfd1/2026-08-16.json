@@ -1,0 +1,57 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 110370900,
+      "cache_write_tokens": 3186465,
+      "headline_total": 979002,
+      "input_tokens": 1888,
+      "output_tokens": 977114,
+      "reasoning_tokens": 0,
+      "session_count": 16,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 7879424,
+      "cache_write_tokens": 0,
+      "headline_total": 574665,
+      "input_tokens": 521727,
+      "output_tokens": 43384,
+      "reasoning_tokens": 9554,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "768eacba78b2525550223f7c9a958dc5f8c72c33b3a0e3adae4d5848b8466134",
+  "date": "2026-08-16",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "<synthetic>": 0,
+    "claude-sonnet-5": 979002,
+    "gpt-5.6-terra": 574665
+  },
+  "schema_version": 2,
+  "skills": {
+    "apple-app-automation": 1,
+    "autonomous-coding-agents": 1,
+    "brainstorming": 2,
+    "hermes-agent": 1,
+    "lecture-archive-curation": 2,
+    "lecture-content-organization": 6,
+    "playwriter": 1,
+    "productivity-workspace-automation": 2,
+    "visual-design-artifacts": 2,
+    "writing-and-voice-editing": 2
+  }
+}
