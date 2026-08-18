@@ -8,7 +8,7 @@
       "output_tokens": 0,
       "reasoning_tokens": 0,
       "session_count": 0,
-      "source_status": "source_unavailable"
+      "source_status": "available_with_zero_activity"
     },
     "codex": {
       "cache_read_tokens": 0,
@@ -21,26 +21,37 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 198656,
+      "cache_read_tokens": 22413312,
       "cache_write_tokens": 0,
-      "headline_total": 101500,
-      "input_tokens": 99008,
-      "output_tokens": 1599,
-      "reasoning_tokens": 893,
-      "session_count": 1,
+      "headline_total": 2193315,
+      "input_tokens": 2039736,
+      "output_tokens": 104486,
+      "reasoning_tokens": 49093,
+      "session_count": 4,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "b5f4b9d621bc4518672d68016f175f267623bec03af26db387b28e810356aab7",
-  "date": "2026-08-17",
+  "checksum": "0961e334ec67e2c0c8414d1ec0404a48abe668b7a761b500b1217c1ce464f228",
+  "date": "2026-08-18",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "gpt-5.6-terra": 101500
+    "gpt-5.6-terra": 2193315
   },
   "schema_version": 2,
   "skills": {
-    "hermes-agent": 1
+    "apple-app-automation": 4,
+    "autonomous-coding-agents": 1,
+    "brainstorming": 1,
+    "docker-compose-service-maintenance": 2,
+    "frontend-api-ui-integration": 2,
+    "hermes-agent": 4,
+    "macos-computer-use": 1,
+    "realtime-transit-integration": 1,
+    "static-data-visualization": 3,
+    "toss-screenshot-to-csv": 2,
+    "visual-design-artifacts": 1,
+    "xlsx": 2
   }
 }
