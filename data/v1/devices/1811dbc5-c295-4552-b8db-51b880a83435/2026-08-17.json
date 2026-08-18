@@ -1,14 +1,14 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 0,
-      "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
+      "cache_read_tokens": 1512542,
+      "cache_write_tokens": 240856,
+      "headline_total": 11013,
+      "input_tokens": 54,
+      "output_tokens": 10959,
       "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "session_count": 3,
+      "source_status": "available_with_activity"
     },
     "codex": {
       "cache_read_tokens": 0,
@@ -21,22 +21,25 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 446976,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "source_unavailable"
+      "headline_total": 86448,
+      "input_tokens": 72648,
+      "output_tokens": 8392,
+      "reasoning_tokens": 5408,
+      "session_count": 1,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "a9bf21f117abc84d562f88ca7a31c3162905b3897c81f64cb408c01daec3abb0",
+  "checksum": "5125989f271948423544e03cc06c60b606639c24b36e7749dc2a287aeac8e7eb",
   "date": "2026-08-17",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
-  "models": {},
+  "models": {
+    "claude-sonnet-5": 11013,
+    "gpt-5.6-terra": 86448
+  },
   "schema_version": 2,
   "skills": {}
 }

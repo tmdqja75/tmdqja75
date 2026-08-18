@@ -1,0 +1,68 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 112931673,
+      "cache_write_tokens": 2320094,
+      "headline_total": 606885,
+      "input_tokens": 1232,
+      "output_tokens": 605653,
+      "reasoning_tokens": 0,
+      "session_count": 8,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 14629632,
+      "cache_write_tokens": 0,
+      "headline_total": 1445029,
+      "input_tokens": 1347974,
+      "output_tokens": 65431,
+      "reasoning_tokens": 31624,
+      "session_count": 7,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "59bd27bd5f8c79c784c9a867b9add56029f9bedd6bca0f85adb5b74364b0093e",
+  "date": "2026-08-18",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "bems-db": 26,
+    "codegraph": 6
+  },
+  "mcp_tools": {
+    "bems-db/query": 26,
+    "codegraph/codegraph_explore": 6
+  },
+  "models": {
+    "claude-sonnet-5": 606885,
+    "gpt-5.6-terra": 1445029
+  },
+  "schema_version": 2,
+  "skills": {
+    "agent-browser": 1,
+    "apple-macos-automation": 2,
+    "artifact-design": 1,
+    "artifact-diagramming": 1,
+    "brainstorming": 2,
+    "langgraph-persistence": 1,
+    "media-content-production": 1,
+    "productivity-app-integrations": 1,
+    "superpowers:executing-plans": 1,
+    "superpowers:finishing-a-development-branch": 1,
+    "systematic-debugging": 1,
+    "test-driven-development": 1,
+    "using-superpowers": 1,
+    "verification-before-completion": 1,
+    "visual-artifact-design": 1,
+    "web-source-integration": 1
+  }
+}
