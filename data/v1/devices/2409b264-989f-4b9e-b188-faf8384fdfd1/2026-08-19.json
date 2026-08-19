@@ -1,0 +1,59 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 95870217,
+      "cache_write_tokens": 2148713,
+      "headline_total": 878199,
+      "input_tokens": 1074,
+      "output_tokens": 877125,
+      "reasoning_tokens": 0,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 10500096,
+      "cache_write_tokens": 0,
+      "headline_total": 854912,
+      "input_tokens": 726277,
+      "output_tokens": 90881,
+      "reasoning_tokens": 37754,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "92e49d7ad7f13d32795033dc11f1d3f32dc608e36aef69483516e65e4a5cbe12",
+  "date": "2026-08-19",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5": 576979,
+    "claude-sonnet-5": 301220,
+    "gpt-5.6-terra": 854912
+  },
+  "schema_version": 2,
+  "skills": {
+    "artifact-design": 1,
+    "brainstorming": 2,
+    "dataviz": 1,
+    "graphify": 1,
+    "static-data-visualization": 1,
+    "superpowers:executing-plans": 1,
+    "superpowers:finishing-a-development-branch": 1,
+    "superpowers:subagent-driven-development": 1,
+    "superpowers:using-git-worktrees": 1,
+    "superpowers:writing-plans": 2,
+    "web-design-guidelines": 1,
+    "xlsx": 2
+  }
+}
