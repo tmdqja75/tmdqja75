@@ -1,0 +1,48 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 10808956,
+      "cache_write_tokens": 1125487,
+      "headline_total": 60115,
+      "input_tokens": 238,
+      "output_tokens": 59877,
+      "reasoning_tokens": 0,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 1580032,
+      "cache_write_tokens": 0,
+      "headline_total": 254871,
+      "input_tokens": 221882,
+      "output_tokens": 27115,
+      "reasoning_tokens": 5874,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "eaae5997b93a9237d33d42fa03c47bf922275178973aed1cc04c6e2abeda9ed6",
+  "date": "2026-08-19",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 60115,
+    "gpt-5.6-terra": 254871
+  },
+  "schema_version": 2,
+  "skills": {
+    "brainstorming": 1,
+    "humanize-korean": 2
+  }
+}
