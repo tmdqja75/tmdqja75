@@ -21,22 +21,37 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 28938752,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "source_unavailable"
+      "headline_total": 800653,
+      "input_tokens": 722733,
+      "output_tokens": 49587,
+      "reasoning_tokens": 28333,
+      "session_count": 1,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "18cbe977b9141f1f25cf33a4f5cac2acddd10c0c3cc26cbde054e7415df68a59",
+  "checksum": "72aedde82899f85c3efef3036e2262a2b70d75d491aac04bf7dad136275a6b4c",
   "date": "2026-08-20",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
-  "models": {},
+  "models": {
+    "gpt-5.6-terra": 800653
+  },
   "schema_version": 2,
-  "skills": {}
+  "skills": {
+    "agent-browser": 1,
+    "caveman-commit": 1,
+    "finishing-a-development-branch": 1,
+    "fix-agent-issue": 1,
+    "framework-selection": 1,
+    "langchain-dependencies": 1,
+    "langchain-fundamentals": 2,
+    "langgraph-cli": 1,
+    "langgraph-fundamentals": 1,
+    "langgraph-persistence": 1,
+    "test-driven-development": 1,
+    "verification-before-completion": 1
+  }
 }
