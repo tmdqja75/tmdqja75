@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 210361346,
-      "cache_write_tokens": 2720135,
-      "headline_total": 923728,
-      "input_tokens": 1618,
-      "output_tokens": 922110,
+      "cache_read_tokens": 211599463,
+      "cache_write_tokens": 2845154,
+      "headline_total": 947647,
+      "input_tokens": 1656,
+      "output_tokens": 945991,
       "reasoning_tokens": 0,
-      "session_count": 6,
+      "session_count": 7,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,17 +21,17 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 296448,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "headline_total": 78714,
+      "input_tokens": 60029,
+      "output_tokens": 13100,
+      "reasoning_tokens": 5585,
+      "session_count": 2,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "76f8505140740aac0c8b851f99d107f3a5aab54e249a678ab5ec1e47c209298e",
+  "checksum": "d96e01f035fa0afd4fb72a6672c430464d166aca86b926f18d2a001972e25468",
   "date": "2026-08-20",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
@@ -39,13 +39,16 @@
   "models": {
     "<synthetic>": 0,
     "claude-opus-5": 387772,
-    "claude-sonnet-5": 535956
+    "claude-sonnet-5": 559875,
+    "gpt-5.6-terra": 78714
   },
   "schema_version": 2,
   "skills": {
     "artifact-design": 1,
     "artifact-diagramming": 1,
+    "financial-transaction-analysis": 1,
     "frontend-design:frontend-design": 1,
+    "graphify": 1,
     "superpowers:finishing-a-development-branch": 1
   }
 }
