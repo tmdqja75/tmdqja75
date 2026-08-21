@@ -1,0 +1,54 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 65274483,
+      "cache_write_tokens": 1793765,
+      "headline_total": 420379,
+      "input_tokens": 946,
+      "output_tokens": 419433,
+      "reasoning_tokens": 0,
+      "session_count": 8,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "6bd4b087202586b6acb82563655db7974a45cd15d2889317509888d74f806703",
+  "date": "2026-08-21",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "bems-db": 3,
+    "codegraph": 6
+  },
+  "mcp_tools": {
+    "bems-db/query": 3,
+    "codegraph/codegraph_explore": 6
+  },
+  "models": {
+    "claude-sonnet-5": 420379
+  },
+  "schema_version": 2,
+  "skills": {
+    "artifact-design": 2,
+    "artifact-diagramming": 2,
+    "deep-agents-core": 1
+  }
+}
