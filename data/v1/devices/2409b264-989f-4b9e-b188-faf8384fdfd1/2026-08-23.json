@@ -1,0 +1,52 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 14669160,
+      "cache_write_tokens": 689685,
+      "headline_total": 320127,
+      "input_tokens": 352,
+      "output_tokens": 319775,
+      "reasoning_tokens": 0,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 5414656,
+      "cache_write_tokens": 0,
+      "headline_total": 484582,
+      "input_tokens": 418687,
+      "output_tokens": 43858,
+      "reasoning_tokens": 22037,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "8266a9a1198630715c6920f44d2ab09a103d5129581599e3da2e763f8ad536ff",
+  "date": "2026-08-23",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 320127,
+    "gpt-5.6-terra": 484582
+  },
+  "schema_version": 2,
+  "skills": {
+    "autonomous-coding-agents": 2,
+    "brainstorming": 1,
+    "dataviz": 1,
+    "financial-transaction-analysis": 3,
+    "grounded-citations": 1,
+    "visual-design-artifacts": 2
+  }
+}
