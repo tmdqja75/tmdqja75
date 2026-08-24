@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 79605311,
-      "cache_write_tokens": 2161078,
-      "headline_total": 378781,
-      "input_tokens": 944,
-      "output_tokens": 377837,
+      "cache_read_tokens": 79889437,
+      "cache_write_tokens": 2240526,
+      "headline_total": 379973,
+      "input_tokens": 954,
+      "output_tokens": 379019,
       "reasoning_tokens": 0,
-      "session_count": 4,
+      "session_count": 5,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,31 +21,34 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 1440768,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "source_unavailable"
+      "headline_total": 173426,
+      "input_tokens": 149881,
+      "output_tokens": 14814,
+      "reasoning_tokens": 8731,
+      "session_count": 2,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "ede5a01e420651a797b0368fbb9ca6287535bf8525b77268f78bc738bdbc22fc",
+  "checksum": "d89086fb1cb5b7adf016f26860d7c513c386eda14e4ece271799595a3b3c2ff8",
   "date": "2026-08-23",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
     "<synthetic>": 0,
-    "claude-sonnet-5": 378781
+    "claude-sonnet-5": 379973,
+    "gpt-5.6-terra": 173426
   },
   "schema_version": 2,
   "skills": {
     "artifact-design": 2,
     "artifact-diagramming": 2,
+    "hermes-agent": 1,
     "superpowers:executing-plans": 2,
     "superpowers:finishing-a-development-branch": 2,
-    "superpowers:writing-plans": 2
+    "superpowers:writing-plans": 2,
+    "verification-before-completion": 1
   }
 }

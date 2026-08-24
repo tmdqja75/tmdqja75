@@ -1,0 +1,55 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 135957262,
+      "cache_write_tokens": 2730768,
+      "headline_total": 647599,
+      "input_tokens": 1782,
+      "output_tokens": 645817,
+      "reasoning_tokens": 0,
+      "session_count": 7,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 122368,
+      "cache_write_tokens": 0,
+      "headline_total": 85774,
+      "input_tokens": 84772,
+      "output_tokens": 745,
+      "reasoning_tokens": 257,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "db999e94d7e418c13064416423ffa5e4c49ab802db0c2c36dc47a3f293156df0",
+  "date": "2026-08-24",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "codegraph": 1
+  },
+  "mcp_tools": {
+    "codegraph/codegraph_explore": 1
+  },
+  "models": {
+    "<synthetic>": 0,
+    "claude-sonnet-5": 647599,
+    "gpt-5.6-terra": 85774
+  },
+  "schema_version": 2,
+  "skills": {
+    "artifact-design": 1,
+    "coding-agent-delegation": 1,
+    "langfuse": 1,
+    "superpowers:systematic-debugging": 1
+  }
+}
