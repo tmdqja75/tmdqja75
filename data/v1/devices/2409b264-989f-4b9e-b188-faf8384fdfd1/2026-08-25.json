@@ -1,0 +1,48 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 19797693,
+      "cache_write_tokens": 584871,
+      "headline_total": 80185,
+      "input_tokens": 242,
+      "output_tokens": 79943,
+      "reasoning_tokens": 0,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 388608,
+      "cache_write_tokens": 0,
+      "headline_total": 85842,
+      "input_tokens": 78891,
+      "output_tokens": 4618,
+      "reasoning_tokens": 2333,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "0a24c2f3230c28a41a51f94e9b0a6ba5bed9c0a90f0ba3c2df3cf7361d0f95e0",
+  "date": "2026-08-25",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 80185,
+    "gpt-5.6-terra": 85842
+  },
+  "schema_version": 2,
+  "skills": {
+    "community-skill-installation": 2,
+    "hermes-agent": 2
+  }
+}
