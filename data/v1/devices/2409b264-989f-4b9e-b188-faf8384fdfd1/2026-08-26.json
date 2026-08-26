@@ -1,0 +1,48 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 2365696,
+      "cache_write_tokens": 0,
+      "headline_total": 370770,
+      "input_tokens": 336153,
+      "output_tokens": 22345,
+      "reasoning_tokens": 12272,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "021f9b2383eb11f4a16f5c544f4da6c1675eedfe5fab23f948c58e7a02aef566",
+  "date": "2026-08-26",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "gpt-5.6-terra": 370770
+  },
+  "schema_version": 2,
+  "skills": {
+    "career-portfolio-strategy": 1,
+    "financial-transaction-analysis": 1,
+    "macos-computer-use": 1
+  }
+}
