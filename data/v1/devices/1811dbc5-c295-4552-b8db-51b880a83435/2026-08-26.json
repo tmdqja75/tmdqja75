@@ -21,17 +21,17 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 1723328,
+      "cache_read_tokens": 3475392,
       "cache_write_tokens": 0,
-      "headline_total": 223962,
-      "input_tokens": 205429,
-      "output_tokens": 13563,
-      "reasoning_tokens": 4970,
-      "session_count": 2,
+      "headline_total": 449596,
+      "input_tokens": 406679,
+      "output_tokens": 30033,
+      "reasoning_tokens": 12884,
+      "session_count": 5,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "187c45f744825f0b09a042f133d0ae4eaef28b214fb2d1800918901be2b83417",
+  "checksum": "74ef7e5833caf6b4f33e86e68ce2b7871bcf910237e9c502bfa580862349833b",
   "date": "2026-08-26",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -42,12 +42,19 @@
   },
   "models": {
     "claude-sonnet-5": 580278,
-    "gpt-5.6-terra": 178687,
+    "gpt-5.6-terra": 404321,
     "stealth/ox-alpha": 45275
   },
   "schema_version": 2,
   "skills": {
     "agent-browser": 1,
-    "claude-api": 1
+    "claude-api": 1,
+    "hermes-agent": 1,
+    "hermes-external-skills": 1,
+    "llm-council": 1,
+    "personal-skill-authoring": 1,
+    "test-driven-development": 1,
+    "using-superpowers": 1,
+    "writing-skills": 1
   }
 }

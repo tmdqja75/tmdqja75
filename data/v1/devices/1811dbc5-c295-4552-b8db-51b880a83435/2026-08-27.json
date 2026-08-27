@@ -1,0 +1,50 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 64349365,
+      "cache_write_tokens": 886557,
+      "headline_total": 235274,
+      "input_tokens": 742,
+      "output_tokens": 234532,
+      "reasoning_tokens": 0,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    }
+  },
+  "checksum": "7ee3dcb02e575bdc0f2639a74ee14ef1646d9973202e55ae20458be860aa5278",
+  "date": "2026-08-27",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "codegraph": 6
+  },
+  "mcp_tools": {
+    "codegraph/codegraph_explore": 6
+  },
+  "models": {
+    "claude-sonnet-5": 235274
+  },
+  "schema_version": 2,
+  "skills": {
+    "superpowers:systematic-debugging": 1
+  }
+}
