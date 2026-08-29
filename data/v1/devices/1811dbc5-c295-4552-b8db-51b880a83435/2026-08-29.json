@@ -21,24 +21,27 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 375808,
+      "cache_read_tokens": 138240,
       "cache_write_tokens": 0,
-      "headline_total": 61736,
-      "input_tokens": 48687,
-      "output_tokens": 8652,
-      "reasoning_tokens": 4397,
+      "headline_total": 16796,
+      "input_tokens": 15928,
+      "output_tokens": 587,
+      "reasoning_tokens": 281,
       "session_count": 1,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "9f06a51cb0bdc5b7e6702547e324b0b8534e60f64302a459e05281781f4f6977",
-  "date": "2026-08-28",
+  "checksum": "20af35f28e293c1175448fefab56ad0dc0390bc1abf883ffcfba741cf2bc6e16",
+  "date": "2026-08-29",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "gpt-5.6-terra": 61736
+    "gpt-5.6-terra": 16796
   },
   "schema_version": 2,
-  "skills": {}
+  "skills": {
+    "apple-macos-automation": 1,
+    "hermes-agent": 1
+  }
 }
