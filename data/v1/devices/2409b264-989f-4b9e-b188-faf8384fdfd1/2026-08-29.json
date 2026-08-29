@@ -1,0 +1,50 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 15412168,
+      "cache_write_tokens": 221679,
+      "headline_total": 56500,
+      "input_tokens": 246,
+      "output_tokens": 56254,
+      "reasoning_tokens": 0,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 3373568,
+      "cache_write_tokens": 0,
+      "headline_total": 401579,
+      "input_tokens": 354157,
+      "output_tokens": 30935,
+      "reasoning_tokens": 16487,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "05988a8e5868063f911dd49a719f55693655ab9341886da5f9f8bb39e58fd6e0",
+  "date": "2026-08-29",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 56500,
+    "gpt-5.6-terra": 401579
+  },
+  "schema_version": 2,
+  "skills": {
+    "docker-compose-service-maintenance": 3,
+    "grounded-citations": 1,
+    "hermes-agent": 1,
+    "research-workflows": 1
+  }
+}
