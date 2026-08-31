@@ -1,0 +1,54 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 6620800,
+      "cache_write_tokens": 0,
+      "headline_total": 865306,
+      "input_tokens": 798574,
+      "output_tokens": 48027,
+      "reasoning_tokens": 18705,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "f595698eff8e94e94f9ca9a58cdcededc7de03351cfceeeda29e9168e780f60d",
+  "date": "2026-08-31",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "gpt-5.6-terra": 865306
+  },
+  "schema_version": 2,
+  "skills": {
+    "career-portfolio-strategy": 3,
+    "grammar-checker": 1,
+    "hermes-agent": 1,
+    "paar": 2,
+    "quality-assurance-review-workflows": 1,
+    "style-guide": 1,
+    "web-design-guidelines": 1,
+    "writing-and-voice-editing": 1,
+    "writing-guidelines": 2
+  }
+}
