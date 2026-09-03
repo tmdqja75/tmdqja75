@@ -1,0 +1,55 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 63586380,
+      "cache_write_tokens": 1740765,
+      "headline_total": 439416,
+      "input_tokens": 980,
+      "output_tokens": 438436,
+      "reasoning_tokens": 0,
+      "session_count": 12,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 6710400,
+      "cache_write_tokens": 0,
+      "headline_total": 787354,
+      "input_tokens": 736955,
+      "output_tokens": 32390,
+      "reasoning_tokens": 18009,
+      "session_count": 5,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "8d70196c8fc462732d2334c32adfad6bf319a1d2f01ba444d218e23cbc7ef5c8",
+  "date": "2026-09-03",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 439416,
+    "gpt-5.6-terra": 787354
+  },
+  "schema_version": 2,
+  "skills": {
+    "agent-browser": 1,
+    "apple-macos-automation": 1,
+    "brainstorming": 2,
+    "computer-use": 2,
+    "grounded-citations": 1,
+    "hermes-kanban-operations": 1,
+    "humanize-korean": 3,
+    "langfuse": 1,
+    "research-knowledge-workflows": 1
+  }
+}
