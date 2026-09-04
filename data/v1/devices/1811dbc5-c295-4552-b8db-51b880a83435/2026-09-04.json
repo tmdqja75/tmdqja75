@@ -1,0 +1,45 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 3561714,
+      "cache_write_tokens": 223047,
+      "headline_total": 15745,
+      "input_tokens": 106,
+      "output_tokens": 15639,
+      "reasoning_tokens": 0,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 1169408,
+      "cache_write_tokens": 0,
+      "headline_total": 1438929,
+      "input_tokens": 1427223,
+      "output_tokens": 8037,
+      "reasoning_tokens": 3669,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    }
+  },
+  "checksum": "07c4bc56328ff9de777e98f38c3ec223b70ff020c479a869dfbb1950cb483536",
+  "date": "2026-09-04",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 15745,
+    "gpt-5.6-terra": 1438929
+  },
+  "schema_version": 2,
+  "skills": {}
+}
