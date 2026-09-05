@@ -1,0 +1,58 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 42915104,
+      "cache_write_tokens": 706072,
+      "headline_total": 289159,
+      "input_tokens": 638,
+      "output_tokens": 288521,
+      "reasoning_tokens": 0,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 25900032,
+      "cache_write_tokens": 0,
+      "headline_total": 2196749,
+      "input_tokens": 1997806,
+      "output_tokens": 136671,
+      "reasoning_tokens": 62272,
+      "session_count": 17,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "16d191ab1b6482b040b2f320786e9b2fc0e3969e2e586ce932415f21dec0bfcd",
+  "date": "2026-09-05",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 289159,
+    "gpt-5.6-terra": 2195952,
+    "nvidia/nemotron-3-ultra-550b-a55b:free": 797
+  },
+  "schema_version": 2,
+  "skills": {
+    "(hidden)": 3,
+    "backend-api-contracts": 5,
+    "brainstorming": 10,
+    "frontend-api-ui-integration": 3,
+    "graphify": 10,
+    "quality-assurance-review-workflows": 1,
+    "realtime-transit-integration": 2,
+    "software-development-lifecycle": 14,
+    "subagent-driven-development": 2,
+    "writing-guidelines": 1,
+    "writing-plans": 1
+  }
+}

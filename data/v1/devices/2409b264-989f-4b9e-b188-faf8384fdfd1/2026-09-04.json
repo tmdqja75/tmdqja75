@@ -1,0 +1,57 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 5867218,
+      "cache_write_tokens": 145417,
+      "headline_total": 26672,
+      "input_tokens": 186,
+      "output_tokens": 26486,
+      "reasoning_tokens": 0,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 11974016,
+      "cache_write_tokens": 0,
+      "headline_total": 1239828,
+      "input_tokens": 1142683,
+      "output_tokens": 66711,
+      "reasoning_tokens": 30434,
+      "session_count": 5,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "9c4700bc42592ba95718ed82ebdd268d65f205939b811eef579bc498a54ebcba",
+  "date": "2026-09-04",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 26672,
+    "gpt-5.6-terra": 1239828
+  },
+  "schema_version": 2,
+  "skills": {
+    "brainstorming": 1,
+    "career-portfolio-strategy": 1,
+    "frontend-api-ui-integration": 1,
+    "github": 3,
+    "graphify": 2,
+    "hermes-agent": 3,
+    "korean-humanizer": 2,
+    "pdf": 1,
+    "quality-assurance-review-workflows": 2,
+    "web-design-guidelines": 1,
+    "writing-plans": 2
+  }
+}
