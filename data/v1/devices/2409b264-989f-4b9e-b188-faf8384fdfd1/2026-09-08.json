@@ -1,0 +1,65 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 147944559,
+      "cache_write_tokens": 2700905,
+      "headline_total": 897303,
+      "input_tokens": 2484,
+      "output_tokens": 894819,
+      "reasoning_tokens": 0,
+      "session_count": 13,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 11513472,
+      "cache_write_tokens": 0,
+      "headline_total": 1328864,
+      "input_tokens": 1226119,
+      "output_tokens": 75450,
+      "reasoning_tokens": 27295,
+      "session_count": 5,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "0bdbd7b3b73e0c9e3113ebb5ac404fd27a1aecaf2c0cc720ec40a3ba50bc6f99",
+  "date": "2026-09-08",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5": 147398,
+    "claude-sonnet-5": 749905,
+    "gpt-5.6-luna": 729,
+    "gpt-5.6-terra": 1328135
+  },
+  "schema_version": 2,
+  "skills": {
+    "career-portfolio-strategy": 1,
+    "docx": 1,
+    "github": 2,
+    "grammar-checker": 4,
+    "paar": 5,
+    "pdf": 5,
+    "playwriter": 2,
+    "run": 4,
+    "style-guide": 4,
+    "superpowers:brainstorming": 1,
+    "superpowers:executing-plans": 1,
+    "superpowers:finishing-a-development-branch": 1,
+    "superpowers:systematic-debugging": 1,
+    "superpowers:writing-plans": 1,
+    "visual-design-artifacts": 1,
+    "writing-and-voice-editing": 3,
+    "writing-plans": 1
+  }
+}
