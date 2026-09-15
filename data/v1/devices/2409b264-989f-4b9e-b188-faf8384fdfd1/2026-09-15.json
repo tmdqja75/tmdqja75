@@ -1,0 +1,49 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 2237320,
+      "cache_write_tokens": 118117,
+      "headline_total": 10655,
+      "input_tokens": 64,
+      "output_tokens": 10591,
+      "reasoning_tokens": 0,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 299520,
+      "cache_write_tokens": 0,
+      "headline_total": 89916,
+      "input_tokens": 87604,
+      "output_tokens": 1603,
+      "reasoning_tokens": 709,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "d7051bb43eaf20a4e58384636338a4aa69296d471f74c9b066646c220c0505fd",
+  "date": "2026-09-15",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5": 10655,
+    "gpt-5.6-terra": 89916
+  },
+  "schema_version": 2,
+  "skills": {
+    "career-portfolio-strategy": 1,
+    "paar": 1,
+    "writing-and-voice-editing": 1
+  }
+}
