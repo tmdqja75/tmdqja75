@@ -1,0 +1,48 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 9045896,
+      "cache_write_tokens": 128456,
+      "headline_total": 59555,
+      "input_tokens": 90,
+      "output_tokens": 59465,
+      "reasoning_tokens": 0,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 58880,
+      "cache_write_tokens": 0,
+      "headline_total": 63897,
+      "input_tokens": 63095,
+      "output_tokens": 522,
+      "reasoning_tokens": 280,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "f8a3d86ed4f13b6d9291d70de63428490e2cfe1778dc49b1d8a19f4a2ce5a5f5",
+  "date": "2026-09-16",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5": 59555,
+    "gpt-5.6-terra": 63897
+  },
+  "schema_version": 2,
+  "skills": {
+    "creative:visual-artifact-design": 1,
+    "verification-before-completion": 1
+  }
+}

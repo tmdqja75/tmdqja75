@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 254634586,
-      "cache_write_tokens": 5641043,
-      "headline_total": 1658469,
-      "input_tokens": 21414,
-      "output_tokens": 1637055,
+      "cache_read_tokens": 275579266,
+      "cache_write_tokens": 6273497,
+      "headline_total": 1785477,
+      "input_tokens": 22964,
+      "output_tokens": 1762513,
       "reasoning_tokens": 0,
-      "session_count": 13,
+      "session_count": 14,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,17 +21,17 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 462336,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "source_unavailable"
+      "headline_total": 101742,
+      "input_tokens": 88551,
+      "output_tokens": 8154,
+      "reasoning_tokens": 5037,
+      "session_count": 1,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "392ff259d44d3d187bce84f5bbff617afab18be0cce19f718ee8081e39d79e9a",
+  "checksum": "71f870ec94275634b4bf847bb01d59dd16603e042fa13620ea31987d396bd2a0",
   "date": "2026-09-15",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -41,8 +41,9 @@
     "codegraph/codegraph_explore": 2
   },
   "models": {
-    "claude-opus-5": 1551880,
-    "claude-sonnet-5": 106589
+    "claude-opus-5": 1678888,
+    "claude-sonnet-5": 106589,
+    "gpt-5.6-terra": 101742
   },
   "schema_version": 2,
   "skills": {
