@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 9045896,
-      "cache_write_tokens": 128456,
-      "headline_total": 59555,
-      "input_tokens": 90,
-      "output_tokens": 59465,
+      "cache_read_tokens": 31705455,
+      "cache_write_tokens": 2272666,
+      "headline_total": 174516,
+      "input_tokens": 912,
+      "output_tokens": 173604,
       "reasoning_tokens": 0,
-      "session_count": 2,
+      "session_count": 6,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,28 +21,33 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 58880,
+      "cache_read_tokens": 1792256,
       "cache_write_tokens": 0,
-      "headline_total": 63897,
-      "input_tokens": 63095,
-      "output_tokens": 522,
-      "reasoning_tokens": 280,
-      "session_count": 1,
+      "headline_total": 261189,
+      "input_tokens": 246514,
+      "output_tokens": 11889,
+      "reasoning_tokens": 2786,
+      "session_count": 2,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "f8a3d86ed4f13b6d9291d70de63428490e2cfe1778dc49b1d8a19f4a2ce5a5f5",
+  "checksum": "6dfe89366a85f4191cae7bdb1e786d3c243c9a9982160d6c66844fda362a2343",
   "date": "2026-09-16",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-opus-5": 59555,
-    "gpt-5.6-terra": 63897
+    "claude-opus-5": 174516,
+    "gpt-5.6-terra": 261189
   },
   "schema_version": 2,
   "skills": {
-    "creative:visual-artifact-design": 1,
-    "verification-before-completion": 1
+    "(hidden)": 1,
+    "agent-browser": 1,
+    "arxiv": 1,
+    "creative:visual-artifact-design": 2,
+    "grounded-citations": 1,
+    "verification-before-completion": 1,
+    "visual-artifact-design": 1
   }
 }
