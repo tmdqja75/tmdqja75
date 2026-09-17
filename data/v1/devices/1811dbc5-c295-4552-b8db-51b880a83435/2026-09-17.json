@@ -1,0 +1,57 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 5203527,
+      "cache_write_tokens": 907630,
+      "headline_total": 67558,
+      "input_tokens": 184,
+      "output_tokens": 67374,
+      "reasoning_tokens": 0,
+      "session_count": 8,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 2554368,
+      "cache_write_tokens": 0,
+      "headline_total": 368977,
+      "input_tokens": 335118,
+      "output_tokens": 21716,
+      "reasoning_tokens": 12143,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "6abd3e86d61684c230fbd11369c885805e508993b7da889ece1cc3be507e95a1",
+  "date": "2026-09-17",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "codegraph": 2
+  },
+  "mcp_tools": {
+    "codegraph/codegraph_explore": 2
+  },
+  "models": {
+    "claude-opus-5": 67558,
+    "gpt-5.6-terra": 368977
+  },
+  "schema_version": 2,
+  "skills": {
+    "agent-browser": 1,
+    "hermes-kanban-operations": 2,
+    "humanize-korean": 2,
+    "test-driven-development": 1,
+    "using-superpowers": 1,
+    "verification-before-completion": 1,
+    "visual-artifact-design": 1
+  }
+}
