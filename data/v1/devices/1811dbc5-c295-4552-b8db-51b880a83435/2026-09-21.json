@@ -1,0 +1,54 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 40442965,
+      "cache_write_tokens": 995351,
+      "headline_total": 286014,
+      "input_tokens": 592,
+      "output_tokens": 285422,
+      "reasoning_tokens": 0,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 276480,
+      "cache_write_tokens": 0,
+      "headline_total": 60072,
+      "input_tokens": 57147,
+      "output_tokens": 1716,
+      "reasoning_tokens": 1209,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "6288c7e5b95806031287d8b54709ece9fe283f8564b3454ffb79918df4496cc3",
+  "date": "2026-09-21",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5": 286014,
+    "gpt-5.6-terra": 60072
+  },
+  "schema_version": 2,
+  "skills": {
+    "hermes-agent": 1,
+    "hermes-external-skills": 1,
+    "langfuse": 1,
+    "notion-cli": 1,
+    "personal-skill-authoring": 1,
+    "superpowers:brainstorming": 1,
+    "superpowers:systematic-debugging": 1,
+    "typesafe-ai": 1
+  }
+}
