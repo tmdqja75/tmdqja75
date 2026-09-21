@@ -1,0 +1,52 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 22534062,
+      "cache_write_tokens": 1254588,
+      "headline_total": 328371,
+      "input_tokens": 592,
+      "output_tokens": 327779,
+      "reasoning_tokens": 0,
+      "session_count": 8,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 2654336,
+      "cache_write_tokens": 0,
+      "headline_total": 588222,
+      "input_tokens": 555959,
+      "output_tokens": 26691,
+      "reasoning_tokens": 5572,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "8d550c53a2632272f1ff97c7c339bcf1b17f8c184690a8672ebb74d3ab392d3c",
+  "date": "2026-09-21",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5": 319608,
+    "claude-sonnet-5": 8763,
+    "gpt-5.6-sol": 588222
+  },
+  "schema_version": 2,
+  "skills": {
+    "(hidden)": 5,
+    "brainstorming": 1,
+    "grammar-checker": 1,
+    "job-posting-match": 1,
+    "superpowers:brainstorming": 1
+  }
+}
