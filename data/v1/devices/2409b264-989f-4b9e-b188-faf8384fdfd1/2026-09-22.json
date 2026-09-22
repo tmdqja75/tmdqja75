@@ -1,0 +1,59 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 16307456,
+      "cache_write_tokens": 0,
+      "headline_total": 805453,
+      "input_tokens": 672445,
+      "output_tokens": 96285,
+      "reasoning_tokens": 36723,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "dfbeff2e55c1fe941d745e81602dcead77188cc1e5a72494c916d043e2839adf",
+  "date": "2026-09-22",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "gpt-5.6-terra": 805453
+  },
+  "schema_version": 2,
+  "skills": {
+    "(hidden)": 2,
+    "brainstorming": 3,
+    "career-portfolio-strategy": 3,
+    "macos-computer-use": 2,
+    "media-content-workflows": 2,
+    "pdf": 1,
+    "presentation-artifacts": 3,
+    "productivity-workspace-automation": 1,
+    "quality-assurance-review-workflows": 4,
+    "software-development-lifecycle": 4,
+    "subagent-driven-development": 2,
+    "visual-design-artifacts": 1,
+    "writing-guidelines": 1,
+    "writing-plans": 1
+  }
+}
