@@ -21,24 +21,24 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 276480,
+      "cache_read_tokens": 1127936,
       "cache_write_tokens": 0,
-      "headline_total": 60072,
-      "input_tokens": 57147,
-      "output_tokens": 1716,
-      "reasoning_tokens": 1209,
-      "session_count": 1,
+      "headline_total": 174547,
+      "input_tokens": 153837,
+      "output_tokens": 12033,
+      "reasoning_tokens": 8677,
+      "session_count": 2,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "6288c7e5b95806031287d8b54709ece9fe283f8564b3454ffb79918df4496cc3",
+  "checksum": "189094997e6c0d3380a4e1abc255f6988e9031f58ac19eedec5284355cad520e",
   "date": "2026-09-21",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
     "claude-opus-5": 286014,
-    "gpt-5.6-terra": 60072
+    "gpt-5.6-terra": 174547
   },
   "schema_version": 2,
   "skills": {
