@@ -21,26 +21,27 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 1253728,
+      "cache_read_tokens": 1581920,
       "cache_write_tokens": 1340480,
-      "headline_total": 29516,
-      "input_tokens": 72,
-      "output_tokens": 22803,
-      "reasoning_tokens": 6641,
-      "session_count": 1,
+      "headline_total": 109021,
+      "input_tokens": 69107,
+      "output_tokens": 29352,
+      "reasoning_tokens": 10562,
+      "session_count": 2,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "b227c429e96044c523773a88a9ab22d95a9808e80474dd6f08d92031f16002d4",
+  "checksum": "641aa3761e6220534cf340b25f08ff7a7d1b72468258221a488bd45a081d4f4f",
   "date": "2026-10-01",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-haiku-4-5-20251001": 5641,
-    "claude-opus-5-5": 81596,
-    "claude-opus-5[1m]": 29516,
-    "claude-sonnet-5-5": 7428
+    "claude-haiku-4-5-20251001": 471564,
+    "claude-opus-5-5": 7330048,
+    "claude-opus-5[1m]": 2623724,
+    "claude-sonnet-5-5": 2191234,
+    "gpt-5.6-terra": 407697
   },
   "schema_version": 2,
   "skills": {

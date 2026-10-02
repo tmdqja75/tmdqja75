@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "1c041660b15397d27e6810cadba9ef5465fc0a7ef35590bd4c423f765f247f6a",
+  "checksum": "6389bf24b272f9139972bffbe63dc7484c11d03cfcc3190c1ddaa2ebf177e88f",
   "date": "2026-07-27",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -48,10 +48,10 @@
   },
   "models": {
     "<synthetic>": 0,
-    "anthropic/claude-sonnet-5": 45232,
-    "claude-opus-5": 268222,
-    "claude-sonnet-5": 224805,
-    "gpt-5.6-terra": 323720
+    "anthropic/claude-sonnet-5": 20581544,
+    "claude-opus-5": 38419085,
+    "claude-sonnet-5": 57809541,
+    "gpt-5.6-terra": 3557512
   },
   "schema_version": 2,
   "skills": {

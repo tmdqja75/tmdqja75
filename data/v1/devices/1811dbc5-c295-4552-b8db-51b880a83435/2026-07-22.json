@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "e1c28c9bc710295490b828eececceb58e148c07be5236ac4864751b495db895e",
+  "checksum": "5925bad6f575a5f24ee20a7677546d5f3d72ca1b39f45f1e78b8efb445956cae",
   "date": "2026-07-22",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -43,9 +43,9 @@
   },
   "models": {
     "<synthetic>": 0,
-    "claude-fable-5": 60212,
-    "claude-sonnet-5": 430939,
-    "gpt-5.6-terra": 216334
+    "claude-fable-5": 12658707,
+    "claude-sonnet-5": 47599175,
+    "gpt-5.6-terra": 3899150
   },
   "schema_version": 2,
   "skills": {

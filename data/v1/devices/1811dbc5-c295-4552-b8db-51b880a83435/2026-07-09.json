@@ -31,17 +31,17 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "1c8745bee9730b2f7dad214db60aa0b18878d4c95c2f39a7edd5e9ff4f0e435a",
+  "checksum": "0e2958b20e20dedaf0e3465cf08f3cf37841f4ab07d6dd4cc8bd6268e1d6822d",
   "date": "2026-07-09",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
     "<synthetic>": 0,
-    "claude-fable-5": 456249,
-    "claude-haiku-4-5-20251001": 2300,
-    "claude-sonnet-5": 188937,
-    "gpt-5.5": 2706787
+    "claude-fable-5": 28659141,
+    "claude-haiku-4-5-20251001": 256664,
+    "claude-sonnet-5": 25940391,
+    "gpt-5.5": 36509539
   },
   "schema_version": 2,
   "skills": {

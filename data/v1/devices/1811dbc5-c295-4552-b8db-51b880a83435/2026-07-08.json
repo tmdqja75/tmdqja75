@@ -31,13 +31,13 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "33091e5476a7423cbed403bc8d81ef9c8455b7e6d9cb5e919ed97612f0cc241e",
+  "checksum": "745d9fc92fed2d6542765b530968d26a145d534c72ea282bc8dd42c38d918c04",
   "date": "2026-07-08",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-5": 418287
+    "claude-sonnet-5": 23869667
   },
   "schema_version": 2,
   "skills": {}

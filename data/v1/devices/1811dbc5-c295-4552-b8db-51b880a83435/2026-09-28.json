@@ -31,17 +31,17 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "6ae60baf28bb9bc45457021a6a41078a423cbb58ed0b88c86a26e5176a178e61",
+  "checksum": "e0e26c3b024dfeb85008b19ed201df3e31726e648b473c15346d4973537ebd78",
   "date": "2026-09-28",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-opus-5": 205346,
-    "claude-opus-5-5": 399963,
-    "claude-opus-5[1m]": 839,
-    "claude-sonnet-5": 15221,
-    "claude-sonnet-5-5": 26943
+    "claude-opus-5": 33785987,
+    "claude-opus-5-5": 63260140,
+    "claude-opus-5[1m]": 98650,
+    "claude-sonnet-5": 2422678,
+    "claude-sonnet-5-5": 5388666
   },
   "schema_version": 2,
   "skills": {

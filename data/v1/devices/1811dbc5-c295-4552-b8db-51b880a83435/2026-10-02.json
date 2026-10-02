@@ -1,14 +1,14 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 0,
-      "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
+      "cache_read_tokens": 272513501,
+      "cache_write_tokens": 6072171,
+      "headline_total": 1038163,
+      "input_tokens": 1702,
+      "output_tokens": 1036461,
       "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "session_count": 6,
+      "source_status": "available_with_activity"
     },
     "codex": {
       "cache_read_tokens": 0,
@@ -21,27 +21,32 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 621568,
+      "cache_read_tokens": 0,
       "cache_write_tokens": 0,
-      "headline_total": 91336,
-      "input_tokens": 75776,
-      "output_tokens": 10457,
-      "reasoning_tokens": 5103,
-      "session_count": 2,
-      "source_status": "available_with_activity"
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
     }
   },
-  "checksum": "23a48a242d5fc670f8e65c8851e96d9fe356ace147ad7f926610a69bedaa560c",
-  "date": "2026-08-29",
+  "checksum": "2f8a172f198f88f0750eb90b9d66bae39cfe2746fb9ccff0f0f12be122367dfa",
+  "date": "2026-10-02",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "gpt-5.6-terra": 712904
+    "claude-opus-5-5": 278495411,
+    "claude-sonnet-5-5": 1128424
   },
   "schema_version": 2,
   "skills": {
-    "apple-macos-automation": 1,
-    "hermes-agent": 1
+    "artifact-design": 1,
+    "dataviz": 1,
+    "superpowers:brainstorming": 1,
+    "superpowers:executing-plans": 2,
+    "superpowers:finishing-a-development-branch": 1,
+    "superpowers:test-driven-development": 2
   }
 }

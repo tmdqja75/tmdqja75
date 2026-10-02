@@ -31,13 +31,13 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "303be4fb6506e9d2f46547c384df2c08a20c7983af869c1d8f012cf8022ff34f",
+  "checksum": "0a7bd676567aec669118b9a41310786aec1f1db054cc1d3d004adcaa9400e089",
   "date": "2026-09-18",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-opus-5": 33772
+    "claude-opus-5": 5847422
   },
   "schema_version": 2,
   "skills": {

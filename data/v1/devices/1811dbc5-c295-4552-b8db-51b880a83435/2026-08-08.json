@@ -31,13 +31,13 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "a10949d62d5de822fd5f6996bd373519f1f931b5d29f9593152e134c2f431ddf",
+  "checksum": "8931714dc4606c775001604805f33fb96edd085dcabad92935af5b6e2038bef0",
   "date": "2026-08-08",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "gpt-5.6-terra": 56552
+    "gpt-5.6-terra": 245992
   },
   "schema_version": 2,
   "skills": {}

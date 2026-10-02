@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "71f870ec94275634b4bf847bb01d59dd16603e042fa13620ea31987d396bd2a0",
+  "checksum": "7cbb850f7ed09519e748dee707707e9ffbac51fb51d7d78cdbf10c0b2a62c245",
   "date": "2026-09-15",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -41,9 +41,9 @@
     "codegraph/codegraph_explore": 2
   },
   "models": {
-    "claude-opus-5": 1678888,
-    "claude-sonnet-5": 106589,
-    "gpt-5.6-terra": 101742
+    "claude-opus-5": 262418062,
+    "claude-sonnet-5": 21220178,
+    "gpt-5.6-terra": 564078
   },
   "schema_version": 2,
   "skills": {

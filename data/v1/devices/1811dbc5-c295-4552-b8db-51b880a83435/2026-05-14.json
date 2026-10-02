@@ -31,13 +31,13 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "fc1d1d3b34f923bb4b0cc268297e49265be75ddff2ba791162b2ee1cb972877d",
+  "checksum": "428408f8c7b8f2229ea13ea2de74d4cf0aea6e7af3ce7c61573fab6dcc628afa",
   "date": "2026-05-14",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "qwen/qwen3.6-plus": 98155
+    "qwen/qwen3.6-plus": 1390443
   },
   "schema_version": 2,
   "skills": {}

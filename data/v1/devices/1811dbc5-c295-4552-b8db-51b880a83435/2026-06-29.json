@@ -31,15 +31,15 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "81b0988c3b2c6eed4221e71390a524f0dd3412e35abbfe59e5e6f7779786c271",
+  "checksum": "315a2f25bb1d262afe331760c2dee40f26a3484dd6707779dbcce4d470acf264",
   "date": "2026-06-29",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-4-6": 13382,
+    "claude-sonnet-4-6": 3086062,
     "ggml-org/gemma-4-E2B-it-GGUF": 29211,
-    "gpt-5.5": 432790
+    "gpt-5.5": 2945174
   },
   "schema_version": 2,
   "skills": {

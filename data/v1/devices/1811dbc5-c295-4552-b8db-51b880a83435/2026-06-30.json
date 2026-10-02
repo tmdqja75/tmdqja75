@@ -31,7 +31,7 @@
       "source_status": "source_unavailable"
     }
   },
-  "checksum": "20567c16d8026fd5aecf037dd14e6eeff42fd45120455c237d716f0862fcb075",
+  "checksum": "c5f707e28e445e95f41c2205c2e17c4beb05d9ccd90a4440f274c5147b964caa",
   "date": "2026-06-30",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -43,7 +43,7 @@
     "claude_ai_Notion/notion-search": 1
   },
   "models": {
-    "claude-sonnet-4-6": 63255
+    "claude-sonnet-4-6": 16478226
   },
   "schema_version": 2,
   "skills": {
