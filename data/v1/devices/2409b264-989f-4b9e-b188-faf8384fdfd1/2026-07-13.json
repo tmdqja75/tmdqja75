@@ -31,14 +31,14 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "0bf9992b5fdb91430e71b0949559fd140d8c1b54d44066a8107b7f8a13c29467",
+  "checksum": "4114427bac350ee48acbc2a1cb52af33cee5f37214a6b07dddc9f73390de1e47",
   "date": "2026-07-13",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "gpt-5.6-terra": 379071,
-    "nvidia/nemotron-3-ultra-550b-a55b:free": 656897
+    "gpt-5.6-terra": 2291391,
+    "nvidia/nemotron-3-ultra-550b-a55b:free": 3803393
   },
   "schema_version": 2,
   "skills": {

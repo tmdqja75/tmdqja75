@@ -31,7 +31,7 @@
       "source_status": "available_with_zero_activity"
     }
   },
-  "checksum": "bed59572407200d0409300097895dd7bcdd909d99c2adb89a923b8fbff022af1",
+  "checksum": "d8bfdecfa61665ca92ccb48924c135c13b3875d1d2361b6e1172493f64faa40e",
   "date": "2026-08-03",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {
@@ -43,9 +43,9 @@
   },
   "models": {
     "<synthetic>": 0,
-    "claude-haiku-4-5-20251001": 8282,
-    "claude-opus-5": 410083,
-    "claude-sonnet-5": 156922
+    "claude-haiku-4-5-20251001": 1491267,
+    "claude-opus-5": 59866797,
+    "claude-sonnet-5": 47466425
   },
   "schema_version": 2,
   "skills": {
