@@ -1,0 +1,61 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 105843597,
+      "cache_write_tokens": 3275837,
+      "headline_total": 578459,
+      "input_tokens": 1518,
+      "output_tokens": 576941,
+      "reasoning_tokens": 0,
+      "session_count": 7,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 5432320,
+      "cache_write_tokens": 0,
+      "headline_total": 466172,
+      "input_tokens": 419531,
+      "output_tokens": 40495,
+      "reasoning_tokens": 6146,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "49ec3ff4061de69e8a2da5eb185225e852428d9dfaad02388bbd68bd2abae182",
+  "date": "2026-10-07",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5-5": 109620403,
+    "claude-sonnet-5-5": 77490,
+    "gpt-6.1-sol": 5898492
+  },
+  "schema_version": 2,
+  "skills": {
+    "apple-app-automation": 1,
+    "autonomous-coding-agents": 1,
+    "brainstorming": 3,
+    "career-portfolio-strategy": 6,
+    "job-posting-scraper": 1,
+    "playwriter": 1,
+    "plugin-authoring": 2,
+    "presentation-artifacts": 7,
+    "superpowers:brainstorming": 2,
+    "superpowers:executing-plans": 1,
+    "superpowers:finishing-a-development-branch": 2,
+    "superpowers:test-driven-development": 1,
+    "superpowers:writing-plans": 1,
+    "writing-and-voice-editing": 2
+  }
+}
