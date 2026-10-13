@@ -1,0 +1,49 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 3608243,
+      "cache_write_tokens": 250554,
+      "headline_total": 25593,
+      "input_tokens": 146,
+      "output_tokens": 25447,
+      "reasoning_tokens": 0,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 8529044,
+      "cache_write_tokens": 693369,
+      "headline_total": 221666,
+      "input_tokens": 29165,
+      "output_tokens": 129456,
+      "reasoning_tokens": 63045,
+      "session_count": 5,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "36c73559b33c25adb1d0818b651108d1a1f057cfb1f498d9157234ecea108e4f",
+  "date": "2026-10-13",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5-5": 2466845,
+    "claude-opus-5-5[1m]": 9444079,
+    "claude-sonnet-5-5": 1417545
+  },
+  "schema_version": 2,
+  "skills": {
+    "hermes-agent": 1,
+    "shared-lgtm-python-compose": 1
+  }
+}
