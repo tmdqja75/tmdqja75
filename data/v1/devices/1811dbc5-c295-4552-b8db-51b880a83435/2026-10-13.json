@@ -31,7 +31,7 @@
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "25d78fef87a71e091933b824126517041630a60996a71b48450203984504af70",
+  "checksum": "c6295d82eb657fbadd67f9b52b8c25513977e9f9021b38cdc5f3df7707d3e206",
   "date": "2026-10-13",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
@@ -43,7 +43,9 @@
   },
   "schema_version": 2,
   "skills": {
+    "lastfm-scrobble-audit": 1,
     "playwriter": 1,
-    "superpowers:brainstorming": 1
+    "superpowers:brainstorming": 1,
+    "svg-diagram-authoring": 1
   }
 }
