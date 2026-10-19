@@ -1,14 +1,14 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 0,
-      "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
+      "cache_read_tokens": 472660,
+      "cache_write_tokens": 93052,
+      "headline_total": 2575,
+      "input_tokens": 20,
+      "output_tokens": 2555,
       "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "session_count": 2,
+      "source_status": "available_with_activity"
     },
     "codex": {
       "cache_read_tokens": 0,
@@ -31,12 +31,15 @@
       "source_status": "available_with_zero_activity"
     }
   },
-  "checksum": "a1c92d339ff408446282d7dda230dba1992ecfa763cf6e795454e9f1e7cd81fd",
+  "checksum": "582c8bba735d1a200f0e0b292e1f69b7dbd57fcdb2976b7e63ea634b1459a36e",
   "date": "2026-10-18",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
-  "models": {},
+  "models": {
+    "claude-haiku-5-5": 446284,
+    "claude-sonnet-5-5": 122003
+  },
   "schema_version": 2,
   "skills": {}
 }

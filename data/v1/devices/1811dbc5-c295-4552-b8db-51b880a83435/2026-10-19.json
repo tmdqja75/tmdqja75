@@ -1,0 +1,56 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 41394788,
+      "cache_write_tokens": 1114495,
+      "headline_total": 245203,
+      "input_tokens": 710,
+      "output_tokens": 244493,
+      "reasoning_tokens": 0,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "5d48490cc1591a7e074de704261c30aebd1c9ad7d4bd73e49371d1c8ca5d6a44",
+  "date": "2026-10-19",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "playwright": 12
+  },
+  "mcp_tools": {
+    "playwright/browser_click": 3,
+    "playwright/browser_close": 1,
+    "playwright/browser_navigate": 3,
+    "playwright/browser_resize": 1,
+    "playwright/browser_take_screenshot": 4
+  },
+  "models": {
+    "claude-haiku-5-5": 221734,
+    "claude-opus-5-5": 21182415,
+    "claude-sonnet-5-5": 21350337
+  },
+  "schema_version": 2,
+  "skills": {
+    "playwriter": 1
+  }
+}
