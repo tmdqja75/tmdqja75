@@ -21,17 +21,17 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 1671725,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "headline_total": 159610,
+      "input_tokens": 135227,
+      "output_tokens": 13488,
+      "reasoning_tokens": 10895,
+      "session_count": 2,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "5d48490cc1591a7e074de704261c30aebd1c9ad7d4bd73e49371d1c8ca5d6a44",
+  "checksum": "70de165d4ea18967f5f9b883151bf5820ca4fb0ebeedcbfa36236b95bf096465",
   "date": "2026-10-19",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -47,7 +47,8 @@
   "models": {
     "claude-haiku-5-5": 221734,
     "claude-opus-5-5": 21182415,
-    "claude-sonnet-5-5": 21350337
+    "claude-sonnet-5-5": 21350337,
+    "mercury-3": 1831335
   },
   "schema_version": 2,
   "skills": {
