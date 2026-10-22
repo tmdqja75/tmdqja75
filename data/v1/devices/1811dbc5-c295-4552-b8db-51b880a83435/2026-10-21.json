@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 141984,
-      "cache_write_tokens": 39234,
-      "headline_total": 2049,
-      "input_tokens": 6,
-      "output_tokens": 2043,
+      "cache_read_tokens": 2946041,
+      "cache_write_tokens": 257211,
+      "headline_total": 26716,
+      "input_tokens": 90,
+      "output_tokens": 26626,
       "reasoning_tokens": 0,
-      "session_count": 1,
+      "session_count": 3,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -31,12 +31,13 @@
       "source_status": "available_with_zero_activity"
     }
   },
-  "checksum": "50047abd2afa6ea619a66742a68d702dc43cccfba4bbc0cd1d51e307218d8d7b",
+  "checksum": "1cf3f237cfcfb01aa2839d98adfd8c5f383528ee04a2f429c501899ed35a7fb3",
   "date": "2026-10-21",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
+    "claude-opus-5-5": 3046701,
     "claude-sonnet-5-5": 183267
   },
   "schema_version": 2,
