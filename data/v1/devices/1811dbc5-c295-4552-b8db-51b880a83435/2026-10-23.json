@@ -1,0 +1,48 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 27213120,
+      "cache_write_tokens": 1084823,
+      "headline_total": 655801,
+      "input_tokens": 416,
+      "output_tokens": 655385,
+      "reasoning_tokens": 0,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "ddc0fde348512acb8af188247b2c326564237c4c12dca28913b514f69efa30e7",
+  "date": "2026-10-23",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "open-generative-ui": 2
+  },
+  "mcp_tools": {
+    "open-generative-ui/assemble_document": 2
+  },
+  "models": {
+    "claude-opus-5-5": 28953744
+  },
+  "schema_version": 2,
+  "skills": {}
+}
