@@ -1,0 +1,54 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 178925289,
+      "cache_write_tokens": 2687135,
+      "headline_total": 1104893,
+      "input_tokens": 1734,
+      "output_tokens": 1103159,
+      "reasoning_tokens": 0,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 17554909,
+      "cache_write_tokens": 804478,
+      "headline_total": 301260,
+      "input_tokens": 77261,
+      "output_tokens": 149684,
+      "reasoning_tokens": 74315,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "a630ae7adceaa1933744fedc0f510b4939bc539d5cc06461a8ad62bbc0bce2e0",
+  "date": "2026-10-26",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5-5": 156536678,
+    "claude-opus-5-5[1m]": 18400693,
+    "claude-sonnet-5-5": 26180639,
+    "gpt-5.6-terra": 259954
+  },
+  "schema_version": 2,
+  "skills": {
+    "docker-compose-service-maintenance": 2,
+    "software-development-lifecycle": 1,
+    "superpowers:brainstorming": 1,
+    "superpowers:executing-plans": 1,
+    "superpowers:test-driven-development": 1,
+    "superpowers:writing-plans": 1
+  }
+}
