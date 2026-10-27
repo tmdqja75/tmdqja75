@@ -1,0 +1,46 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 13297882,
+      "cache_write_tokens": 654884,
+      "headline_total": 208276,
+      "input_tokens": 338,
+      "output_tokens": 207938,
+      "reasoning_tokens": 0,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "234a8eb58ac6b14ad345f5ac8d2f16b092a19a0104d2ec02b88c892daa652427",
+  "date": "2026-10-27",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5-5": 14161042
+  },
+  "schema_version": 2,
+  "skills": {
+    "superpowers:brainstorming": 1
+  }
+}
