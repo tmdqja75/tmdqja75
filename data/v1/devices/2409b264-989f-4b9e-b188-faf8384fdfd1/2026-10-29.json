@@ -1,0 +1,53 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 68466313,
+      "cache_write_tokens": 3022686,
+      "headline_total": 933930,
+      "input_tokens": 1380,
+      "output_tokens": 932550,
+      "reasoning_tokens": 0,
+      "session_count": 14,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 12246784,
+      "cache_write_tokens": 0,
+      "headline_total": 13324330,
+      "input_tokens": 13229091,
+      "output_tokens": 78497,
+      "reasoning_tokens": 16742,
+      "session_count": 12,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "3fb902da091ee04f09c61bd917b4c19f19885fb8cbd6153899ad56559829d74a",
+  "date": "2026-10-29",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "<synthetic>": 0,
+    "claude-haiku-5-5": 965533,
+    "claude-opus-5-5": 54963102,
+    "claude-sonnet-5-5": 16494294,
+    "gpt-5.6-luna": 360723,
+    "gpt-5.6-terra": 12963607
+  },
+  "schema_version": 2,
+  "skills": {
+    "korean-spell-check": 1,
+    "playwriter": 1,
+    "superpowers:systematic-debugging": 1
+  }
+}
