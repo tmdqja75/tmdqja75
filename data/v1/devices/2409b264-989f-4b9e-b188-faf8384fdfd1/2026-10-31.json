@@ -1,0 +1,53 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 46237324,
+      "cache_write_tokens": 819811,
+      "headline_total": 361497,
+      "input_tokens": 732,
+      "output_tokens": 360765,
+      "reasoning_tokens": 0,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "169f1f4b42bf6f32930aeb867404a6d1610af28e32cc60a06a2f3a38f82a45de",
+  "date": "2026-10-31",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {
+    "genoffice": 2
+  },
+  "mcp_tools": {
+    "genoffice/guide": 2
+  },
+  "models": {
+    "claude-opus-5-5": 47418632
+  },
+  "schema_version": 2,
+  "skills": {
+    "artifact-capabilities": 1,
+    "job-posting-scraper": 1,
+    "playwriter": 1,
+    "superpowers:brainstorming": 1
+  }
+}
