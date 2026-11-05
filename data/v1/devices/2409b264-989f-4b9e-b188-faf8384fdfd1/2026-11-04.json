@@ -21,28 +21,31 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 927616,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "source_unavailable"
+      "headline_total": 211391,
+      "input_tokens": 202326,
+      "output_tokens": 6759,
+      "reasoning_tokens": 2306,
+      "session_count": 1,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "da9a53c9b45b13662ad3a2da209d9597dec3167be33e2283316a05ea08f99781",
+  "checksum": "e7d971a51a1e3c6001d41591973c26c2e0cf0147e8d26238150c9ef1e1892cb1",
   "date": "2026-11-04",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
     "claude-opus-5-5": 69240490,
-    "claude-sonnet-5-5": 1380974
+    "claude-sonnet-5-5": 1380974,
+    "gpt-6.1-terra": 1139007
   },
   "schema_version": 2,
   "skills": {
     "company-research": 1,
+    "external-platform-automation": 1,
+    "job-posting-scraper": 1,
     "playwriter": 1
   }
 }
