@@ -1,24 +1,24 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 344810770,
-      "cache_write_tokens": 3106337,
-      "headline_total": 1734700,
-      "input_tokens": 2190,
-      "output_tokens": 1732510,
+      "cache_read_tokens": 477383122,
+      "cache_write_tokens": 6490104,
+      "headline_total": 2331742,
+      "input_tokens": 3286,
+      "output_tokens": 2328456,
       "reasoning_tokens": 0,
-      "session_count": 5,
+      "session_count": 6,
       "source_status": "available_with_activity"
     },
     "codex": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 11421312,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "headline_total": 11602574,
+      "input_tokens": 11585111,
+      "output_tokens": 16902,
+      "reasoning_tokens": 561,
+      "session_count": 1,
+      "source_status": "available_with_activity"
     },
     "hermes_agent": {
       "cache_read_tokens": 0,
@@ -28,22 +28,24 @@
       "output_tokens": 0,
       "reasoning_tokens": 0,
       "session_count": 0,
-      "source_status": "source_unavailable"
+      "source_status": "available_with_zero_activity"
     }
   },
-  "checksum": "07f986f5d1e676b98d34e46f21e14302191e67d048f7c49020477b61ad65f69e",
+  "checksum": "68047a07db8a514bf2b975f03b54eb4120fc6744f42caf8b3ffeba396dd1773d",
   "date": "2026-11-05",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-opus-5-5": 52828907,
-    "claude-sonnet-5-5": 296822900
+    "claude-opus-5-5": 65154958,
+    "claude-sonnet-5-5": 421050010,
+    "gpt-6.1-terra": 11602574
   },
   "schema_version": 2,
   "skills": {
     "company-research": 1,
     "dataviz": 1,
-    "playwriter": 1
+    "playwriter": 1,
+    "superpowers:brainstorming": 1
   }
 }
