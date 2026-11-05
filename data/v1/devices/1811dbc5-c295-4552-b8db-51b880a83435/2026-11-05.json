@@ -1,0 +1,49 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 78386723,
+      "cache_write_tokens": 1036450,
+      "headline_total": 291632,
+      "input_tokens": 830,
+      "output_tokens": 290802,
+      "reasoning_tokens": 0,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 1778304,
+      "cache_write_tokens": 0,
+      "headline_total": 1984656,
+      "input_tokens": 1960811,
+      "output_tokens": 16931,
+      "reasoning_tokens": 6914,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 3712,
+      "cache_write_tokens": 0,
+      "headline_total": 19049,
+      "input_tokens": 19020,
+      "output_tokens": 29,
+      "reasoning_tokens": 0,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "27c84324d0087b35756821cf585ed43a192530d6d407a84197820f2c43cd587b",
+  "date": "2026-11-05",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5-5": 78892383,
+    "claude-sonnet-5-5": 822422,
+    "gpt-5.6-terra": 1984656,
+    "gpt-6.1-terra": 22761
+  },
+  "schema_version": 2,
+  "skills": {
+    "humanize-korean": 1
+  }
+}
