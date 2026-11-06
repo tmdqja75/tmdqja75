@@ -21,17 +21,17 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 3076736,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "available_with_zero_activity"
+      "headline_total": 227044,
+      "input_tokens": 217008,
+      "output_tokens": 7984,
+      "reasoning_tokens": 2052,
+      "session_count": 1,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "68047a07db8a514bf2b975f03b54eb4120fc6744f42caf8b3ffeba396dd1773d",
+  "checksum": "1a40840e5020516d74edf12cb1667f2767b2aabbfb5e705d594ac87e43b3b247",
   "date": "2026-11-05",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
@@ -39,13 +39,15 @@
   "models": {
     "claude-opus-5-5": 65154958,
     "claude-sonnet-5-5": 421050010,
-    "gpt-6.1-terra": 11602574
+    "gpt-6.1-terra": 14906354
   },
   "schema_version": 2,
   "skills": {
     "company-research": 1,
     "dataviz": 1,
+    "job-posting-scraper": 1,
     "playwriter": 1,
+    "productivity-workspace-automation": 1,
     "superpowers:brainstorming": 1
   }
 }

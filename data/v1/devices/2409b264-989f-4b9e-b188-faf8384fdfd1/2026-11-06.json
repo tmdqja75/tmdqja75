@@ -1,0 +1,52 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 39346590,
+      "cache_write_tokens": 674380,
+      "headline_total": 289483,
+      "input_tokens": 480,
+      "output_tokens": 289003,
+      "reasoning_tokens": 0,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 1519232,
+      "cache_write_tokens": 0,
+      "headline_total": 1627882,
+      "input_tokens": 1618666,
+      "output_tokens": 8427,
+      "reasoning_tokens": 789,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 1216512,
+      "cache_write_tokens": 0,
+      "headline_total": 86435,
+      "input_tokens": 82579,
+      "output_tokens": 3563,
+      "reasoning_tokens": 293,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "69564279ad53a2a31f51cb6cf57f6fcb376cbda0fabecf2f134aadd5fc96b51e",
+  "date": "2026-11-06",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5-5": 40310453,
+    "gpt-6.1-terra": 2930829
+  },
+  "schema_version": 2,
+  "skills": {
+    "biz-health-check": 1,
+    "company-research": 1,
+    "external-platform-automation": 2,
+    "hermes-agent": 1,
+    "naver-news-search": 1,
+    "software-development-lifecycle": 1
+  }
+}
