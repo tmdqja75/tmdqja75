@@ -21,31 +21,32 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 1216512,
+      "cache_read_tokens": 1986944,
       "cache_write_tokens": 0,
-      "headline_total": 86435,
-      "input_tokens": 82579,
-      "output_tokens": 3563,
-      "reasoning_tokens": 293,
-      "session_count": 1,
+      "headline_total": 274225,
+      "input_tokens": 260690,
+      "output_tokens": 11681,
+      "reasoning_tokens": 1854,
+      "session_count": 2,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "69564279ad53a2a31f51cb6cf57f6fcb376cbda0fabecf2f134aadd5fc96b51e",
+  "checksum": "455071c30f595044fa9f2340b334943cba0d0aa36931d79044274dc1a21d5892",
   "date": "2026-11-06",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
     "claude-sonnet-5-5": 40310453,
-    "gpt-6.1-terra": 2930829
+    "gpt-6.1-terra": 3889051
   },
   "schema_version": 2,
   "skills": {
     "biz-health-check": 1,
     "company-research": 1,
-    "external-platform-automation": 2,
+    "external-platform-automation": 3,
     "hermes-agent": 1,
+    "job-posting-scraper": 1,
     "naver-news-search": 1,
     "software-development-lifecycle": 1
   }
