@@ -21,17 +21,17 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 852096,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "source_unavailable"
+      "headline_total": 190201,
+      "input_tokens": 181635,
+      "output_tokens": 6807,
+      "reasoning_tokens": 1759,
+      "session_count": 1,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "0bc5921187561b4c04d7e06523fbd345b5c43331c8ff57a04d5121f2d6de4ee0",
+  "checksum": "31703ae1a78c51ea266b012c0219125035d2a8e7141e40a2407d16b4d785a7bd",
   "date": "2026-11-09",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
@@ -39,8 +39,12 @@
   "models": {
     "claude-haiku-5-5": 205910,
     "claude-opus-5-5": 15917066,
-    "claude-sonnet-5-5": 408341
+    "claude-sonnet-5-5": 408341,
+    "gpt-6.1-terra": 1042297
   },
   "schema_version": 2,
-  "skills": {}
+  "skills": {
+    "job-posting-scraper": 1,
+    "productivity-workspace-automation": 1
+  }
 }
