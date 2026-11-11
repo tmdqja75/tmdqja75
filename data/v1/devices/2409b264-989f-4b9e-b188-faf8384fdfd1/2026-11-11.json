@@ -1,0 +1,48 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 49721193,
+      "cache_write_tokens": 1049355,
+      "headline_total": 295670,
+      "input_tokens": 728,
+      "output_tokens": 294942,
+      "reasoning_tokens": 0,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 1200000,
+      "cache_write_tokens": 0,
+      "headline_total": 1257054,
+      "input_tokens": 1248353,
+      "output_tokens": 8507,
+      "reasoning_tokens": 194,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "source_unavailable"
+    }
+  },
+  "checksum": "c96151a62d37941733ed25d8b61a474e1d29d070917a436ff5109da125f4eeb6",
+  "date": "2026-11-11",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5-5": 51066218,
+    "gpt-6.1-terra": 1257054
+  },
+  "schema_version": 2,
+  "skills": {
+    "company-research": 1,
+    "playwriter": 2
+  }
+}
