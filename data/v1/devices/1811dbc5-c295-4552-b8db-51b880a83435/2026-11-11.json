@@ -1,0 +1,56 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 62781170,
+      "cache_write_tokens": 1575690,
+      "headline_total": 443961,
+      "input_tokens": 1292,
+      "output_tokens": 442669,
+      "reasoning_tokens": 0,
+      "session_count": 9,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "ead82eb9a91b0e70886ea0463df8dd48d5500815cc3f00d2d6137eb0fb1dd599",
+  "date": "2026-11-11",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "notion": 34
+  },
+  "mcp_tools": {
+    "notion/authenticate": 1,
+    "notion/notion-create-pages": 5,
+    "notion/notion-fetch": 11,
+    "notion/notion-get-self": 3,
+    "notion/notion-search": 3,
+    "notion/notion-update-page": 11
+  },
+  "models": {
+    "claude-opus-5-5": 4658067,
+    "claude-sonnet-5-5": 60142754
+  },
+  "schema_version": 2,
+  "skills": {
+    "langfuse": 2
+  }
+}
