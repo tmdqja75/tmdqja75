@@ -1,11 +1,11 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 136921371,
-      "cache_write_tokens": 3346450,
-      "headline_total": 2153987,
-      "input_tokens": 1548,
-      "output_tokens": 2152439,
+      "cache_read_tokens": 157819394,
+      "cache_write_tokens": 4660208,
+      "headline_total": 2498001,
+      "input_tokens": 1772,
+      "output_tokens": 2496229,
       "reasoning_tokens": 0,
       "session_count": 7,
       "source_status": "available_with_activity"
@@ -31,7 +31,7 @@
       "source_status": "available_with_zero_activity"
     }
   },
-  "checksum": "7a9fdeedad28388f10a3beecc09c466b8d5ce2506a6eef430f66c4ee25325ae3",
+  "checksum": "9abeebd2cec106749ae0f632d769a479403bb8b6fdc74b050dcd7ba25cf6dd36",
   "date": "2026-11-12",
   "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
   "mcp_servers": {
@@ -50,7 +50,7 @@
     "playwright/browser_take_screenshot": 9
   },
   "models": {
-    "claude-opus-5-5": 142421808
+    "claude-opus-5-5": 164977603
   },
   "schema_version": 2,
   "skills": {
