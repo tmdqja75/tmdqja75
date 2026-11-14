@@ -21,26 +21,29 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 854272,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "source_unavailable"
+      "headline_total": 198639,
+      "input_tokens": 190512,
+      "output_tokens": 6608,
+      "reasoning_tokens": 1519,
+      "session_count": 1,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "b9998761a794847bdb2a1b2e884a6158fa865790c2e4a3cae6699a19881a1cc9",
+  "checksum": "3f63e7d89a63b46ae7b8ea74b2f8791095d2e0556286194dc57f76bdef5257c3",
   "date": "2026-11-13",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-sonnet-5-5": 3628034
+    "claude-sonnet-5-5": 3628034,
+    "gpt-6.1-terra": 1052911
   },
   "schema_version": 2,
   "skills": {
-    "artifact-design": 1
+    "artifact-design": 1,
+    "job-posting-scraper": 1,
+    "productivity-workspace-automation": 1
   }
 }
