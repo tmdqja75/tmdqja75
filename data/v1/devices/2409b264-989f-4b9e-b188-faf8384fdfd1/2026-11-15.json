@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 1441074,
-      "cache_write_tokens": 192872,
-      "headline_total": 8107,
-      "input_tokens": 64,
-      "output_tokens": 8043,
+      "cache_read_tokens": 9336958,
+      "cache_write_tokens": 519290,
+      "headline_total": 89610,
+      "input_tokens": 276,
+      "output_tokens": 89334,
       "reasoning_tokens": 0,
-      "session_count": 3,
+      "session_count": 5,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,25 +21,29 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 949888,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "source_unavailable"
+      "headline_total": 188125,
+      "input_tokens": 179698,
+      "output_tokens": 6923,
+      "reasoning_tokens": 1504,
+      "session_count": 1,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "4f19cf0341e8b86bff09699bbaebc00c356e39cf708dde9c24daeaae46f89700",
+  "checksum": "bc569404a45f94e9266b56604503323887d383ce4e516da0ae368a3e74b79b1b",
   "date": "2026-11-15",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-opus-5-5": 102794,
-    "claude-sonnet-5-5": 1539259
+    "claude-opus-5-5": 2014393,
+    "claude-sonnet-5-5": 7931465,
+    "gpt-6.1-terra": 1138013
   },
   "schema_version": 2,
-  "skills": {}
+  "skills": {
+    "job-posting-match": 1,
+    "job-posting-scraper": 1
+  }
 }
