@@ -1,0 +1,53 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 147438914,
+      "cache_write_tokens": 2477584,
+      "headline_total": 1134670,
+      "input_tokens": 1104,
+      "output_tokens": 1133566,
+      "reasoning_tokens": 0,
+      "session_count": 2,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "b6e2c2f8e3350a5dda32bac79b6c3a99a1e66ee4daa9ae366e44a63f71edc134",
+  "date": "2026-11-16",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "playwriter_latest": 1
+  },
+  "mcp_tools": {
+    "playwriter_latest/execute": 1
+  },
+  "models": {
+    "claude-opus-5-5": 151051168
+  },
+  "schema_version": 2,
+  "skills": {
+    "artifact-capabilities": 1,
+    "claude-api": 1,
+    "superpowers:brainstorming": 1,
+    "superpowers:writing-plans": 1
+  }
+}
