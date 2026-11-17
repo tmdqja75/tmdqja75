@@ -1,0 +1,50 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 34867532,
+      "cache_write_tokens": 1610728,
+      "headline_total": 636667,
+      "input_tokens": 850,
+      "output_tokens": 635817,
+      "reasoning_tokens": 0,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "d62de0e0baec03f261ca092ca52320d750c9c86da21acf727cc8b98fea204418",
+  "date": "2026-11-17",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5-5": 20466370,
+    "claude-sonnet-5-5": 16648557
+  },
+  "schema_version": 2,
+  "skills": {
+    "langchain-fundamentals": 1,
+    "langfuse": 3,
+    "langgraph-fundamentals": 1,
+    "playwriter": 1
+  }
+}
