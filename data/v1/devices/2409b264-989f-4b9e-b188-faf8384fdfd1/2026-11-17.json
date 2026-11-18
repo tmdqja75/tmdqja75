@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 531231,
-      "cache_write_tokens": 54021,
-      "headline_total": 3551,
-      "input_tokens": 26,
-      "output_tokens": 3525,
+      "cache_read_tokens": 4712431,
+      "cache_write_tokens": 249783,
+      "headline_total": 51061,
+      "input_tokens": 134,
+      "output_tokens": 50927,
       "reasoning_tokens": 0,
-      "session_count": 1,
+      "session_count": 2,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,24 +21,25 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 2581248,
+      "cache_read_tokens": 3299968,
       "cache_write_tokens": 0,
-      "headline_total": 242224,
-      "input_tokens": 231541,
-      "output_tokens": 9595,
-      "reasoning_tokens": 1088,
-      "session_count": 2,
+      "headline_total": 398918,
+      "input_tokens": 382818,
+      "output_tokens": 14174,
+      "reasoning_tokens": 1926,
+      "session_count": 3,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "1abee4d2a384e11fe779b2fdfa4e2b0bf63286e4dc096f58f9b382c198cae599",
+  "checksum": "430685167f968b2c9f4f73e21d70e529bfa489ac5964438ceb8dcbd02158b5c0",
   "date": "2026-11-17",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
+    "claude-opus-5-5": 4424472,
     "claude-sonnet-5-5": 588803,
-    "gpt-6.1-terra": 2823472
+    "gpt-6.1-terra": 3698886
   },
   "schema_version": 2,
   "skills": {
@@ -47,6 +48,8 @@
     "github-workflows": 1,
     "graphify": 1,
     "hermes-agent": 1,
+    "job-posting-match": 1,
+    "job-posting-scraper": 1,
     "software-development-lifecycle": 3
   }
 }
