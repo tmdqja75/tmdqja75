@@ -1,13 +1,13 @@
 {
   "agents": {
     "claude_code": {
-      "cache_read_tokens": 87913843,
-      "cache_write_tokens": 1223979,
-      "headline_total": 637204,
-      "input_tokens": 1251,
-      "output_tokens": 635953,
+      "cache_read_tokens": 94915158,
+      "cache_write_tokens": 1513568,
+      "headline_total": 709230,
+      "input_tokens": 1430,
+      "output_tokens": 707800,
       "reasoning_tokens": 0,
-      "session_count": 5,
+      "session_count": 6,
       "source_status": "available_with_activity"
     },
     "codex": {
@@ -21,30 +21,34 @@
       "source_status": "available_with_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 5998976,
+      "cache_read_tokens": 7153664,
       "cache_write_tokens": 0,
-      "headline_total": 430521,
-      "input_tokens": 399569,
-      "output_tokens": 27916,
-      "reasoning_tokens": 3036,
-      "session_count": 6,
+      "headline_total": 616352,
+      "input_tokens": 576921,
+      "output_tokens": 35063,
+      "reasoning_tokens": 4368,
+      "session_count": 7,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "bf7c0c176b214e52e660600b31cedc085965639873cdfb2f1abe9a0fdecefba7",
+  "checksum": "9a01049a2df001b4cba19fdb6c7db665afb0b36d54fb3f1afa828ced7c7cb30f",
   "date": "2026-11-18",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
-    "claude-opus-5-5": 77531888,
-    "claude-sonnet-5-5": 12243138,
-    "gpt-6.1-terra": 7006040
+    "claude-opus-5-5": 81404621,
+    "claude-sonnet-5-5": 15733335,
+    "gpt-6.1-terra": 8346559
   },
   "schema_version": 2,
   "skills": {
+    "dataviz": 1,
     "devops:docker-compose-service-maintenance": 1,
+    "geeknews-search": 1,
     "graphify": 5,
+    "job-posting-match": 1,
+    "job-posting-scraper": 1,
     "realtime-transit-integration": 4,
     "reitti-place-visit-editing": 9,
     "software-development-lifecycle": 5,
