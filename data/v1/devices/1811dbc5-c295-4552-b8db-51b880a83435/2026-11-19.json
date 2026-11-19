@@ -1,0 +1,59 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 91684182,
+      "cache_write_tokens": 2634705,
+      "headline_total": 436636,
+      "input_tokens": 1060,
+      "output_tokens": 435576,
+      "reasoning_tokens": 0,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 646272,
+      "cache_write_tokens": 0,
+      "headline_total": 737780,
+      "input_tokens": 732939,
+      "output_tokens": 4562,
+      "reasoning_tokens": 279,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "b23994e24e40c6be5754d15bd349062452ee91bf9e6334ded91374f5c771def9",
+  "date": "2026-11-19",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "pinky": 16
+  },
+  "mcp_tools": {
+    "pinky/phone_apps": 2,
+    "pinky/phone_connect": 3,
+    "pinky/phone_launch": 1,
+    "pinky/phone_observe": 1,
+    "pinky/phone_read_list": 2,
+    "pinky/phone_release": 3,
+    "pinky/phone_tap": 3,
+    "pinky/phone_type": 1
+  },
+  "models": {
+    "claude-opus-5-5": 91933357,
+    "claude-sonnet-5-5": 2822166,
+    "gpt-6.1-terra": 737780
+  },
+  "schema_version": 2,
+  "skills": {
+    "playwriter": 1
+  }
+}
