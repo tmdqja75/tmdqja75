@@ -1,0 +1,44 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 386012,
+      "cache_write_tokens": 94347,
+      "headline_total": 4903,
+      "input_tokens": 20,
+      "output_tokens": 4883,
+      "reasoning_tokens": 0,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    }
+  },
+  "checksum": "2e47b7ff3097b6ab7aff645a54f515f89e5cff4f562e2f8bfd933edbfe64c3af",
+  "date": "2026-11-20",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-sonnet-5-5": 485262
+  },
+  "schema_version": 2,
+  "skills": {}
+}
