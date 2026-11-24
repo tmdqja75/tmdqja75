@@ -1,0 +1,62 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 63769651,
+      "cache_write_tokens": 1000891,
+      "headline_total": 175207,
+      "input_tokens": 762,
+      "output_tokens": 174445,
+      "reasoning_tokens": 0,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 49152,
+      "cache_write_tokens": 0,
+      "headline_total": 22933,
+      "input_tokens": 22796,
+      "output_tokens": 137,
+      "reasoning_tokens": 0,
+      "session_count": 3,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "c3e0388cb17004941232e7c364972a592b2ecfe059d97718dd1f3c16bc5c6d27",
+  "date": "2026-11-24",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {
+    "plugin_runpod_runpod": 56
+  },
+  "mcp_tools": {
+    "plugin_runpod_runpod/create-pod": 4,
+    "plugin_runpod_runpod/delete-pod": 1,
+    "plugin_runpod_runpod/describe-tool": 2,
+    "plugin_runpod_runpod/exec-pod": 18,
+    "plugin_runpod_runpod/get-capacity": 6,
+    "plugin_runpod_runpod/get-pod": 3,
+    "plugin_runpod_runpod/list-data-centers": 1,
+    "plugin_runpod_runpod/list-gpu-types": 3,
+    "plugin_runpod_runpod/stream-pod-logs": 15,
+    "plugin_runpod_runpod/update-pod": 3
+  },
+  "models": {
+    "claude-opus-5-5": 64723531,
+    "claude-sonnet-5-5": 222218,
+    "qwen3.8-flash-next-q2_0": 72085
+  },
+  "schema_version": 2,
+  "skills": {
+    "runpod:runpod-mcp": 1,
+    "runpod:runpod-pod-deploy": 1
+  }
+}
