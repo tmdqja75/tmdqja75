@@ -1,0 +1,62 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 49346593,
+      "cache_write_tokens": 1619929,
+      "headline_total": 423527,
+      "input_tokens": 875,
+      "output_tokens": 422652,
+      "reasoning_tokens": 0,
+      "session_count": 6,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 207705,
+      "cache_write_tokens": 0,
+      "headline_total": 91923,
+      "input_tokens": 87814,
+      "output_tokens": 4109,
+      "reasoning_tokens": 0,
+      "session_count": 4,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "d4d8b89873e274a7bc719ed9478eebf81517d16e640bf5ac1b7589fe4d94960b",
+  "date": "2026-11-24",
+  "device_id": "1811dbc5-c295-4552-b8db-51b880a83435",
+  "mcp_servers": {
+    "runpod": 29
+  },
+  "mcp_tools": {
+    "runpod/create-pod": 1,
+    "runpod/describe-tool": 3,
+    "runpod/get-balance": 3,
+    "runpod/get-gpu-type": 6,
+    "runpod/get-pod": 2,
+    "runpod/list-gpu-types": 1,
+    "runpod/list-guides": 2,
+    "runpod/pod-action": 1,
+    "runpod/read-guide": 2,
+    "runpod/stream-pod-logs": 6,
+    "runpod/update-pod": 2
+  },
+  "models": {
+    "/workspace/models/Inkling-2-Mini-UD-Q8_K_XL.gguf": 270438,
+    "claude-opus-5-5": 51390049,
+    "inkling-2-mini": 29190
+  },
+  "schema_version": 2,
+  "skills": {
+    "artifact-diagramming": 3
+  }
+}
