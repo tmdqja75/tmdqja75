@@ -21,25 +21,28 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 0,
+      "cache_read_tokens": 630784,
       "cache_write_tokens": 0,
-      "headline_total": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "reasoning_tokens": 0,
-      "session_count": 0,
-      "source_status": "source_unavailable"
+      "headline_total": 123391,
+      "input_tokens": 116589,
+      "output_tokens": 5368,
+      "reasoning_tokens": 1434,
+      "session_count": 1,
+      "source_status": "available_with_activity"
     }
   },
-  "checksum": "2b184bbae84cfe9d6e7cbd91737b3999c725f0886ab4e3f4f7a289938481a031",
+  "checksum": "519e120e109591674da6f127ade7a896d867df7dc1c1eac2c4c3b4fae9d7c5af",
   "date": "2026-11-25",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
     "claude-opus-5-5": 25611290,
-    "claude-sonnet-5-5": 3076820
+    "claude-sonnet-5-5": 3076820,
+    "gpt-6.1-terra": 754175
   },
   "schema_version": 2,
-  "skills": {}
+  "skills": {
+    "daily-ai-agent-job-search": 1
+  }
 }
