@@ -1,0 +1,59 @@
+{
+  "agents": {
+    "claude_code": {
+      "cache_read_tokens": 641830,
+      "cache_write_tokens": 190487,
+      "headline_total": 1564,
+      "input_tokens": 14,
+      "output_tokens": 1550,
+      "reasoning_tokens": 0,
+      "session_count": 1,
+      "source_status": "available_with_activity"
+    },
+    "codex": {
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "headline_total": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "session_count": 0,
+      "source_status": "available_with_zero_activity"
+    },
+    "hermes_agent": {
+      "cache_read_tokens": 10820096,
+      "cache_write_tokens": 0,
+      "headline_total": 903489,
+      "input_tokens": 843168,
+      "output_tokens": 53937,
+      "reasoning_tokens": 6384,
+      "session_count": 10,
+      "source_status": "available_with_activity"
+    }
+  },
+  "checksum": "e3f2578fb4a696bc2fcbe286edf4092133101fcd46dbfc548abcb22c2635138d",
+  "date": "2026-11-27",
+  "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
+  "mcp_servers": {},
+  "mcp_tools": {},
+  "models": {
+    "claude-opus-5-5": 833881,
+    "gpt-6.1-terra": 11723585
+  },
+  "schema_version": 2,
+  "skills": {
+    "apple-app-automation": 1,
+    "apple-calendar": 1,
+    "brainstorming": 3,
+    "external-platform-automation": 6,
+    "graphify": 2,
+    "hermes-agent": 6,
+    "hwp": 4,
+    "microsoft-office": 2,
+    "productivity-workspace-automation": 1,
+    "productivity:microsoft-office": 1,
+    "research-workflows": 2,
+    "rhwp-edit": 5,
+    "unsloth": 1
+  }
+}
