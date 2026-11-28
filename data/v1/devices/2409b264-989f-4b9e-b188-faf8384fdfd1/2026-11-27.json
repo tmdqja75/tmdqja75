@@ -21,30 +21,31 @@
       "source_status": "available_with_zero_activity"
     },
     "hermes_agent": {
-      "cache_read_tokens": 10820096,
+      "cache_read_tokens": 11341568,
       "cache_write_tokens": 0,
-      "headline_total": 903489,
-      "input_tokens": 843168,
-      "output_tokens": 53937,
-      "reasoning_tokens": 6384,
-      "session_count": 10,
+      "headline_total": 1036551,
+      "input_tokens": 970260,
+      "output_tokens": 58654,
+      "reasoning_tokens": 7637,
+      "session_count": 11,
       "source_status": "available_with_activity"
     }
   },
-  "checksum": "e3f2578fb4a696bc2fcbe286edf4092133101fcd46dbfc548abcb22c2635138d",
+  "checksum": "67f3f953c14a1ee28616347dd3f7b9d9c0341af7debc9b706381265b7196fa99",
   "date": "2026-11-27",
   "device_id": "2409b264-989f-4b9e-b188-faf8384fdfd1",
   "mcp_servers": {},
   "mcp_tools": {},
   "models": {
     "claude-opus-5-5": 833881,
-    "gpt-6.1-terra": 11723585
+    "gpt-6.1-terra": 12378119
   },
   "schema_version": 2,
   "skills": {
     "apple-app-automation": 1,
     "apple-calendar": 1,
     "brainstorming": 3,
+    "daily-ai-agent-job-search": 1,
     "external-platform-automation": 6,
     "graphify": 2,
     "hermes-agent": 6,
